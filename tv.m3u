@@ -362,6 +362,7 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=320&f.m3u8
 
 
 
+
 #EXTM3U
 *** NACIONALES ***
 #EXTINF:-1, AZTECA UNO HD
@@ -743,109 +744,376 @@ http://roedor.xyz/regiomx20x/tp.php?c=2402&p=3&k=srregio&f=.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1, AZ CLIC HD
+http://cinematicket.club/tp2.php?c=11&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, LAS ESTRELLAS
+http://cinematicket.club/tp2.php?c=17&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, CANAL 5
+http://cinematicket.club/tp2.php?c=20&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, AZTECA 7
+http://cinematicket.club/tp2.php?c=21&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, NU9VE
+http://cinematicket.club/tp2.php?c=24&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, ONCE
+http://cinematicket.club/tp2.php?c=25&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, AZTECA UNO
+http://cinematicket.club/tp2.php?c=27&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, TELEFORMULA SD
+http://cinematicket.club/tp2.php?c=32&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, MEXIQUENSE TV
+http://cinematicket.club/tp2.php?c=44&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, AZ CORAZON 
+http://cinematicket.club/tp2.php?c=70&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, AZ MUNDO
+http://cinematicket.club/tp2.php?c=84&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, AZTECA 7 HD 
+http://cinematicket.club/tp2.php?c=317&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, AZTECA 7 HD (2)
+http://cinematicket.club/tp2.php?c=322&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, IMAGEN TV  
+http://cinematicket.club/tp2.php?c=2298&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MULTIMEDIOS MTY
+http://cinematicket.club/tp2.php?c=2305&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, APREDNE TV
+http://cinematicket.club/tp2.php?c=401&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MULTIMEDIOS CDMX
+http://cinematicket.club/tp2.php?c=1253&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, NU9VE HD
+http://cinematicket.club/tp2.php?c=1783&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, LAS ESTRELLAS HD
+http://cinematicket.club/tp2.php?c=1784&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CANAL 5 HD (2)
+http://cinematicket.club/tp2.php?c=1785&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, ONCE HD 
+http://cinematicket.club/tp2.php?c=1942&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MVS TV
+http://cinematicket.club/tp2.php?c=2149&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, TVC
+http://cinematicket.club/tp2.php?c=2156&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, CANAL 4 
+http://cinematicket.club/tp2.php?c=2274&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CANAL 8
+http://cinematicket.club/tp2.php?c=2307&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, TELEVISA PUEBLA
+http://cinematicket.club/tp2.php?c=2312&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, A+ 
+http://cinematicket.club/tp2.php?c=2316&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, TVMAS
+http://cinematicket.club/tp2.php?c=2324&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CANAL DEL CONGRESO
+http://cinematicket.club/tp2.php?c=2331&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MULTIMEDIOS CDMX
+http://cinematicket.club/tp2.php?c=2352&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, IMAGEN TV HD  
+http://cinematicket.club/tp2.php?c=2606&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, ACADEMIA
+http://cinematicket.club/tp2.php?c=2703&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MULTIMEDIOS HD
+http://cinematicket.club/tp2.php?c=2882&p=3&k=tecnotv&f=.m3u8  
 
 
+*** INFANTILES ***
+#EXTINF:-1, TOONCAST
+http://cinematicket.club/tp2.php?c=108&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, DISCOVERY KIDS
+http://cinematicket.club/tp2.php?c=109&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, NICK
+http://cinematicket.club/tp2.php?c=110&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, DISNEY XD
+http://cinematicket.club/tp2.php?c=111&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CARTOON NETWORK
+http://cinematicket.club/tp2.php?c=112&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, DISNEY CHANNEL
+http://cinematicket.club/tp2.php?c=113&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, BOOMERANG
+http://cinematicket.club/tp2.php?c=115&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, BABY TV 
+http://cinematicket.club/tp2.php?c=116&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, NICK JR
+http://cinematicket.club/tp2.php?c=117&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, DISNEY JR
+http://cinematicket.club/tp2.php?c=118&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, NICKTOONS SD 
+http://cinematicket.club/tp2.php?c=1708&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, BABY FIRST
+http://cinematicket.club/tp2.php?c=1984&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, NICK 2  
+http://cinematicket.club/tp2.php?c=2147&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, NAT GEO KIDS  
+http://cinematicket.club/tp2.php?c=2373&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, BIT ME  
+http://cinematicket.club/tp2.php?c=2591&p=3&k=tecnotv&f=.m3u8
+
+*** CINE ***
+#EXTINF:-1, TBS SD  
+http://cinematicket.club/tp2.php?c=81&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, DE PELICULA + 
+http://cinematicket.club/tp2.php?c=121&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, GOLDEN +
+http://cinematicket.club/tp2.php?c=122&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, GOLDEN
+http://cinematicket.club/tp2.php?c=123&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, GOLDEN EDGE
+http://cinematicket.club/tp2.php?c=124&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, TNT 
+http://cinematicket.club/tp2.php?c=126&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, TCM
+http://cinematicket.club/tp2.php?c=128&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, SPACE
+http://cinematicket.club/tp2.php?c=129&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, AMC 
+http://cinematicket.club/tp2.php?c=131&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, STUDIO UNIVERSAL
+http://cinematicket.club/tp2.php?c=132&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, I SAT  
+http://cinematicket.club/tp2.php?c=135&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, EUROPA CHANNEL 
+http://cinematicket.club/tp2.php?c=136&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FILMS & ARTS
+http://cinematicket.club/tp2.php?c=137&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FXM
+http://cinematicket.club/tp2.php?c=138&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FXM SD 
+http://cinematicket.club/tp2.php?c=332&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, FOX SERIES
+http://cinematicket.club/tp2.php?c=139&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MORBIDO
+http://cinematicket.club/tp2.php?c=140&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FOX MOVIES 
+http://cinematicket.club/tp2.php?c=146&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CINECANAL
+http://cinematicket.club/tp2.php?c=149&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CINEMAX 
+http://cinematicket.club/tp2.php?c=158&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, AMC  
+http://cinematicket.club/tp2.php?c=328&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, DE PELICULA SD
+http://cinematicket.club/tp2.php?c=335&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FOX ACTION
+http://cinematicket.club/tp2.php?c=336&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, PARAMOUNT CHANNEL 
+http://cinematicket.club/tp2.php?c=1726&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FOX CINEMA SD
+http://cinematicket.club/tp2.php?c=1729&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FOX CLASSICS SD
+http://cinematicket.club/tp2.php?c=1732&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, AZ CINEMA 
+http://cinematicket.club/tp2.php?c=1787&p=3&k=tecnotv&f=.m3u8 
+
+*** ENTRETENIMIENTO ***
+#EXTINF:-1, TELEMUNDO INTERNACIONAL HD
+http://cinematicket.club/tp2.php?c=85&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FOX  
+http://cinematicket.club/tp2.php?c=46&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, SONY  
+http://cinematicket.club/tp2.php?c=48&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, WARNER  
+http://cinematicket.club/tp2.php?c=52&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, E!
+http://cinematicket.club/tp2.php?c=55&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, UNIVERSAL
+http://cinematicket.club/tp2.php?c=57&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, SYFY
+http://cinematicket.club/tp2.php?c=59&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FX
+http://cinematicket.club/tp2.php?c=60&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, A&E
+http://cinematicket.club/tp2.php?c=62&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, AXN
+http://cinematicket.club/tp2.php?c=64&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, UNICABLE SD
+http://cinematicket.club/tp2.php?c=66&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, SUNDANCE TV
+http://cinematicket.club/tp2.php?c=69&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, TNT SERIES
+http://cinematicket.club/tp2.php?c=71&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, GLITZ
+http://cinematicket.club/tp2.php?c=76&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, GOURMET 
+http://cinematicket.club/tp2.php?c=74&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, FOX LIFE
+http://cinematicket.club/tp2.php?c=77&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, DISTRITO COMEDIA SD
+http://cinematicket.club/tp2.php?c=78&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, TRUTV
+http://cinematicket.club/tp2.php?c=79&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, TL NOVELAS SD
+http://cinematicket.club/tp2.php?c=83&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, LIFETIME 
+http://cinematicket.club/tp2.php?c=94&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, ANTENA 3
+http://cinematicket.club/tp2.php?c=199&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FOX HD 
+http://cinematicket.club/tp2.php?c=201&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, WARNER HD 
+http://cinematicket.club/tp2.php?c=205&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, UNIVERSAL HD
+http://cinematicket.club/tp2.php?c=207&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FX HD
+http://cinematicket.club/tp2.php?c=209&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, TRUTV HD
+http://cinematicket.club/tp2.php?c=215&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, HOLA TV HD
+http://cinematicket.club/tp2.php?c=219&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, COMEDY CENTRAL
+http://cinematicket.club/tp2.php?c=340&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, COMEDY CENTRAL SD
+http://cinematicket.club/tp2.php?c=341&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, UNICABLE
+http://cinematicket.club/tp2.php?c=1499&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MAS CHIC
+http://cinematicket.club/tp2.php?c=1842&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, A3SERIES
+http://cinematicket.club/tp2.php?c=2113&p=3&k=tecnotv&f=.m3u8 
+
+*** DEPORTES ***
+#EXTINF:-1, ESPN + 
+http://cinematicket.club/tp2.php?c=167&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, ESPN 
+http://cinematicket.club/tp2.php?c=168&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, ESPN 2
+http://cinematicket.club/tp2.php?c=169&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FOX SPORTS
+http://cinematicket.club/tp2.php?c=170&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FOX SPORTS 2
+http://cinematicket.club/tp2.php?c=172&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, TUDN
+http://cinematicket.club/tp2.php?c=174&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FOX SPORTS 3 
+http://cinematicket.club/tp2.php?c=178&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, GOLF
+http://cinematicket.club/tp2.php?c=179&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, AYM SPORTS
+http://cinematicket.club/tp2.php?c=180&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, ESPN 3 
+http://cinematicket.club/tp2.php?c=345&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, TUDN HD (2)
+http://cinematicket.club/tp2.php?c=1049&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, ADRENALINA SPORTS HD
+http://cinematicket.club/tp2.php?c=1799&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, LAS
+http://cinematicket.club/tp2.php?c=2089&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, HAVOC
+http://cinematicket.club/tp2.php?c=2148&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, TVC DEPORTES
+http://cinematicket.club/tp2.php?c=2157&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CLARO SPORTS HD  
+http://cinematicket.club/tp2.php?c=2564&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, FUEL TV HD 
+http://cinematicket.club/tp2.php?c=2587&p=3&k=tecnotv&f=.m3u8 
+
+*** CULTURALES ***
+#EXTINF:-1, DISCOVERY ID
+http://cinematicket.club/tp2.php?c=68&p=3&k=tecnotv&f=.m3u8  
+ #EXTINF:-1, GARAGE TV 
+http://cinematicket.club/tp2.php?c=75&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, DISCOVERY CHANNEL
+http://cinematicket.club/tp2.php?c=86&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, ANIMAL PLANET
+http://cinematicket.club/tp2.php?c=88&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, HISTORY
+http://cinematicket.club/tp2.php?c=89&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, NAT GEO  
+http://cinematicket.club/tp2.php?c=91&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, NAT GEO WILD
+http://cinematicket.club/tp2.php?c=92&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, DISCOVERY THEATER
+http://cinematicket.club/tp2.php?c=95&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, H&H
+http://cinematicket.club/tp2.php?c=96&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, TLC
+http://cinematicket.club/tp2.php?c=97&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, DISCOVERY SCIENCE  
+http://cinematicket.club/tp2.php?c=98&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, DISCOVERY CIVILIZATION
+http://cinematicket.club/tp2.php?c=99&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, DISCOVERY WORLD
+http://cinematicket.club/tp2.php?c=101&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, TVE
+http://cinematicket.club/tp2.php?c=198&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, SHOPPING
+http://cinematicket.club/tp2.php?c=1943&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, FOOD NETWORK 
+http://cinematicket.club/tp2.php?c=2145&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, STAR TVE 
+http://cinematicket.club/tp2.php?c=2375&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, DISCOVERY TURBO
+http://cinematicket.club/tp2.php?c=2379&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CURIOSITY STREAM
+http://cinematicket.club/tp2.php?c=2594&p=3&k=tecnotv&f=.m3u8  
+
+*** MUSICA ***
+#EXTINF:-1, MTV LIVE
+http://cinematicket.club/tp2.php?c=211&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MTV
+http://cinematicket.club/tp2.php?c=212&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MTV HITS SD
+http://cinematicket.club/tp2.php?c=213&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, VH1 CLASSIC SD
+http://cinematicket.club/tp2.php?c=214&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, VH1 SD 
+http://cinematicket.club/tp2.php?c=217&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, TELEHIT URBANO SD
+http://cinematicket.club/tp2.php?c=218&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, TELEHIT +
+http://cinematicket.club/tp2.php?c=220&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, BANDAMAX SD
+http://cinematicket.club/tp2.php?c=221&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, AZ CLIC
+http://cinematicket.club/tp2.php?c=223&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, VH1 HD
+http://cinematicket.club/tp2.php?c=334&p=3&k=tecnotv&f=.m3u8  
 
 
-
-.1#EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_a-e-mundo_m.png" group-title="Cine y Series",A&E
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/amc.png" group-title="Cine y Series",AMC
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/axn.png" group-title="Cine y Series",Axn
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/Cine y Seriescanal.png" group-title="Cine y Series",Cinecanl
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/Cine y Seriesmax.png" group-title="Cine y Series",Cinemax
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="http://aux.iconspalace.com/uploads/18786692441935094700.png" group-title="Cine y Series",Comedy Central
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/districtocomedia.png" group-title="Cine y Series",Distrito Comedia
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/FOX.jpg" group-title="Cine y Series",Fox
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/fx.png" group-title="Cine y Series",FX
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/fxm.png" group-title="Cine y Series",FXM
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/paramountchannel.png" group-title="Cine y Series",Paramount
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/u/n/xsundancetv.jpg.pagespeed.ic.wZYnU6Qrmo.jpg" group-title="Cine y Series",Sundance
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/sony.png" group-title="Cine y Series",Sony
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="Cine y Series",DHE
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/space.png" group-title="Cine y Series",Space
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/studio%20universal.png" group-title="Cine y Series",Studio Universal
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/0d5c82f5-c658-478d-9cc7-004599ecd6b2_m.jpg" group-title="Cine y Series",Cine y Series latino
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/claro-sa/claro-Cine y Seriesma-86830508.jpg" group-title="Cine y Series",Claro Cine y Seriesma
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/tnt.png" group-title="Cine y Series",Tnt
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/TNTseries.png" group-title="Cine y Series",Tnt Series
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085350.jpg" group-title="Cine y Series",Pasiones
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="http://217.182.175.40/logo/Pzh1qyZs.png" group-title="Cine y Series",RCN 
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/universarchannel.png" group-title="Cine y Series",Universal Channel
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="Cine y Series",Warner
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png" group-title="Cine y Series",De Pelicula
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/FOXLIFE.jpg" group-title="Cine y Series",Fox Life
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/isa.jpg" group-title="Cine y Series",I.Sat
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kJM3aOF0Qkc/WXcjGHarZeI/AAAAAAAAFEg/YhF-3ud7VQ0MB5jGG1bymr3Z9-dlQdAPQCLcBGAs/s1600/photo.jpg" group-title="Cine y Series",Lifetime
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2011/10/b1ee9-tbs-2016.png" group-title="Cine y Series",TBS
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_tcm.jpg" group-title="Cine y Series",TCM
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/foxaction.png" group-title="Cine y Series",Fox Premium Action
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/foxCine y Seriesma.png" group-title="Cine y Series",Fox Premium Cine y Seriesma
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-classics-hd_m.png" group-title="Cine y Series",Fox Premium Classics
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/FoxMovie.png" group-title="Cine y Series",Fox Premium Movies
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/foxseries.png" group-title="Cine y Series",Fox Premium Series
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="Cine y Series",Fox Premium Family
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/fox_comedy.jpg" group-title="Cine y Series",Fox Premium Comedy
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/i15278ffc3f86db9c/version/1470080571/image.png" group-title="Cine y Series",Golden 
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/i15278ffc3f86db9c/version/1470080571/image.png" group-title="Cine y Series",Golden edge
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="Cine y Series",HBO
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="Cine y Series",HBO Subtitulado
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_cd/cd47fb52116f18d99be56ef0457daf36.png" group-title="Cine y Series",HBO 2
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/hbofamily.png" group-title="Cine y Series",HBO Family
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/hboplus.png" group-title="Cine y Series",HBO plus
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/hbosignature.png" group-title="Cine y Series",HBO Signature
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png" group-title="Cine y Series",Max 
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/a544addc-0563-4045-a7a3-45174385905d_m.jpg" group-title="Cine y Series",Max Prime
-https://archive.org/download/vencido1/vencido1.mp4
-#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/maxup.png" group-title="Cine y Series",Max Up
-https://archive.org/download/vencido1/vencido1.mp4
-
+*** NOTICIAS ***
+#EXTINF:-1, FOROTV HD
+http://cinematicket.club/tp2.php?c=4&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, FOROTV SD
+http://cinematicket.club/tp2.php?c=19&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, ADN40
+http://cinematicket.club/tp2.php?c=40&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, ADN 40 HD
+http://cinematicket.club/tp2.php?c=184&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CNN
+http://cinematicket.club/tp2.php?c=185&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CNN SD
+http://cinematicket.club/tp2.php?c=186&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, CNN Ñ SD
+http://cinematicket.club/tp2.php?c=187&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, WOBI 
+http://cinematicket.club/tp2.php?c=102&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, FOXN EWS
+http://cinematicket.club/tp2.php?c=188&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, BLOOMBERG 
+http://cinematicket.club/tp2.php?c=190&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, BBC SD
+http://cinematicket.club/tp2.php?c=191&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, AL JAAZERA 
+http://cinematicket.club/tp2.php?c=192&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, NTN 24
+http://cinematicket.club/tp2.php?c=194&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, JUSTICIA TV 
+http://cinematicket.club/tp2.php?c=196&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, HLN
+http://cinematicket.club/tp2.php?c=197&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, DW 
+http://cinematicket.club/tp2.php?c=203&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, RT
+http://cinematicket.club/tp2.php?c=999&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MILENIO HD
+http://cinematicket.club/tp2.php?c=1250&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, MILENIO SD 
+http://cinematicket.club/tp2.php?c=1252&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, EXCELSIOR TV
+http://cinematicket.club/tp2.php?c=1449&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1, EL FINANCIERO HD 
+http://cinematicket.club/tp2.php?c=1649&p=3&k=tecnotv&f=.m3u8  
+ #EXTINF:-1, RT ESPAÑOL
+http://cinematicket.club/tp2.php?c=2091&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1, FRANCE 24
+http://cinematicket.club/tp2.php?c=2402&p=3&k=tecnotv&f=.m3u8 
+ 
 
 
 #EXTM3U
@@ -1094,7 +1362,112 @@ https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 
 
 
+#EXTINF:-1 tvg-name="FOX HD" tvg-logo="http://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="USA",Fox HD
+http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+#EXTINF:-1 tvg-name="FOX HD" tvg-logo="http://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="USA",Fox HD
+http://190.80.3.28/FOX/FOX.isml/index.m3u8
+#EXTINF:-1 tvg-name="FOX HD" tvg-logo="http://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="USA",Fox
+http://87.120.36.62:8080/hls/streama105061/index.m3u8
+#EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/875.png" group-title="USA", NBC HD
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/index.m3u8
+#EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/875.png" group-title="USA", NBC HD
+https://centstreams.ml/nbc.m3u8
+#EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/875.png" group-title="USA", NBC HD
+http://190.80.3.28/NBC/NBC.isml/index.m3u8
+#EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WTVJ_2009_Logo.png/180px-WTVJ_2009_Logo.png" group-title="USA", NBC HD
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://i0.pngocean.com/files/195/361/167/logo-of-nbc-nbcuniversal-others.jpg" group-title="USA", NBC HD
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-name="NBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WTVJ_2009_Logo.png/180px-WTVJ_2009_Logo.png" group-title="USA", NBC KTUU HD
+https://ad-playlistserver.aws.syncbak.com/playlist/13736725/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNzM2NzI1LCJtZDUiOiI5NTZiM2RhZmViOTA4ZGUxZTdmMTc5NGFjYWQyYTQ5YiIsImlhdCI6MTUwMTYyMDcxOCwiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.kUK2HTxg4bOFF_kcJtYni32gp3J0mJpBLD_V4apmHBo
+#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="USA",Telemundo Este
+https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://media.telemundo51.com/images/Logo-Telemundo_51_Miami.jpg" group-title="USA", Telemundo 51 Miami Web
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1776822827/CBS4_400x400.jpg" group-title="USA", CBS Miami HD
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.com/rwd/ent/networks/logos/logo_lg__CBS.png" group-title="USA", CBS SD
+http://190.80.3.28/CBS/CBS.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.com/rwd/ent/networks/logos/logo_lg__CBS.png" group-title="USA", CBS SD
+https://freelocaltv.netlify.com/cbsny.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.com/rwd/ent/networks/logos/logo_lg__CBS.png" group-title="USA", CBS SD
+http://bks40001.gttstreamtv.com/kaceaeei5aaaaaaaaec1pxdaaaaaaaaaaaamezagsjnkdbvg/0001199/GlobalManifest.m3u8
+#EXTINF:-1 tvg-logo="http://bcsrq.com/wp-content/uploads/2016/04/ABC-7-300x300.jpg" group-title="USA",ABC (EST)
+http://190.80.3.28/ABC/ABC.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png" group-title="USA", CW HD
+http://190.80.3.28/CW/CW.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png" group-title="USA", CW HD
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+#EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites-main/default/dw8b19fd11/images/facebook/WWE_Network_logo_color_on_black.jpg" group-title="USA", USA Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2013/03/tnt-hd-logo.jpg" group-title="USA", TNT HD
+http://live.highstream.club/live/TNT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/6/65/TNTOT_App_Secondary_bug.png" group-title="NBA", TNT OVERTIME HD
+https://tntovertime.akamaized.net/hls/live/717305/action/master.m3u8
+#EXTINF:-1 tvg-logo="https://noticiasport.com/wp-content/uploads/2019/12/La-ex-estrella-de-Impact-Wrestling-se-burla-del-debut.jpg" group-title="DEPORTES", NXT
 
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/353626060f974ff88252e213eed0a71c/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
+http://35.231.164.254/live/chann1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
+https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/b36a6bd32ce54e709c51f9f1fceb70f8/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/edee2efb5bfa4ec082295128d046b0c1/boom.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
+http://opo.azureedge.net/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
+http://weak_spell.carniferou.club/edge/NBA1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112017/untitled-1_136.png" group-title="EVENTO EN VIVO", UFC FIGHT NIGHT
+https://teleupus1-yupptv.s.llnwi.net/mvtoken2ideph/yupptvott_5_2325782_21843561-7654-f90c-70ba-3dac36cedf57_US_23.19.74.164_ustvnow_3_channel_66_-1/1592701893/54/d1e439c1004fc804ba9ea21237548582/nbc/smil:espn.smil/playlist.m3u8  
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/jky7bu1534579838.png" group-title="EVENTO EN VIVO", MMA Bellator Prelims
+https://paramount-network.akamaized.net/hls/live/599582/bellator-prelims/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/jky7bu1534579838.png" group-title="EVENTO EN VIVO", MMA Bellator Main
+https://paramount-network.akamaized.net/hls/live/599582/bellator-main/master.m3u8
+#EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Web
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN.tv 1
+https://tvsabldep-lh.akamaihd.net/i/c3n4dep01_1@141897/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN.tv 2
+https://tvsabldep-lh.akamaihd.net/i/c3n4dep02_1@141898/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=1975&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-name="ESPN MX HD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_20954.png" group-title="DEPORTES", ESPN MX
+http://blackaddon.com/scr/jun2.php?c=140&f.m3u8
+#EXTINF:-1 tvg-name="ESPN MX HD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_20954.png" group-title="DEPORTES", ESPN MX
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=168&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-name="ESPN2 MX HD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="DEPORTES", ESPN2 MX
+http://blackaddon.com/scr/jun2.php?c=141&f.m3u8
+#EXTINF:-1 tvg-name="ESPN2 MX HD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="DEPORTES", ESPN2 MX
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=169&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-name="ESPN3 MX" tvg-logo="http://ragnaroktv.com/logostv/deportes/3.png" group-title="DEPORTES", ESPN3 MX
+http://blackaddon.com/scr/jun2.php?c=142&f.m3u8
+#EXTINF:-1 tvg-name="ESPN3 MX" tvg-logo="http://ragnaroktv.com/logostv/deportes/3.png" group-title="DEPORTES", ESPN3 MX
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=345&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-name="Fox Sport MX" tvg-logo="https://cdn.foxsportsla.com/foxsports/live/images/foxsportsappicon.png" group-title="DEPORTES", Fox Sports MX
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=170&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-name="Fox Sport MX" tvg-logo="https://cdn.foxsportsla.com/foxsports/live/images/foxsportsappicon.png" group-title="DEPORTES", Fox Sports MX
+http://blackaddon.com/scr/jun2.php?c=71&f.m3u8
+#EXTINF:-1 tvg-name="Fox Sport 2 MX" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox-sports-2.jpg" group-title="DEPORTES", Fox Sports2 MX
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=172&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-name="Fox Sport 2 MX" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox-sports-2.jpg" group-title="DEPORTES", Fox Sports2 MX
+http://blackaddon.com/scr/jun2.php?c=74&f.m3u8
+#EXTINF:-1 tvg-name="Fox Sport 3 MX" tvg-logo="http://dragstermx.com/www/wp-content/uploads/2015/03/FOX-SPORTS-3.jpg" group-title="DEPORTES", Fox Sports 3 MX
+http://blackaddon.com/scr/jun2.php?c=75&f.m3u8
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="DEPORTES", FS1 US HD
+http://live.highstream.club/live/FS1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES", FS2 US HD
+http://live.highstream.club/live/FS2/chunks.m3u8
+#EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6735.png" group-title="DEPORTES", TVC Deportes
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ay8ldhv4es18ggu&lchId=2157&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/1200px-NBC_Sports_Network_logo.svg.png" group-title="DEPORTES", NBCSN HD
+http://live.highstream.club/live/NBCSN/chunks.m3u8
+#EXTINF:-1 tvg-name="ACTION SPORTS" tvg-logo="https://media.merchantcircle.com/8046455/action%20logo%20jpeg_full.jpeg" group-title="DEPORTES", ACTION SPORTS
+https://nimble.dashstreams.net/onestudio/actionsportstv/chunks.m3u8
+#EXTINF:-1 tvg-name="ADSPORTS 1" tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/93/69/69/936969b91a00ab6fc520e7b5b7630e21.jpg" group-title="DEPORTES", ADSPORTS 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-name="ADSPORTS 2" tvg-logo="https://pbs.twimg.com/media/DFbiT91XoAArm0_.png" group-title="DEPORTES", ADSPORTS 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1 tvg-name="STADIUM SPORTS" tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg" group-title="DEPORTES", STADIUM SPORTS
@@ -1151,7 +1524,4 @@ https://playoutengine.sinclairstoryline.com/playout/b287bd53-b70f-4b04-9096-10a5
 https://playoutengine.sinclairstoryline.com/playout/202886a0-38bf-4470-9043-6f7e3750a5cf.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel Plus 10" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Tennis-Channel-logo.png" group-title="DEPORTES", Tennis Channel Plus 10
 https://playoutengine.sinclairstoryline.com/playout/c46b6ddd-59f0-475d-9f28-08e382d570d0.m3u8
-
-
-
 

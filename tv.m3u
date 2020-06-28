@@ -1267,8 +1267,6 @@ http://experiencetv.zapto.org:25468/movie/Expercon1/expercon1/1783.mkv
 http://experiencetv.zapto.org:25468/movie/Expercon1/expercon1/1784.mkv
 #EXTINF:-1 tvg-id="" tvg-name="2 Fast 2 Furious: A todo gas 2 - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZUSbYbUXol5AezpNIJwwENdyE0.jpg" group-title="ACCION",2 Fast 2 Furious: A todo gas 2 - 2003
 http://experiencetv.zapto.org:25468/movie/Expercon1/expercon1/1785.mkv
-#EXTINF:-1 tvg-id="" tvg-name="LOS MOTORATONES 24/7 SD" tvg-logo="https://9thimpact.com/wp-content/uploads/2015/12/BMfM-1_logo.png" group-title="CANALES 24/7",LOS MOTORATONES 24/7 SD
-http://experiencetv.zapto.org:25468/live/Expercon1/expercon1/1842.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANTINFLAS 24/7 SD" tvg-logo="https://hrexach.files.wordpress.com/2014/09/can10.png" group-title="CANALES 24/7",CANTINFLAS 24/7 SD
 http://experiencetv.zapto.org:25468/live/Expercon1/expercon1/1845.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPERZANZA GOMEZ MASSAGE" tvg-logo="https://hrexach.files.wordpress.com/2014/09/can10.png" group-title="XXX",ESPERZANZA GOMEZ MASSAGE
@@ -1403,6 +1401,8 @@ http://experiencetv.zapto.org:25468/live/Expercon1/expercon1/1976.m3u8
 http://experiencetv.zapto.org:25468/live/Expercon1/expercon1/1977.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEXICO: ULTRA KIDZ HD" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraKidz_NLogo.png" group-title="INFANTILES ",MEXICO: ULTRA KIDZ HD
 http://experiencetv.zapto.org:25468/live/Expercon1/expercon1/1978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stealth: La amenaza invisible (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wr6u0MOh7949W0OTo53x2jp4GFX.jpg" group-title="PELIS RETRO",Stealth: La amenaza invisible (2005)
+http://experiencetv.zapto.org:25468/movie/Expercon1/expercon1/1979.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Juego de Tronos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrGWeW4WKxnaeA8sxJb2T9O6ryo.jpg" group-title="Juego De Tronos",Juego de Tronos S01 E01
 http://experiencetv.zapto.org:25468/series/Expercon1/expercon1/1563.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Juego de Tronos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icjOgl5F9DhysOEo6Six2Qfwcu2.jpg" group-title="Juego De Tronos",Juego de Tronos S01 E02

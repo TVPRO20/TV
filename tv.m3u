@@ -1,5 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports N" tvg-logo="http://62.210.203.77/LogosCanales/Bein%20Sports%20N.jpg" group-title="Deportes",Bein Sports N
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | A&E FHD (P)" tvg-logo="https://pbs.twimg.com/profile_images/951900727487680513/iVrvsXOo_400x400.jpg" group-title="TV CINE  PREMIUM",CINE  | A&E FHD (P)
+http://latiniptv.vip:8008/0930/0930/6391
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | AMC  HD (L)" tvg-logo="https://www.tekcrispy.com/wp-content/uploads/2019/05/amc-datos-suscriptores-expuestos-640x360.jpg" group-title="TV CINE  PREMIUM",CINE  | AMC  HD (L)
+http://latiniptv.vip:8008/0930/0930/6392
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | CINECANAL" tvg-logo="https://pbs.twimg.com/profile_images/49020282/Cinecanal_400x400.jpg" group-title="TV CINE  PREMIUM",CINE  | CINECANAL
+http://latiniptv.vip:8008/0930/0930/6394
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | CINEMAX (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsShtlL0qqZllWb5fxt78_-h20n3JqGHOFFZfgLzAUzcHNBmXW" group-title="TV CINE  PREMIUM",CINE  | CINEMAX (P)
+http://latiniptv.vip:8008/0930/0930/6395
+#EXTINF:-1 tvg-id="CinePlusPremier.mu" tvg-name="CINE  | DE PELICULA (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-lqzFjUlcZ6cdQUhFgirNmsMtaNSPgLisrhphWrFPV3FhOhII&usqp=CAU" group-title="TV CINE  PREMIUM",CINE  | DE PELICULA (P)
+http://latiniptv.vip:8008/0930/0930/6396
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | FOX LIFE (p)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-life_m.png" group-title="TV CINE  PREMIUM",CINE  | FOX LIFE (p)
 http://latiniptv.vip:8008/0930/0930/6398
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | FOX HD (A)" tvg-logo="https://i.blogs.es/52a717/1366_2000/450_1000.png" group-title="TV CINE  PREMIUM",CINE  | FOX HD (A)
@@ -106,7 +116,6 @@ http://latiniptv.vip:8008/0930/0930/6469
 http://latiniptv.vip:8008/0930/0930/6471
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | FOX CHANNEL (u)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1200px-Fox_Channel_logo.svg.png" group-title="TV CINE  PREMIUM",CINE  | FOX CHANNEL (u)
 http://latiniptv.vip:8008/0930/0930/6472
-http://heinentv.ddns.net:25461/1003/1003/5166
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="http://62.210.203.77/LogosCanales/ESPN.jpg" group-title="Deportes",ESPN 1
 http://heinentv.ddns.net:25461/1003/1003/5174
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://62.210.203.77/LogosCanales/ESPN%202.jpg" group-title="Deportes",ESPN 2

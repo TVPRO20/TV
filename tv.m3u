@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports N" tvg-logo="http://62.210.203.77/LogosCanales/Bein%20Sports%20N.jpg" group-title="Deportes",Bein Sports N
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | FOX HD (A)" tvg-logo="https://i.blogs.es/52a717/1366_2000/450_1000.png" group-title="TV CINE  PREMIUM",CINE  | FOX HD (A)
+http://latiniptv.vip:8008/0930/0930/6399
 http://heinentv.ddns.net:25461/1003/1003/5166
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="http://62.210.203.77/LogosCanales/ESPN.jpg" group-title="Deportes",ESPN 1
 http://heinentv.ddns.net:25461/1003/1003/5174

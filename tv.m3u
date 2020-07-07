@@ -1,7 +1,111 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports N" tvg-logo="http://62.210.203.77/LogosCanales/Bein%20Sports%20N.jpg" group-title="Deportes",Bein Sports N
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | FOX LIFE (p)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-life_m.png" group-title="TV CINE  PREMIUM",CINE  | FOX LIFE (p)
+http://latiniptv.vip:8008/0930/0930/6398
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | FOX HD (A)" tvg-logo="https://i.blogs.es/52a717/1366_2000/450_1000.png" group-title="TV CINE  PREMIUM",CINE  | FOX HD (A)
 http://latiniptv.vip:8008/0930/0930/6399
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | FOX  ACTION HD (A)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="TV CINE  PREMIUM",CINE  | FOX  ACTION HD (A)
+http://latiniptv.vip:8008/0930/0930/6400
+#EXTINF:-1 tvg-id="FoxPremiumCinema.pa" tvg-name="CINE  | FOX CINEMA (Y)" tvg-logo="https://3.bp.blogspot.com/-QK8-QSqPHvE/XCXFWc0F34I/AAAAAAAAB6I/DB3kq-6TMCEYdQPv8Zk6sxB9KgBjFG-CwCLcBGAs/s320/logo_foxcinema.png" group-title="TV CINE  PREMIUM",CINE  | FOX CINEMA (Y)
+http://latiniptv.vip:8008/0930/0930/6401
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | FOX  CLASSICS (P)" tvg-logo="https://2.bp.blogspot.com/-Tdwk5G3WZpI/XCXFWTCaQ_I/AAAAAAAAB6E/BTnK5v3cdhM3eL-ZNCOsd2ygfA14w2fDwCLcBGAs/s320/logo_foxclassics.png" group-title="TV CINE  PREMIUM",CINE  | FOX  CLASSICS (P)
+http://latiniptv.vip:8008/0930/0930/6402
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | FOX  COMEDY HD (P)" tvg-logo="https://www.miluana.com/wp-content/uploads/2018/09/fox-comedy.jpg" group-title="TV CINE  PREMIUM",CINE  | FOX  COMEDY HD (P)
+http://latiniptv.vip:8008/0930/0930/6403
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | FOX  FAMILY HD (L)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="TV CINE  PREMIUM",CINE  | FOX  FAMILY HD (L)
+http://latiniptv.vip:8008/0930/0930/6404
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | FOX  MOVIES (L)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmxptA9xEhbywtgTPWAa-fMIzdfSLg3Br98DJdr-tArJj7P3aT&usqp=CAU" group-title="TV CINE  PREMIUM",CINE  | FOX  MOVIES (L)
+http://latiniptv.vip:8008/0930/0930/6405
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | FX (Y)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png" group-title="TV CINE  PREMIUM",CINE  | FX (Y)
+http://latiniptv.vip:8008/0930/0930/6407
+#EXTINF:-1 tvg-id="CinePlusPremier.mu" tvg-name="CINE  | FXM SD (U)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="TV CINE  PREMIUM",CINE  | FXM SD (U)
+http://latiniptv.vip:8008/0930/0930/6408
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | GOLDEN EDGE (T)" tvg-logo="https://2.bp.blogspot.com/-1mvY7DMJnp4/Vf0QbDpj1nI/AAAAAAAAAa0/GGcIOYGe0vE/s1600/Menu-Senales-GoldenEDGE.jpg" group-title="TV CINE  PREMIUM",CINE  | GOLDEN EDGE (T)
+http://latiniptv.vip:8008/0930/0930/6409
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | GOLDEN (L)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSByXo7aKJ5bdBSn-FuzOqpUDGPBWHymsWfgOtLzoZav04hlmU&usqp=CAU" group-title="TV CINE  PREMIUM",CINE  | GOLDEN (L)
+http://latiniptv.vip:8008/0930/0930/6410
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | GOLDEN PLUS HD (L)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTD-pKFMAaMu_L3-VQ94tYVMs45zRgzKicpB5NFZ7-B0DnIGCue&usqp=CAU" group-title="TV CINE  PREMIUM",CINE  | GOLDEN PLUS HD (L)
+http://latiniptv.vip:8008/0930/0930/6411
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="CINE  | HBO 2  (T)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQBNkIg3ptc7PMErrJp1nPHd860U9WCmm_f_5gP2MyWKthr_h6&usqp=CAU" group-title="TV CINE  PREMIUM",CINE  | HBO 2  (T)
+http://latiniptv.vip:8008/0930/0930/6412
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | MAX (L)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSOhj99ZGlXXeqS5V7fSxzhSGOWAXvOV2E2vvLBl7q0wlYRmJl-" group-title="TV CINE  PREMIUM",CINE  | MAX (L)
+http://latiniptv.vip:8008/0930/0930/6415
+#EXTINF:-1 tvg-id="" tvg-name="CINE | PARAMOUNT CHANNEL (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQb54AXfbKjdSS4YaTi25w7j1sX4FiuGw0q66BbUY9f862uj8r0&usqp=CAU" group-title="TV CINE  PREMIUM",CINE | PARAMOUNT CHANNEL (P)
+http://latiniptv.vip:8008/0930/0930/6417
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | SONY CHANNEL (L)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQww1wsTIPg1htVTPkbpCr7g52VJguTiX5mVXkJ5i7v78vgxKoc&usqp=CAU" group-title="TV CINE  PREMIUM",CINE  | SONY CHANNEL (L)
+http://latiniptv.vip:8008/0930/0930/6418
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | SPACE CHANNEL  (Y)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhQ04bFLxETuOsnr5sBAOXJ6J6RvKLpTZ20p7ytueSVX2gWK70&usqp=CAU" group-title="TV CINE  PREMIUM",CINE  | SPACE CHANNEL  (Y)
+http://latiniptv.vip:8008/0930/0930/6419
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | SPACE CHANNEL  SD (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiBPRs_86Ow0KCBy2KOTvNkwojcQBzKB8xlKmzD-QP4q2PVdGU&usqp=CAU" group-title="TV CINE  PREMIUM",CINE  | SPACE CHANNEL  SD (P)
+http://latiniptv.vip:8008/0930/0930/6420
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | STUDIO UNIVERSAL LATINO® (U)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSJk-fkeBKftdenIDkRy85GdnirFnQNZO42slyMPVZ5QFQoBYj&usqp=CAU" group-title="TV CINE  PREMIUM",CINE  | STUDIO UNIVERSAL LATINO® (U)
+http://latiniptv.vip:8008/0930/0930/6421
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | STUDIO UNIVERSAL (P)" tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" group-title="TV CINE  PREMIUM",CINE  | STUDIO UNIVERSAL (P)
+http://latiniptv.vip:8008/0930/0930/6422
+#EXTINF:-1 tvg-id="" tvg-name="CINE | SYFY SD (Y)" tvg-logo="https://i1.wp.com/www.luisan.net/blog/wp-content/uploads/2010/03/syfy-rebranding-logotipo-e1549536172636.jpg?fit=866%2C487&ssl=1" group-title="TV CINE  PREMIUM",CINE | SYFY SD (Y)
+http://latiniptv.vip:8008/0930/0930/6424
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="CINE | TBS  HD (Y)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRu4vCyj2bdW2SR_X-4YyawahOwatzoBWR1PZFo5P6ZHWtk4rmY&usqp=CAU" group-title="TV CINE  PREMIUM",CINE | TBS  HD (Y)
+http://latiniptv.vip:8008/0930/0930/6425
+#EXTINF:-1 tvg-id="" tvg-name="CINE | TCM   FHD(Y)" tvg-logo="https://i.pinimg.com/originals/25/76/19/257619c35e50f29f2fa92ba5a07bf334.jpg" group-title="TV CINE  PREMIUM",CINE | TCM   FHD(Y)
+http://latiniptv.vip:8008/0930/0930/6426
+#EXTINF:-1 tvg-id="" tvg-name="CINE | TCM (P)" tvg-logo="https://i.pinimg.com/originals/25/76/19/257619c35e50f29f2fa92ba5a07bf334.jpg" group-title="TV CINE  PREMIUM",CINE | TCM (P)
+http://latiniptv.vip:8008/0930/0930/6427
+#EXTINF:-1 tvg-id="" tvg-name="CINE | TNT LATINO (Y)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKo5fAjx59gz97yvl1771RRYcMyrqIR5AO7MDxTSbtGphonSVv" group-title="TV CINE  PREMIUM",CINE | TNT LATINO (Y)
+http://latiniptv.vip:8008/0930/0930/6428
+#EXTINF:-1 tvg-id="" tvg-name="CINE | TNT HD (A)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKo5fAjx59gz97yvl1771RRYcMyrqIR5AO7MDxTSbtGphonSVv" group-title="TV CINE  PREMIUM",CINE | TNT HD (A)
+http://latiniptv.vip:8008/0930/0930/6429
+#EXTINF:-1 tvg-id="" tvg-name="CINE | UNIVERSAL CHANNEL (E)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="TV CINE  PREMIUM",CINE | UNIVERSAL CHANNEL (E)
+http://latiniptv.vip:8008/0930/0930/6431
+#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER TV (e)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="TV CINE  PREMIUM",CINE | WARNER TV (e)
+http://latiniptv.vip:8008/0930/0930/6432
+#EXTINF:-1 tvg-id="" tvg-name="CINE | TNT SERIES FHD (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSBFWsIKkIpAXu9yyCycM4AmQ50p8n1LT9D9C87U8NJVoGVfPA8&usqp=CAU" group-title="TV CINE  PREMIUM",CINE | TNT SERIES FHD (P)
+http://latiniptv.vip:8008/0930/0930/6436
+#EXTINF:-1 tvg-id="" tvg-name="CINE | TNT SD (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnVrBiTmgxcfjdgUD5mzJqPQWicRPVWEZ7wXgoQcipFrPo68zF&usqp=CAU" group-title="TV CINE  PREMIUM",CINE | TNT SD (P)
+http://latiniptv.vip:8008/0930/0930/6437
+#EXTINF:-1 tvg-id="" tvg-name="CINE | TNT FHD (A)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQr1FUdI7sSQGSxlYdA4hyVQnuSClQKbmmcpJQfXJtAfJwtbpNX&usqp=CAU" group-title="TV CINE  PREMIUM",CINE | TNT FHD (A)
+http://latiniptv.vip:8008/0930/0930/6438
+#EXTINF:-1 tvg-id="" tvg-name="CINE | TCM SD (T)" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQENkrE8ZBZmdQ/company-logo_200_200/0?e=2159024400&v=beta&t=SKxhfszskYiFSCc2yuYpJurkBG13LeHg2XUO5QMEQ-A" group-title="TV CINE  PREMIUM",CINE | TCM SD (T)
+http://latiniptv.vip:8008/0930/0930/6439
+#EXTINF:-1 tvg-id="" tvg-name="CINE | SONY CHANNEL hd (U)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV CINE  PREMIUM",CINE | SONY CHANNEL hd (U)
+http://latiniptv.vip:8008/0930/0930/6440
+#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPHyn3fD4zIWg2uU-rfAZTFeJW39f3DZdVMCyzVLWRGWyqNXBy&usqp=CAU" group-title="TV CINE  PREMIUM",CINE | GOLDEN HD
+http://latiniptv.vip:8008/0930/0930/6441
+#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN PREMIER (A)" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="TV CINE  PREMIUM",CINE | GOLDEN PREMIER (A)
+http://latiniptv.vip:8008/0930/0930/6442
+#EXTINF:-1 tvg-id="" tvg-name="CINE | FOX SERIES HD (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmxptA9xEhbywtgTPWAa-fMIzdfSLg3Br98DJdr-tArJj7P3aT&usqp=CAU" group-title="TV CINE  PREMIUM",CINE | FOX SERIES HD (P)
+http://latiniptv.vip:8008/0930/0930/6443
+#EXTINF:-1 tvg-id="" tvg-name="CINE | FOX MOVIES HD (P)" tvg-logo="https://pbs.twimg.com/profile_images/873344025713033217/ExHy0neU_400x400.jpg" group-title="TV CINE  PREMIUM",CINE | FOX MOVIES HD (P)
+http://latiniptv.vip:8008/0930/0930/6445
+#EXTINF:-1 tvg-id="" tvg-name="CINE | FOX LIFE HD (LP)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRWl-zensCA_o_TwbdaoyOIiAgA1ubf7bNkNbRSp4BvVLX4RBam&usqp=CAU" group-title="TV CINE  PREMIUM",CINE | FOX LIFE HD (LP)
+http://latiniptv.vip:8008/0930/0930/6447
+#EXTINF:-1 tvg-id="" tvg-name="CINE | Fox Classics SD (P)" tvg-logo="https://yt3.ggpht.com/a/AGF-l79jTl-dfCR2-5vBRyn_Xt64Aa4dwv5Tc1yMEQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV CINE  PREMIUM",CINE | Fox Classics SD (P)
+http://latiniptv.vip:8008/0930/0930/6449
+#EXTINF:-1 tvg-id="" tvg-name="CINE | FOX ACTION SD (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAptl3J21lEr2KQVs8nS9Oc8h6tiiSX-VaM1Q10mapjdlvet22" group-title="TV CINE  PREMIUM",CINE | FOX ACTION SD (P)
+http://latiniptv.vip:8008/0930/0930/6453
+#EXTINF:-1 tvg-id="" tvg-name="CINE | FOX ACTION FHD (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAptl3J21lEr2KQVs8nS9Oc8h6tiiSX-VaM1Q10mapjdlvet22" group-title="TV CINE  PREMIUM",CINE | FOX ACTION FHD (P)
+http://latiniptv.vip:8008/0930/0930/6454
+#EXTINF:-1 tvg-id="" tvg-name="CINE | FX SD (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKdF5xGC0BGY1WVPnbfrEO7EiuA2zP3PvfJurNq5iPQ3pR2H5u" group-title="TV CINE  PREMIUM",CINE | FX SD (P)
+http://latiniptv.vip:8008/0930/0930/6455
+#EXTINF:-1 tvg-id="" tvg-name="CINE | De Pelicula Plus FH(T)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png" group-title="TV CINE  PREMIUM",CINE | De Pelicula Plus FH(T)
+http://latiniptv.vip:8008/0930/0930/6457
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | CINECANAL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSkiXWXsLUiS64Qs3lpai_Sjfn5ZQDSci1Zt3GJF3RGdVnZYcz&usqp=CAU" group-title="TV CINE  PREMIUM",CINE  | CINECANAL HD
+http://latiniptv.vip:8008/0930/0930/6458
+#EXTINF:-1 tvg-id="" tvg-name="CINE | AXN HD (L)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw91zHWFInhxJioGQTP75UmIJaiXe_neG_UpP_nChj6vqfoMmf&usqp=CAU" group-title="TV CINE  PREMIUM",CINE | AXN HD (L)
+http://latiniptv.vip:8008/0930/0930/6460
+#EXTINF:-1 tvg-id="CinePlusPremier.mu" tvg-name="CINE  | A&E   HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="TV CINE  PREMIUM",CINE  | A&E   HD
+http://latiniptv.vip:8008/0930/0930/6461
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="CINE | HBO SIGNATURE (U)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgBxlkKdSV7eHh6aUvBJR5H0oTtp-1UFTGDuO6TFrKetl4nJk6&usqp=CAU" group-title="TV CINE  PREMIUM",CINE | HBO SIGNATURE (U)
+http://latiniptv.vip:8008/0930/0930/6465
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | HBO PLUS  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBwzd93FDo1zc9_axm88cBefslR60ziwon5vWYRPPi5LnX-_0Z" group-title="TV CINE  PREMIUM",CINE  | HBO PLUS  HD
+http://latiniptv.vip:8008/0930/0930/6466
+#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO FAMILY (T)" tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/5/51/HBO_Family.png/revision/latest?cb=20130717181930&path-prefix=es" group-title="TV CINE  PREMIUM",CINE | HBO FAMILY (T)
+http://latiniptv.vip:8008/0930/0930/6467
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="CINE  | HBO HD (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsfrxiN21MR2eBC8AKs6rA3olvg6YcNzDBn7r0YGm0msMSQPk7&usqp=CAU" group-title="TV CINE  PREMIUM",CINE  | HBO HD (P)
+http://latiniptv.vip:8008/0930/0930/6469
+#EXTINF:-1 tvg-id="PremiumCinema.it" tvg-name="CINE  | FOX CINEMA HD (u)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTb9WwsYd1paF4qjj7KYzkp042eTwOhvAIUtomlHiMg4Ii2rmqw&usqp=CAU" group-title="TV CINE  PREMIUM",CINE  | FOX CINEMA HD (u)
+http://latiniptv.vip:8008/0930/0930/6471
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | FOX CHANNEL (u)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1200px-Fox_Channel_logo.svg.png" group-title="TV CINE  PREMIUM",CINE  | FOX CHANNEL (u)
+http://latiniptv.vip:8008/0930/0930/6472
 http://heinentv.ddns.net:25461/1003/1003/5166
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="http://62.210.203.77/LogosCanales/ESPN.jpg" group-title="Deportes",ESPN 1
 http://heinentv.ddns.net:25461/1003/1003/5174

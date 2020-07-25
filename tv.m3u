@@ -1876,6 +1876,509 @@ https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="LATINOS SD ",A&E
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/54
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="LATINOS SD ",AMC
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/55
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="LATINOS SD ",AXN
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/56
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="LATINOS SD ",Animal Planet
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/57
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="" group-title="LATINOS SD ",Antena 3
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/58
+#EXTINF:-1 tvg-id="" tvg-name="Atres Series" tvg-logo="" group-title="LATINOS SD ",Atres Series
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/59
+#EXTINF:-1 tvg-id="" tvg-name="Azcorazon" tvg-logo="" group-title="LATINOS SD ",Azcorazon
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/60
+#EXTINF:-1 tvg-id="" tvg-name="Azmundo" tvg-logo="" group-title="LATINOS SD ",Azmundo
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/61
+#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="" group-title="LATINOS SD ",BBC World
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/62
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="LATINOS SD ",Baby TV
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/63
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="LATINOS SD ",Boomerang
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/64
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="" group-title="LATINOS SD ",CLARO SPORTS
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/65
+#EXTINF:-1 tvg-id="" tvg-name="CONCERT CHANNEL" tvg-logo="" group-title="LATINOS SD ",CONCERT CHANNEL
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/66
+#EXTINF:-1 tvg-id="" tvg-name="Canal Claro" tvg-logo="" group-title="LATINOS SD ",Canal Claro
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/67
+#EXTINF:-1 tvg-id="" tvg-name="Canal del Congreso" tvg-logo="" group-title="LATINOS SD ",Canal del Congreso
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/68
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="LATINOS SD ",Cartoon Network
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/69
+#EXTINF:-1 tvg-id="" tvg-name="Cincomas" tvg-logo="" group-title="LATINOS SD ",Cincomas
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/70
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="" group-title="LATINOS SD ",Cine Latino
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/71
+#EXTINF:-1 tvg-id="" tvg-name="CineCanal" tvg-logo="" group-title="LATINOS SD ",CineCanal
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/72
+#EXTINF:-1 tvg-id="" tvg-name="CineMax" tvg-logo="" group-title="LATINOS SD ",CineMax
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/73
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Dinamita" tvg-logo="" group-title="LATINOS SD ",Cinema Dinamita
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/74
+#EXTINF:-1 tvg-id="" tvg-name="Claro Cinema" tvg-logo="" group-title="LATINOS SD ",Claro Cinema
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/75
+#EXTINF:-1 tvg-id="" tvg-name="Claro Musica" tvg-logo="" group-title="LATINOS SD ",Claro Musica
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/76
+#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="" group-title="LATINOS SD ",Concert Channel
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/77
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="LATINOS SD ",Discovery Channel
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/78
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="" group-title="LATINOS SD ",Discovery Civilization
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/79
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="" group-title="LATINOS SD ",Discovery Home & Health
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/80
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="LATINOS SD ",Discovery Kids
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/81
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="LATINOS SD ",Discovery Science
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/82
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="LATINOS SD ",Discovery Turbo
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/83
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="" group-title="LATINOS SD ",Disney
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/84
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="LATINOS SD ",Disney JR
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/85
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="LATINOS SD ",Disney XD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/86
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="LATINOS SD ",E!
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/87
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="LATINOS SD ",ESPN
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/88
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  +" tvg-logo="" group-title="LATINOS SD ",ESPN  +
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/89
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="" group-title="LATINOS SD ",ESPN 3
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/90
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2" tvg-logo="" group-title="LATINOS SD ",ESPN2
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/91
+#EXTINF:-1 tvg-id="" tvg-name="EURO Channel" tvg-logo="" group-title="LATINOS SD ",EURO Channel
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/92
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="" group-title="LATINOS SD ",EWTN
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/93
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="LATINOS SD ",El Gourmet
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/94
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="LATINOS SD ",FOX
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/95
+#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY" tvg-logo="" group-title="LATINOS SD ",FOX COMEDY
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/96
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" group-title="LATINOS SD ",FOX LIFE
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/97
+#EXTINF:-1 tvg-id="" tvg-name="FOX SERIES" tvg-logo="" group-title="LATINOS SD ",FOX SERIES
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/98
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2" tvg-logo="" group-title="LATINOS SD ",FOX Sports 2
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/99
+#EXTINF:-1 tvg-id="" tvg-name="FOX+ACT" tvg-logo="" group-title="LATINOS SD ",FOX+ACT
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/100
+#EXTINF:-1 tvg-id="" tvg-name="FOX+CLA" tvg-logo="" group-title="LATINOS SD ",FOX+CLA
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/101
+#EXTINF:-1 tvg-id="" tvg-name="FOX+FAM" tvg-logo="" group-title="LATINOS SD ",FOX+FAM
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/102
+#EXTINF:-1 tvg-id="" tvg-name="FOX+MOV" tvg-logo="" group-title="LATINOS SD ",FOX+MOV
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/103
+#EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="" group-title="LATINOS SD ",FUTV
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/104
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="LATINOS SD ",FX
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/105
+#EXTINF:-1 tvg-id="" tvg-name="FX Movies" tvg-logo="" group-title="LATINOS SD ",FX Movies
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/106
+#EXTINF:-1 tvg-id="" tvg-name="Fashion One" tvg-logo="" group-title="LATINOS SD ",Fashion One
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/107
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="" group-title="LATINOS SD ",Film & Arts
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/108
+#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="" group-title="LATINOS SD ",Fox News
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/109
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 3" tvg-logo="" group-title="LATINOS SD ",Fox Sport 3
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/110
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="" group-title="LATINOS SD ",Fox Sports
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/111
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="LATINOS SD ",Golden
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/112
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="" group-title="LATINOS SD ",Golf Channel
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/113
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="LATINOS SD ",H2
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/114
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="LATINOS SD ",HBO
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/115
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="LATINOS SD ",HBO Family
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/116
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="" group-title="LATINOS SD ",HBO Plus
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/117
+#EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="" group-title="LATINOS SD ",HBO2
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/118
+#EXTINF:-1 tvg-id="" tvg-name="Headline News" tvg-logo="" group-title="LATINOS SD ",Headline News
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/119
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="" group-title="LATINOS SD ",History Channel
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/120
+#EXTINF:-1 tvg-id="" tvg-name="Hola!TV" tvg-logo="" group-title="LATINOS SD ",Hola!TV
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/121
+#EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="" group-title="LATINOS SD ",ID
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/122
+#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="" group-title="LATINOS SD ",LIFE TIME
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/123
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="LATINOS SD ",MTV
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/124
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="LATINOS SD ",MTV Hits
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/125
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="" group-title="LATINOS SD ",Mas Chic
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/126
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime (Oeste)" tvg-logo="" group-title="LATINOS SD ",Max Prime (Oeste)
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/127
+#EXTINF:-1 tvg-id="" tvg-name="Multicinema" tvg-logo="" group-title="LATINOS SD ",Multicinema
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/128
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios" tvg-logo="" group-title="LATINOS SD ",Multimedios
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/129
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="" group-title="LATINOS SD ",Multipremier
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/130
+#EXTINF:-1 tvg-id="" tvg-name="NU MUSIC" tvg-logo="" group-title="LATINOS SD ",NU MUSIC
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/131
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids" tvg-logo="" group-title="LATINOS SD ",Nat Geo Kids
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/132
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="LATINOS SD ",Nat Geo Wild
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/133
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="LATINOS SD ",National Geographic
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/134
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="LATINOS SD ",Nick Jr
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/135
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="LATINOS SD ",Nickelodeon
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/136
+#EXTINF:-1 tvg-id="" tvg-name="PXTV" tvg-logo="" group-title="LATINOS SD ",PXTV
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/137
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="" group-title="LATINOS SD ",Paramount
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/138
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="" group-title="LATINOS SD ",SONY
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/139
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="" group-title="LATINOS SD ",SPACE
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/140
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="" group-title="LATINOS SD ",Studio Universal
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/141
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" tvg-logo="" group-title="LATINOS SD ",Sun Channel
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/142
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="" group-title="LATINOS SD ",SyFy
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/143
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="LATINOS SD ",TBS
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/144
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="LATINOS SD ",TCM
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/145
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="LATINOS SD ",TLC
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/146
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="LATINOS SD ",TNT
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/147
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="" group-title="LATINOS SD ",TNT Series
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/148
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="LATINOS SD ",Telemundo
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/149
+#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="" group-title="LATINOS SD ",Universal
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/150
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="LATINOS SD ",VH1
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/151
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="" group-title="LATINOS SD ",VH1 Classic
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/152
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="" group-title="LATINOS SD ",Warner
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/153
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="" group-title="LATINOS SD ",ZooMoo
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/154
+#EXTINF:-1 tvg-id="" tvg-name="LAT*11 - Repretel" tvg-logo="" group-title="PAISES SD",LAT*11 - Repretel
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/155
+#EXTINF:-1 tvg-id="" tvg-name="LAT*13-Sinart" tvg-logo="" group-title="PAISES SD",LAT*13-Sinart
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/156
+#EXTINF:-1 tvg-id="" tvg-name="LAT*29 - VM Latino" tvg-logo="" group-title="PAISES SD",LAT*29 - VM Latino
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/157
+#EXTINF:-1 tvg-id="" tvg-name="LAT*42 - Extra TV 42" tvg-logo="" group-title="PAISES SD",LAT*42 - Extra TV 42
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/158
+#EXTINF:-1 tvg-id="" tvg-name="LAT*6 - Repretel" tvg-logo="" group-title="PAISES SD",LAT*6 - Repretel
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/159
+#EXTINF:-1 tvg-id="" tvg-name="LAT*7-Teletica" tvg-logo="" group-title="PAISES SD",LAT*7-Teletica
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/160
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Antena 7- RD" tvg-logo="" group-title="PAISES SD",LAT*Antena 7- RD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/161
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CCN" tvg-logo="" group-title="PAISES SD",LAT*CCN
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/162
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CDN2- RD" tvg-logo="" group-title="PAISES SD",LAT*CDN2- RD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/163
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CDN37 - RD" tvg-logo="" group-title="PAISES SD",LAT*CDN37 - RD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/164
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CERTV" tvg-logo="" group-title="PAISES SD",LAT*CERTV
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/165
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal  21 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal  21 - ESA
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/166
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 10 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 10 - NIC
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/167
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 11 - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal 11 - GUA
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/168
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 12 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 12 - ESA
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/169
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 12 - NI" tvg-logo="" group-title="PAISES SD",LAT*Canal 12 - NI
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/170
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 13 - PAN" tvg-logo="" group-title="PAISES SD",LAT*Canal 13 - PAN
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/171
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 13-GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal 13-GUA
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/172
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 14 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 14 - NIC
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/173
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 19  ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 19  ESA
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/174
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 2 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 2 - ESA
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/175
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 2 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 2 - NIC
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/176
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 2 - PAN" tvg-logo="" group-title="PAISES SD",LAT*Canal 2 - PAN
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/177
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 3 - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal 3 - GUA
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/178
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 4 - ESA
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/179
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 4 - NIC
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/180
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - PAN" tvg-logo="" group-title="PAISES SD",LAT*Canal 4 - PAN
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/181
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 6 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 6 - ESA
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/182
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 6 - NI" tvg-logo="" group-title="PAISES SD",LAT*Canal 6 - NI
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/183
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 7 - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal 7 - GUA
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/184
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 8 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 8 - NIC
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/185
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Antigua - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal Antigua - GUA
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/186
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Azteca - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal Azteca - GUA
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/187
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Digital 15 - RD" tvg-logo="" group-title="PAISES SD",LAT*Digital 15 - RD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/188
+#EXTINF:-1 tvg-id="" tvg-name="LAT*NEXT - PAN" tvg-logo="" group-title="PAISES SD",LAT*NEXT - PAN
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/189
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TV  Max - PAN" tvg-logo="" group-title="PAISES SD",LAT*TV  Max - PAN
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/190
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TVChile" tvg-logo="" group-title="PAISES SD",LAT*TVChile
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/191
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TVE" tvg-logo="" group-title="PAISES SD",LAT*TVE
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/192
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TVM25 -  ESA" tvg-logo="" group-title="PAISES SD",LAT*TVM25 -  ESA
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/193
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Tele Antillas - RD" tvg-logo="" group-title="PAISES SD",LAT*Tele Antillas - RD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/194
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TeleMicro - RD" tvg-logo="" group-title="PAISES SD",LAT*TeleMicro - RD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/195
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Telecentro - RD" tvg-logo="" group-title="PAISES SD",LAT*Telecentro - RD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/196
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Telesistema RD" tvg-logo="" group-title="PAISES SD",LAT*Telesistema RD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/197
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Teleunion - RD" tvg-logo="" group-title="PAISES SD",LAT*Teleunion - RD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/198
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Teleuniverso - RD" tvg-logo="" group-title="PAISES SD",LAT*Teleuniverso - RD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/199
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Televida RD" tvg-logo="" group-title="PAISES SD",LAT*Televida RD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/200
+#EXTINF:-1 tvg-id="" tvg-name="LAT*VTV Canal 35 ESA" tvg-logo="" group-title="PAISES SD",LAT*VTV Canal 35 ESA
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/201
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CNN Internacional" tvg-logo="" group-title="PAISES SD",LAT*CNN Internacional
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/202
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CNNE" tvg-logo="" group-title="PAISES SD",LAT*CNNE
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/203
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="" group-title="24/7",24/7 CANTINFLAS
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/204
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the middle 2000" tvg-logo="" group-title="24/7",24/7 Malcolm in the middle 2000
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/205
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="" group-title="24/7",24/7 Dragon Ball Super
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/206
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Los Simpson" tvg-logo="" group-title="24/7",24/7  Los Simpson
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/207
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Thundercats" tvg-logo="" group-title="24/7",24/7 Thundercats
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/208
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Coyote y el Correcaminos" tvg-logo="" group-title="24/7",24/7 El Coyote y el Correcaminos
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/209
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa" tvg-logo="" group-title="24/7",24/7 La pantera rosa
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/210
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del 8" tvg-logo="" group-title="24/7",24/7 El Chavo del 8
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/211
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/212
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS 1991" tvg-logo="" group-title="24/7",24/7  DINOSAURIOS 1991
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/213
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Dragon Ball 1984" tvg-logo="" group-title="24/7",24/7  Dragon Ball 1984
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/214
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT 1996" tvg-logo="" group-title="24/7",24/7 Dragon Ball GT 1996
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/215
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z 1989" tvg-logo="" group-title="24/7",24/7 Dragon Ball Z 1989
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/216
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="" group-title="24/7",24/7 EL CHAPULIN COLORADO
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/217
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los locos Addams" tvg-logo="" group-title="24/7",24/7 Los locos Addams
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/218
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Familia Monster 1964" tvg-logo="" group-title="24/7",24/7 La Familia Monster 1964
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/219
+#EXTINF:-1 tvg-id="" tvg-name="Sonic: la pelÃ­cula (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYbANSoj6qGTbDkstq9J5Vy8fRF.jpg" group-title="2020",Sonic: la pelÃ­cula (2020)
+http://136.243.11.78:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sqmgVUKelFlDasWsdX0SV6c0Fq.jpg" group-title="2020",Bad Boy (2020)
+http://136.243.11.78:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Onward (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHWeWBBOlkPYdlZcjSKeToQvgZg.jpg" group-title="2020",Onward (2020)
+http://136.243.11.78:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la piedra filosofal (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" group-title="Harry Potter",Harry Potter y la piedra filosofal (2001)
+http://136.243.11.78:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el prisionero de Azkaban - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" group-title="Harry Potter",Harry Potter y el prisionero de Azkaban - 2004
+http://136.243.11.78:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/401.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la Orden del FÃ©nix (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5bL1z1ZOAKBkvbOhVQp6GfBv4u.jpg" group-title="Harry Potter",Harry Potter y la Orden del FÃ©nix (2007)
+http://136.243.11.78:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el misterio del prÃ­ncipe (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSb3nNiL6pOEDK34T0U6RKTGzlJ.jpg" group-title="Harry Potter",Harry Potter y el misterio del prÃ­ncipe (2009)
+http://136.243.11.78:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el cÃ¡liz de fuego (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg" group-title="Harry Potter",Harry Potter y el cÃ¡liz de fuego (2005)
+http://136.243.11.78:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/404.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la cÃ¡mara secreta (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg" group-title="Harry Potter",Harry Potter y la cÃ¡mara secreta (2002)
+http://136.243.11.78:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/405.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg" group-title="Harry Potter",Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)
+http://136.243.11.78:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las Reliquias de la Muerte - Parte 1 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYyoJ4Yadk0MCBHZPFrgvMDl50o.jpg" group-title="Harry Potter",Harry Potter y las Reliquias de la Muerte - Parte 1 (2010)
+http://136.243.11.78:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LAT*A&E HD" tvg-logo="" group-title="LATINOS HD",LAT*A&E HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/457
+#EXTINF:-1 tvg-id="" tvg-name="LAT*AMC HD" tvg-logo="" group-title="LATINOS HD",LAT*AMC HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/458
+#EXTINF:-1 tvg-id="" tvg-name="LAT*AXN HD" tvg-logo="" group-title="LATINOS HD",LAT*AXN HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/459
+#EXTINF:-1 tvg-id="" tvg-name="LAT*AZ click HD" tvg-logo="" group-title="LATINOS HD",LAT*AZ click HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/460
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Animal Planet HD" tvg-logo="" group-title="LATINOS HD",LAT*Animal Planet HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/461
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CARTOON NT HD" tvg-logo="" group-title="LATINOS HD",LAT*CARTOON NT HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/462
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CINECANAL HD" tvg-logo="" group-title="LATINOS HD",LAT*CINECANAL HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/463
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Claro HD" tvg-logo="" group-title="LATINOS HD",LAT*Canal Claro HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/464
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Claro Sports HD" tvg-logo="" group-title="LATINOS HD",LAT*Claro Sports HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/465
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Comedy Central HD" tvg-logo="" group-title="LATINOS HD",LAT*Comedy Central HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/466
+#EXTINF:-1 tvg-id="" tvg-name="LAT*DHE HD" tvg-logo="" group-title="LATINOS HD",LAT*DHE HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/467
+#EXTINF:-1 tvg-id="" tvg-name="LAT*DISCOVERY THEATHER HD" tvg-logo="" group-title="LATINOS HD",LAT*DISCOVERY THEATHER HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/468
+#EXTINF:-1 tvg-id="" tvg-name="LAT*E! Entertairment HD" tvg-logo="" group-title="LATINOS HD",LAT*E! Entertairment HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/469
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Europa HD" tvg-logo="" group-title="LATINOS HD",LAT*Europa HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/470
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Action HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX Action HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/471
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Family HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX Family HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/472
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/473
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Movies HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX Movies HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/474
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Series HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX Series HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/475
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FX HD" tvg-logo="" group-title="LATINOS HD",LAT*FX HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/476
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FX Movies HD" tvg-logo="" group-title="LATINOS HD",LAT*FX Movies HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/477
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Film & arts HD" tvg-logo="" group-title="LATINOS HD",LAT*Film & arts HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/478
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Golf Channel HD" tvg-logo="" group-title="LATINOS HD",LAT*Golf Channel HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/479
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO Family HD" tvg-logo="" group-title="LATINOS HD",LAT*HBO Family HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/480
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO HD" tvg-logo="" group-title="LATINOS HD",LAT*HBO HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/481
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO Plus HD" tvg-logo="" group-title="LATINOS HD",LAT*HBO Plus HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/482
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO2 HD" tvg-logo="" group-title="LATINOS HD",LAT*HBO2 HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/483
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HOLA! TV HD" tvg-logo="" group-title="LATINOS HD",LAT*HOLA! TV HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/484
+#EXTINF:-1 tvg-id="" tvg-name="LAT*History HD" tvg-logo="" group-title="LATINOS HD",LAT*History HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/485
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Home & Health HD" tvg-logo="" group-title="LATINOS HD",LAT*Home & Health HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/486
+#EXTINF:-1 tvg-id="" tvg-name="LAT*MTV HD" tvg-logo="" group-title="LATINOS HD",LAT*MTV HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/487
+#EXTINF:-1 tvg-id="" tvg-name="LAT*MTV SIM HD" tvg-logo="" group-title="LATINOS HD",LAT*MTV SIM HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/488
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Max Prime HD" tvg-logo="" group-title="LATINOS HD",LAT*Max Prime HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/489
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Nick 2 HD" tvg-logo="" group-title="LATINOS HD",LAT*Nick 2 HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/490
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Nick SIM HD" tvg-logo="" group-title="LATINOS HD",LAT*Nick SIM HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/491
+#EXTINF:-1 tvg-id="" tvg-name="LAT*SONY HD" tvg-logo="" group-title="LATINOS HD",LAT*SONY HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/492
+#EXTINF:-1 tvg-id="" tvg-name="LAT*SPACE HD" tvg-logo="" group-title="LATINOS HD",LAT*SPACE HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/493
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Studio Universal HD" tvg-logo="" group-title="LATINOS HD",LAT*Studio Universal HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/494
+#EXTINF:-1 tvg-id="" tvg-name="LAT*SyFy HD" tvg-logo="" group-title="LATINOS HD",LAT*SyFy HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/495
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TNT HD" tvg-logo="" group-title="LATINOS HD",LAT*TNT HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/496
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Telemundo HD" tvg-logo="" group-title="LATINOS HD",LAT*Telemundo HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/497
+#EXTINF:-1 tvg-id="" tvg-name="LAT*VH1 HD" tvg-logo="" group-title="LATINOS HD",LAT*VH1 HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/498
+#EXTINF:-1 tvg-id="" tvg-name="LAT*WARNER HD" tvg-logo="" group-title="LATINOS HD",LAT*WARNER HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/499
+#EXTINF:-1 tvg-id="" tvg-name="Spenser: confidencial (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7lkcv6meB7ueTz3iFFhsmcnEey.jpg" group-title="2020",Spenser: confidencial (2020)
+http://136.243.11.78:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coronavirus: El virus que paraliza la mundo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6sDwNdtKq0sp8mI7vlhpizJzRa.jpg" group-title="2020",Coronavirus: El virus que paraliza la mundo (2020)
+http://136.243.11.78:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/501.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="" group-title="LATINOS SD ",TOONCAST
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/502
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES|BEIN  ESP" tvg-logo="" group-title="DEPORTES ",DEPORTES|BEIN  ESP
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/518
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES |AFICIONADOS" tvg-logo="" group-title="DEPORTES ",DEPORTES |AFICIONADOS
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/519
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES -Fight Time" tvg-logo="" group-title="DEPORTES ",DEPORTES -Fight Time
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/520
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | DIRECTV SPORTS 1" tvg-logo="" group-title="DEPORTES ",DEOORTES | DIRECTV SPORTS 1
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/521
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | DIRECTV SPORTS 2" tvg-logo="" group-title="DEPORTES ",DEOORTES | DIRECTV SPORTS 2
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/522
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | TyC Sports Internacional" tvg-logo="" group-title="DEPORTES ",DEOORTES | TyC Sports Internacional
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/523
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | GOL TV" tvg-logo="" group-title="DEPORTES ",DEOORTES | GOL TV
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/524
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | Espn 1 Sur" tvg-logo="" group-title="DEPORTES ",DEOORTES | Espn 1 Sur
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/525
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | Espn 2 Sur" tvg-logo="" group-title="DEPORTES ",DEOORTES | Espn 2 Sur
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/526
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | Fox Sports 1" tvg-logo="" group-title="DEPORTES ",DEOORTES | Fox Sports 1
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/527
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | Fox Sports 2" tvg-logo="" group-title="DEPORTES ",DEOORTES | Fox Sports 2
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/528
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | Fox Sports 3" tvg-logo="" group-title="DEPORTES ",DEOORTES | Fox Sports 3
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/529
+#EXTINF:-1 tvg-id="" tvg-name="ES | beIN SPORTS Ã‘" tvg-logo="" group-title="DEPORTES ",ES | beIN SPORTS Ã‘
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/530
+#EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="DEPORTES ",UFC
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/531
+#EXTINF:-1 tvg-id="" tvg-name="|Fox Sports Sur 1" tvg-logo="" group-title="DEPORTES ",|Fox Sports Sur 1
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/532
+#EXTINF:-1 tvg-id="" tvg-name="|Fox Sports Sur 2" tvg-logo="" group-title="DEPORTES ",|Fox Sports Sur 2
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/533
+#EXTINF:-1 tvg-id="" tvg-name="|Fox Sports Sur 3" tvg-logo="" group-title="DEPORTES ",|Fox Sports Sur 3
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/534
+#EXTINF:-1 tvg-id="" tvg-name="|Espn 1 Mex" tvg-logo="" group-title="DEPORTES ",|Espn 1 Mex
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/535
+#EXTINF:-1 tvg-id="" tvg-name="|Espn 2 Mex" tvg-logo="" group-title="DEPORTES ",|Espn 2 Mex
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/536
+#EXTINF:-1 tvg-id="" tvg-name="|Espn 3 Mex" tvg-logo="" group-title="DEPORTES ",|Espn 3 Mex
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/537
+#EXTINF:-1 tvg-id="" tvg-name="MX | TUDN" tvg-logo="" group-title="DEPORTES ",MX | TUDN
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/538
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDF HD" tvg-logo="" group-title="DEPORTES ",CL | CDF HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/539
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDF Premium" tvg-logo="" group-title="DEPORTES ",CL | CDF Premium
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/540
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | FOX SPORT 1 HD" tvg-logo="" group-title="DEPORTES ",CHILE | FOX SPORT 1 HD
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/541
+#EXTINF:-1 tvg-id="" tvg-name="TVC DEPORTES" tvg-logo="" group-title="DEPORTES ",TVC DEPORTES
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/542
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS +" tvg-logo="" group-title="DEPORTES ",WIN SPORTS +
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/543
+#EXTINF:-1 tvg-id="" tvg-name="BEINS SPORT ING." tvg-logo="" group-title="DEPORTES ",BEINS SPORT ING.
+http://136.243.11.78:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/544
+
+
 
 
 

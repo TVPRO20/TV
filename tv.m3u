@@ -359,886 +359,493 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=320&f.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Lat || Usa Univision LA" tvg-logo="http://gangafree.com:25461/images/7041465c0a0041a2cf565a663c1b8db2.png" group-title="Latino USA",Lat || Usa Univision LA
-http://gangafree.com:25461/live/51194/16890/37958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat || Usa Univision WEST" tvg-logo="http://gangafree.com:25461/images/10ff39ae78465908f9676728e2218230.png" group-title="Latino USA",Lat || Usa Univision WEST
-http://gangafree.com:25461/live/51194/16890/37959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat || UniMas Las Vegas" tvg-logo="http://gangafree.com:25461/images/82f716e60ecbae210d13a7f3b4a55836.png" group-title="Latino USA",Lat || UniMas Las Vegas
-http://gangafree.com:25461/live/51194/16890/37961.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lat || Usa UniMas Miami" tvg-logo="http://gangafree.com:25461/images/41ecc260d3f157d3ce9a33117001c998.png" group-title="Latino USA",Lat || Usa UniMas Miami
-http://gangafree.com:25461/live/51194/16890/37962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Universo" tvg-logo="http://gangafree.com:25461/images/0053a36b4c1be3c5dc3a0e82264878f3.png" group-title="Latino USA",NBC Universo
-http://gangafree.com:25461/live/51194/16890/37963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Los Angeles" tvg-logo="http://gangafree.com:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="Latino USA",USA | Telemundo Los Angeles
-http://gangafree.com:25461/live/51194/16890/37964.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Miami" tvg-logo="http://gangafree.com:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="Latino USA",USA | Telemundo Miami
-http://gangafree.com:25461/live/51194/16890/37965.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Houston" tvg-logo="http://gangafree.com:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="Latino USA",USA | Telemundo Houston
-http://gangafree.com:25461/live/51194/16890/37966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Telemundo" tvg-logo="http://gangafree.com:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="Latino USA",USA | NBC Telemundo
-http://gangafree.com:25461/live/51194/16890/37967.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="~ Univision SD" tvg-logo="http://gangafree.com:25461/images/f22a8e679321bee8fd529ae4b384ea80.png" group-title="Latino USA",~ Univision SD
-http://gangafree.com:25461/live/51194/16890/37968.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE USA | ESTRELLA TV" tvg-logo="http://gangafree.com:25461/images/5d504c3f718c8bf7f31272b75c2e5624.png" group-title="Latino USA",TE USA | ESTRELLA TV
-http://gangafree.com:25461/live/51194/16890/37969.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE USA | LA UNIMAS" tvg-logo="http://gangafree.com:25461/images/01038d2e1012b2aeaa68ec943a610bcc.png" group-title="Latino USA",TE USA | LA UNIMAS
-http://gangafree.com:25461/live/51194/16890/37970.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE USA | PASIONES" tvg-logo="http://gangafree.com:25461/images/38bc8488fc45561873c70974a9da7612.png" group-title="Latino USA",TE USA | PASIONES
-http://gangafree.com:25461/live/51194/16890/37971.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | BEIN SPORTS Ñ" tvg-logo="http://www.ethnicchannels.com/images/channeldetail/bein-sports-en-espanol/bein-n-logo.png" group-title="Deportes",TE DEPORTES | BEIN SPORTS Ñ
-http://gangafree.com:25461/live/51194/16890/37972.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | CDO PREMIUM" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="Deportes",TE DEPORTES | CDO PREMIUM
-http://gangafree.com:25461/live/51194/16890/37973.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | CLARO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1024px-Claro_Sports_logo.svg.png" group-title="Deportes",TE DEPORTES | CLARO SPORTS
-http://gangafree.com:25461/live/51194/16890/37974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | DIRECTV SPORTS" tvg-logo="https://www.pngfind.com/pngs/m/204-2047658_urmdp-tv-directv-sports-logo-png-transparent-png.png" group-title="Deportes",TE DEPORTES | DIRECTV SPORTS
-http://gangafree.com:25461/live/51194/16890/37975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes",TE DEPORTES | DIRECTV SPORTS 2
-http://gangafree.com:25461/live/51194/16890/37976.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | ESPN 2 MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Deportes",TE DEPORTES | ESPN 2 MEXICO
-http://gangafree.com:25461/live/51194/16890/37977.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | ESPN 2 SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Deportes",TE DEPORTES | ESPN 2 SUR
-http://gangafree.com:25461/live/51194/16890/37978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | ESPN 3 MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Deportes",TE DEPORTES | ESPN 3 MEXICO
-http://gangafree.com:25461/live/51194/16890/37979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | ESPN 3 SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Deportes",TE DEPORTES | ESPN 3 SUR
-http://gangafree.com:25461/live/51194/16890/37980.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | ESPN MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",TE DEPORTES | ESPN MEXICO
-http://gangafree.com:25461/live/51194/16890/37981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | ESPN NETWORK MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",TE DEPORTES | ESPN NETWORK MEXICO
-http://gangafree.com:25461/live/51194/16890/37982.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | ESPN PLUS MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="Deportes",TE DEPORTES | ESPN PLUS MEXICO
-http://gangafree.com:25461/live/51194/16890/37983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | ESPN SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",TE DEPORTES | ESPN SUR
-http://gangafree.com:25461/live/51194/16890/37984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | ESPN U MEXICO" tvg-logo="http://a.espncdn.com/prod/assets/watchespn/appletv/images/channels-carousel/espnu.png" group-title="Deportes",TE DEPORTES | ESPN U MEXICO
-http://gangafree.com:25461/live/51194/16890/37985.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | FOX SPORTS 2 SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/640px-2015_Fox_sports_logo.svg.png" group-title="Deportes",TE DEPORTES | FOX SPORTS 2 SUR
-http://gangafree.com:25461/live/51194/16890/37986.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | FOX SPORTS 3 MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="Deportes",TE DEPORTES | FOX SPORTS 3 MEXICO
-http://gangafree.com:25461/live/51194/16890/37987.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | FOX SPORTS 3 SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="Deportes",TE DEPORTES | FOX SPORTS 3 SUR
-http://gangafree.com:25461/live/51194/16890/37988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | FOX SPORTS MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Deportes",TE DEPORTES | FOX SPORTS MEXICO
-http://gangafree.com:25461/live/51194/16890/37989.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | FOX SPORTS SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Deportes",TE DEPORTES | FOX SPORTS SUR
-http://gangafree.com:25461/live/51194/16890/37990.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | GOLF CHANNEL SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="Deportes",TE DEPORTES | GOLF CHANNEL SUR
-http://gangafree.com:25461/live/51194/16890/37991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | GOLTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="Deportes",TE DEPORTES | GOLTV
-http://gangafree.com:25461/live/51194/16890/37992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES | VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="Deportes",TE DEPORTES | VTV
-http://gangafree.com:25461/live/51194/16890/37993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES* | FOX SPORTS 2 MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/640px-2015_Fox_sports_logo.svg.png" group-title="Deportes",TE DEPORTES* | FOX SPORTS 2 MEXICO
-http://gangafree.com:25461/live/51194/16890/37994.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE DEPORTES* | GOLF CHANNEL MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="Deportes",TE DEPORTES* | GOLF CHANNEL MEXICO
-http://gangafree.com:25461/live/51194/16890/37995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Argentina|| EL TRECE HD." tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/ec4b5-eltrece.jpg?w=320&h=320" group-title="Tv Internacional",Argentina|| EL TRECE HD.
-http://gangafree.com:25461/live/51194/16890/37996.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Argentina|| EL NUEVE HD." tvg-logo="http://gangafree.com:25461/images/7fbf7d985a056d89b083a24e18e28b56.jpg" group-title="Tv Internacional",Argentina|| EL NUEVE HD.
-http://gangafree.com:25461/live/51194/16890/37997.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Argentina|| TELESUR  :)" tvg-logo="" group-title="Tv Internacional",Argentina|| TELESUR  :)
-http://gangafree.com:25461/live/51194/16890/37998.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Argentina|| TELEMAX :)" tvg-logo="" group-title="Tv Internacional",Argentina|| TELEMAX :)
-http://gangafree.com:25461/live/51194/16890/37999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bolivia || Bolivision SD" tvg-logo="http://gangafree.com:25461/images/61ac8e078657ff7583e1380279bf6f04.jpg" group-title="Tv Internacional",Bolivia || Bolivision SD
-http://gangafree.com:25461/live/51194/16890/38000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bolivia || Gigavision" tvg-logo="http://gangafree.com:25461/images/808066ffb347a43b8c9aeccb8f21ab2f.jpg" group-title="Tv Internacional",Bolivia || Gigavision
-http://gangafree.com:25461/live/51194/16890/38001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bolivia || Mega TV &gt;)" tvg-logo="" group-title="Tv Internacional",Bolivia || Mega TV &gt;)
-http://gangafree.com:25461/live/51194/16890/38002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Br|| RECORD NEWS HD" tvg-logo="" group-title="Tv Internacional",Br|| RECORD NEWS HD
-http://gangafree.com:25461/live/51194/16890/38003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Br|| RECORD RJ" tvg-logo="" group-title="Tv Internacional",Br|| RECORD RJ
-http://gangafree.com:25461/live/51194/16890/38004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Br|| REDE TV HD" tvg-logo="https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1209374997.m3u8" group-title="Tv Internacional",Br|| REDE TV HD
-http://gangafree.com:25461/live/51194/16890/38005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Br|| MEGAPIX HD" tvg-logo="" group-title="Tv Internacional",Br|| MEGAPIX HD
-http://gangafree.com:25461/live/51194/16890/38006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Br|| MULTISHOW HD" tvg-logo="" group-title="Tv Internacional",Br|| MULTISHOW HD
-http://gangafree.com:25461/live/51194/16890/38007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|CA| SMITHSONIAN CHANNEL | SD" tvg-logo="" group-title="Tv Internacional",|CA| SMITHSONIAN CHANNEL | SD
-http://gangafree.com:25461/live/51194/16890/38008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|CA| CBC NEWS | HD" tvg-logo="" group-title="Tv Internacional",|CA| CBC NEWS | HD
-http://gangafree.com:25461/live/51194/16890/38009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chile || Canal 13" tvg-logo="http://gangafree.com:25461/images/6eb084e577875f98bf397b92da5daea4.png" group-title="Tv Internacional",Chile || Canal 13
-http://gangafree.com:25461/live/51194/16890/38010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chile || Chilevision." tvg-logo="http://gangafree.com:25461/images/19d9e6ca8eeef943cc018416ad46194c.png" group-title="Tv Internacional",Chile || Chilevision.
-http://gangafree.com:25461/live/51194/16890/38011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chile || ETC TV." tvg-logo="http://gangafree.com:25461/images/97e6d53983785e29afdb855ed6656eea.png" group-title="Tv Internacional",Chile || ETC TV.
-http://gangafree.com:25461/live/51194/16890/38012.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chile || La Red." tvg-logo="http://gangafree.com:25461/images/099870907489c96d870092ffbcd3bf3b.png" group-title="Tv Internacional",Chile || La Red.
-http://gangafree.com:25461/live/51194/16890/38013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chile || Mega" tvg-logo="http://gangafree.com:25461/images/1810516824fee487eb3cf331e7573b33.png" group-title="Tv Internacional",Chile || Mega
-http://gangafree.com:25461/live/51194/16890/38014.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA || CABLE NOTICIAS :)" tvg-logo="http://gangafree.com:25461/images/d473249ce9cf1715959459c0f4370a3f.png" group-title="Tv Internacional",COLOMBIA || CABLE NOTICIAS :)
-http://gangafree.com:25461/live/51194/16890/38015.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA || Canal Capital &gt;)" tvg-logo="" group-title="Tv Internacional",COLOMBIA || Canal Capital &gt;)
-http://gangafree.com:25461/live/51194/16890/38016.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA || Canal Trece HD &gt;)" tvg-logo="" group-title="Tv Internacional",COLOMBIA || Canal Trece HD &gt;)
-http://gangafree.com:25461/live/51194/16890/38017.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA || CANAL UNO :)" tvg-logo="http://gangafree.com:25461/images/0200abb799a26158456f814660ab30eb.png" group-title="Tv Internacional",COLOMBIA || CANAL UNO :)
-http://gangafree.com:25461/live/51194/16890/38018.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA || CARACOL :)" tvg-logo="http://gangafree.com:25461/images/9464625bcdf6c7383d1f67e8b3a0a7cb.png" group-title="Tv Internacional",COLOMBIA || CARACOL :)
-http://gangafree.com:25461/live/51194/16890/38019.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA || RCN :)" tvg-logo="http://gangafree.com:25461/images/440950cb84359791528598dfe986607a.png" group-title="Tv Internacional",COLOMBIA || RCN :)
-http://gangafree.com:25461/live/51194/16890/38020.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | Canal 13" tvg-logo="http://gangafree.com:25461/images/6ffba848f3623f0ffe9b452bcbb7cfca.png" group-title="Tv Internacional",Costa Rica | Canal 13
-http://gangafree.com:25461/live/51194/16890/38021.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | Extrema TV HD" tvg-logo="http://gangafree.com:25461/images/827585515b0890c745027cf42d322440.png" group-title="Tv Internacional",Costa Rica | Extrema TV HD
-http://gangafree.com:25461/live/51194/16890/38022.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | Telered" tvg-logo="http://gangafree.com:25461/images/73590b5cc731fa8531650c3460096e3b.png" group-title="Tv Internacional",Costa Rica | Telered
-http://gangafree.com:25461/live/51194/16890/38023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | Teleuno" tvg-logo="http://gangafree.com:25461/images/05edda6e59cc2195f262a6fc50616b09.png" group-title="Tv Internacional",Costa Rica | Teleuno
-http://gangafree.com:25461/live/51194/16890/38024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | Ticavision" tvg-logo="http://gangafree.com:25461/images/02e1631c69d9a3ca2659e021d5276441.png" group-title="Tv Internacional",Costa Rica | Ticavision
-http://gangafree.com:25461/live/51194/16890/38025.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cuba | Cubavision SD'" tvg-logo="http://gangafree.com:25461/images/5014715c2d1408ae5832d23d5b692d1d.jpg" group-title="Tv Internacional",Cuba | Cubavision SD'
-http://gangafree.com:25461/live/51194/16890/38026.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CUBA | PLAY" tvg-logo="" group-title="Tv Internacional",CUBA | PLAY
-http://gangafree.com:25461/live/51194/16890/38027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CUBA | AMERICA TV" tvg-logo="" group-title="Tv Internacional",CUBA | AMERICA TV
-http://gangafree.com:25461/live/51194/16890/38028.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador|| Canela TV" tvg-logo="http://fl5.tvxweb.net:88/stalker_portal/misc/logos/320/4292.jpg" group-title="Tv Internacional",Ecuador|| Canela TV
-http://gangafree.com:25461/live/51194/16890/38029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ ▆☆ ECUADOR ☆▆ ▅ ▄ ▂ ▁" tvg-logo="" group-title="Tv Internacional",▁ ▂ ▄ ▅ ▆☆ ECUADOR ☆▆ ▅ ▄ ▂ ▁
-http://gangafree.com:25461/live/51194/16890/38030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador|| Ecuador TV SD" tvg-logo="http://gangafree.com:25461/images/9cfd9f63e0a109177a3599599b73f6f1.jpg" group-title="Tv Internacional",Ecuador|| Ecuador TV SD
-http://gangafree.com:25461/live/51194/16890/38031.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador|| TC Television" tvg-logo="http://gangafree.com:25461/images/1fd4ab5f3fa478701d12e7e02d855603.png" group-title="Tv Internacional",Ecuador|| TC Television
-http://gangafree.com:25461/live/51194/16890/38032.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Salvador|| Canal 12" tvg-logo="" group-title="Tv Internacional",El Salvador|| Canal 12
-http://gangafree.com:25461/live/51194/16890/38033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Salvador|| Megavision Canal 19" tvg-logo="" group-title="Tv Internacional",El Salvador|| Megavision Canal 19
-http://gangafree.com:25461/live/51194/16890/38034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Salvador|| Canal 33" tvg-logo="" group-title="Tv Internacional",El Salvador|| Canal 33
-http://gangafree.com:25461/live/51194/16890/38035.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Salvador|| Wow TV" tvg-logo="" group-title="Tv Internacional",El Salvador|| Wow TV
-http://gangafree.com:25461/live/51194/16890/38036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA |||| Historia" tvg-logo="http://gangafree.com:25461/images/dcfae43dd5fbd820a8e4227d466f391f.png" group-title="Tv Internacional",ESPAÑA |||| Historia
-http://gangafree.com:25461/live/51194/16890/38037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA |||| ANTENA 3 HD" tvg-logo="http://gangafree.com:25461/images/37f54e1728538afedac9e96bed40bae2.png" group-title="Tv Internacional",ESPAÑA |||| ANTENA 3 HD
-http://gangafree.com:25461/live/51194/16890/38038.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA |||| Cuatro +" tvg-logo="http://gangafree.com:25461/images/37a2c24b1ee5029857657de9af33dadf.png" group-title="Tv Internacional",ESPAÑA |||| Cuatro +
-http://gangafree.com:25461/live/51194/16890/38039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Guatemala|| CANAL 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2f/Canal_3_Guatemala.png/revision/latest?cb=20170321003617" group-title="Tv Internacional",Guatemala|| CANAL 3
-http://gangafree.com:25461/live/51194/16890/38040.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Guatemala|| CANAL 11" tvg-logo="http://gangafree.com:25461/images/f9280814a1d3413dece7f63c2894b74f.jpg" group-title="Tv Internacional",Guatemala|| CANAL 11
-http://gangafree.com:25461/live/51194/16890/38041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Guatemala|| AZTECA" tvg-logo="http://www.logospng.com/images/60/tv-azteca-guate-2017-recreado-logos-de-aire-cable-y-60765.png" group-title="Tv Internacional",Guatemala|| AZTECA
-http://gangafree.com:25461/live/51194/16890/38042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Guatemala|| GUATEVISION" tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/cropped-gtvicon-1.png?quality=82" group-title="Tv Internacional",Guatemala|| GUATEVISION
-http://gangafree.com:25461/live/51194/16890/38043.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Honduras || Telavision" tvg-logo="http://gangafree.com:25461/images/65bb3d4d0dd2ee83aef85e3b976c0096.jpg" group-title="Tv Internacional",Honduras || Telavision
-http://gangafree.com:25461/live/51194/16890/38044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Honduras ||| AZTECA" tvg-logo="data:image/png;base64,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" group-title="Tv Internacional",Honduras ||| AZTECA
-http://gangafree.com:25461/live/51194/16890/38045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Honduras ||| CANAL 5" tvg-logo="http://gangafree.com:25461/images/e3f47ba26128677bdae0764dc8c8baad.jpg" group-title="Tv Internacional",Honduras ||| CANAL 5
-http://gangafree.com:25461/live/51194/16890/38046.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Honduras ||| GLOBOTV" tvg-logo="http://gangafree.com:25461/images/9adad7fded0f826adaf21f808835b7a9.jpg" group-title="Tv Internacional",Honduras ||| GLOBOTV
-http://gangafree.com:25461/live/51194/16890/38047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Honduras|| Canal 11 SD" tvg-logo="http://gangafree.com:25461/images/cf8863bcc3d5c1584ed61d30451ae1f5.jpg" group-title="Tv Internacional",Honduras|| Canal 11 SD
-http://gangafree.com:25461/live/51194/16890/38048.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nicaragua|| Canal 2" tvg-logo="http://gangafree.com:25461/images/fc5abaf6b1388b58de0c2f4f80f861fc.png" group-title="Tv Internacional",Nicaragua|| Canal 2
-http://gangafree.com:25461/live/51194/16890/38049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nicaragua|| Canal 10" tvg-logo="http://gangafree.com:25461/images/59e5bfa3d8e854d2fb0637bac0ee663f.png" group-title="Tv Internacional",Nicaragua|| Canal 10
-http://gangafree.com:25461/live/51194/16890/38050.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nicaragua|| Canal 4" tvg-logo="http://gangafree.com:25461/images/f0a0e7e2c718421bb93dfff831f7a5cc.png" group-title="Tv Internacional",Nicaragua|| Canal 4
-http://gangafree.com:25461/live/51194/16890/38051.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nicaragua|| Canal 6" tvg-logo="http://gangafree.com:25461/images/1011fc7161aca4b12ee1689e2517376c.png" group-title="Tv Internacional",Nicaragua|| Canal 6
-http://gangafree.com:25461/live/51194/16890/38052.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="•Panama | Nex Canal 21" tvg-logo="" group-title="Tv Internacional",•Panama | Nex Canal 21
-http://gangafree.com:25461/live/51194/16890/38053.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Panama|| Telemetro" tvg-logo="" group-title="Tv Internacional",Panama|| Telemetro
-http://gangafree.com:25461/live/51194/16890/38054.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Panama|| TV Max" tvg-logo="" group-title="Tv Internacional",Panama|| TV Max
-http://gangafree.com:25461/live/51194/16890/38055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA | NEX CANAL 21" tvg-logo="http://gangafree.com:25461/images/54dbd3b3fb408a5d037cf80af1ec51e3.png" group-title="Tv Internacional",PANAMA | NEX CANAL 21
-http://gangafree.com:25461/live/51194/16890/38056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Panama|| TVN" tvg-logo="" group-title="Tv Internacional",Panama|| TVN
-http://gangafree.com:25461/live/51194/16890/38057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peru|| America" tvg-logo="http://gangafree.com:25461/images/ba3aaa75b7510b43947f213485ce04a1.jpg" group-title="Tv Internacional",Peru|| America
-http://gangafree.com:25461/live/51194/16890/38058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peru|| Canal N" tvg-logo="http://gangafree.com:25461/images/28500a066f6f70c7cabb54f000b7b263.jpg" group-title="Tv Internacional",Peru|| Canal N
-http://gangafree.com:25461/live/51194/16890/38059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Peru|| Latina Opc. 1" tvg-logo="http://gangafree.com:25461/images/35655c03936fc226f09bf43dbc9366fa.jpg" group-title="Tv Internacional",Peru|| Latina Opc. 1
-http://gangafree.com:25461/live/51194/16890/38060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Puerto Rico|| Univision" tvg-logo="http://gangafree.com:25461/images/e1924221a2b9eafe267aa10b3f4b7946.jpg" group-title="Tv Internacional",Puerto Rico|| Univision
-http://gangafree.com:25461/live/51194/16890/38061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Puerto Rico|| Telemundo" tvg-logo="http://gangafree.com:25461/images/312d063625b3c6f7faf88ae8e4d8d0e1.jpg" group-title="Tv Internacional",Puerto Rico|| Telemundo
-http://gangafree.com:25461/live/51194/16890/38062.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Puerto Rico|| Wapa" tvg-logo="http://logosolusa.com/wp-content/uploads/2016/10/WAPA-TV-(Puerto-Rico)-Logo-1.png" group-title="Tv Internacional",Puerto Rico|| Wapa
-http://gangafree.com:25461/live/51194/16890/38063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RD|| ACENTO TV SD DO (c)" tvg-logo="" group-title="Tv Internacional",RD|| ACENTO TV SD DO (c)
-http://gangafree.com:25461/live/51194/16890/38064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RD|| Boreal TV" tvg-logo="" group-title="Tv Internacional",RD|| Boreal TV
-http://gangafree.com:25461/live/51194/16890/38065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RD|| Canal 4 RD" tvg-logo="http://gangafree.com:25461/images/6f0ac93a3db3a964aeaf0b1cfed7fd65.png" group-title="Tv Internacional",RD|| Canal 4 RD
-http://gangafree.com:25461/live/51194/16890/38066.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RD|| COLOR VISION" tvg-logo="http://gangafree.com:25461/images/7e996b4d91cc63b412b87dacc3ba16bc.png" group-title="Tv Internacional",RD|| COLOR VISION
-http://gangafree.com:25461/live/51194/16890/38067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RD|| Cinevision 19" tvg-logo="" group-title="Tv Internacional",RD|| Cinevision 19
-http://gangafree.com:25461/live/51194/16890/38068.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Venezuela|| CGNTV" tvg-logo="" group-title="Tv Internacional",Venezuela|| CGNTV
-http://gangafree.com:25461/live/51194/16890/38069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Venezuela|| Televen" tvg-logo="http://gangafree.com:25461/images/02c7448580ca7ac8b9069b7415d09a29.png" group-title="Tv Internacional",Venezuela|| Televen
-http://gangafree.com:25461/live/51194/16890/38070.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Venezuela|| TV Conciencia" tvg-logo="http://gangafree.com:25461/images/6bc7f99bd1dab8bc0904928ebfd634da.png" group-title="Tv Internacional",Venezuela|| TV Conciencia
-http://gangafree.com:25461/live/51194/16890/38071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE HD | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="Cine Premium",TE CINE HD | HBO Xtreme
-http://gangafree.com:25461/live/51194/16890/38072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | A&E" tvg-logo="http://gangafree.com:25461/images/a6e11e82e64788a04e0e17e24e03b745.png" group-title="Cine Premium",TE CINE | A&E
-http://gangafree.com:25461/live/51194/16890/38073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | AMC" tvg-logo="http://gangafree.com:25461/images/e7aa879e9a70a5779ba71d7e8eb0ab71.jpg" group-title="Cine Premium",TE CINE | AMC
-http://gangafree.com:25461/live/51194/16890/38074.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | AXN" tvg-logo="http://gangafree.com:25461/images/8e40a10a19a214a5ed5931229cf58c49.png" group-title="Cine Premium",TE CINE | AXN
-http://gangafree.com:25461/live/51194/16890/38075.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | CINECANAL" tvg-logo="http://gangafree.com:25461/images/34c40de555a911759320997be1b2860d.png" group-title="Cine Premium",TE CINE | CINECANAL
-http://gangafree.com:25461/live/51194/16890/38076.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | CINEMA DINAMITA" tvg-logo="" group-title="Cine Premium",TE CINE | CINEMA DINAMITA
-http://gangafree.com:25461/live/51194/16890/38077.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | CINEMAX" tvg-logo="" group-title="Cine Premium",TE CINE | CINEMAX
-http://gangafree.com:25461/live/51194/16890/38078.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | DE PELICULA PLUS" tvg-logo="http://gangafree.com:25461/images/610a060062461226c657328110e67bc8.png" group-title="Cine Premium",TE CINE | DE PELICULA PLUS
-http://gangafree.com:25461/live/51194/16890/38079.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | EUROPA EUROPA" tvg-logo="" group-title="Cine Premium",TE CINE | EUROPA EUROPA
-http://gangafree.com:25461/live/51194/16890/38080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | FOX" tvg-logo="" group-title="Cine Premium",TE CINE | FOX
-http://gangafree.com:25461/live/51194/16890/38081.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | FOX LIFE" tvg-logo="http://gangafree.com:25461/images/3bf7dfab12e7df26d12cecd8fee92081.png" group-title="Cine Premium",TE CINE | FOX LIFE
-http://gangafree.com:25461/live/51194/16890/38082.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | FOX PREMIUM ACTION" tvg-logo="http://gangafree.com:25461/images/a5ab55bb4e557cee12314b4479acf996.png" group-title="Cine Premium",TE CINE | FOX PREMIUM ACTION
-http://gangafree.com:25461/live/51194/16890/38083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | FOX PREMIUM CINEMA" tvg-logo="http://gangafree.com:25461/images/ba140f4645e280c8166aa13ad2b1ada0.png" group-title="Cine Premium",TE CINE | FOX PREMIUM CINEMA
-http://gangafree.com:25461/live/51194/16890/38084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | FOX PREMIUM CLASSIC" tvg-logo="" group-title="Cine Premium",TE CINE | FOX PREMIUM CLASSIC
-http://gangafree.com:25461/live/51194/16890/38085.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | FOX PREMIUM COMEDY" tvg-logo="" group-title="Cine Premium",TE CINE | FOX PREMIUM COMEDY
-http://gangafree.com:25461/live/51194/16890/38086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | FOX PREMIUM FAMILY" tvg-logo="" group-title="Cine Premium",TE CINE | FOX PREMIUM FAMILY
-http://gangafree.com:25461/live/51194/16890/38087.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | FOX PREMIUM MOVIES" tvg-logo="" group-title="Cine Premium",TE CINE | FOX PREMIUM MOVIES
-http://gangafree.com:25461/live/51194/16890/38088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | FOX PREMIUM SERIES" tvg-logo="" group-title="Cine Premium",TE CINE | FOX PREMIUM SERIES
-http://gangafree.com:25461/live/51194/16890/38089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | FX" tvg-logo="" group-title="Cine Premium",TE CINE | FX
-http://gangafree.com:25461/live/51194/16890/38090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | FXM" tvg-logo="" group-title="Cine Premium",TE CINE | FXM
-http://gangafree.com:25461/live/51194/16890/38091.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | GOLDEN" tvg-logo="" group-title="Cine Premium",TE CINE | GOLDEN
-http://gangafree.com:25461/live/51194/16890/38092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | GOLDEN EDGE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Logo-goldedge.jpg/revision/latest?cb=20190322171006" group-title="Cine Premium",TE CINE | GOLDEN EDGE
-http://gangafree.com:25461/live/51194/16890/38093.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | HBO" tvg-logo="" group-title="Cine Premium",TE CINE | HBO
-http://gangafree.com:25461/live/51194/16890/38094.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | HBO 2" tvg-logo="http://gangafree.com:25461/images/c1959e5e86af9ba51c5b2300a135ae62.png" group-title="Cine Premium",TE CINE | HBO 2
-http://gangafree.com:25461/live/51194/16890/38095.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | HBO FAMILY" tvg-logo="" group-title="Cine Premium",TE CINE | HBO FAMILY
-http://gangafree.com:25461/live/51194/16890/38096.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | HBO PLUS" tvg-logo="" group-title="Cine Premium",TE CINE | HBO PLUS
-http://gangafree.com:25461/live/51194/16890/38097.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | HBO SIGNATURE" tvg-logo="http://gangafree.com:25461/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="Cine Premium",TE CINE | HBO SIGNATURE
-http://gangafree.com:25461/live/51194/16890/38098.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | HBO MUNDI" tvg-logo="http://gangafree.com:25461/images/48de5ef94d493ef76b1ac48e82e2d212.png" group-title="Cine Premium",TE CINE | HBO MUNDI
-http://gangafree.com:25461/live/51194/16890/38099.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | PARAMOUNT CHANNEL" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/556px-Paramount_Channel.svg.png/revision/latest?cb=20151009064853&path-prefix=es" group-title="Cine Premium",TE CINE | PARAMOUNT CHANNEL
-http://gangafree.com:25461/live/51194/16890/38100.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | SONY" tvg-logo="http://gangafree.com:25461/images/c2bdcc883944effe256e56157eb50fbd.png" group-title="Cine Premium",TE CINE | SONY
-http://gangafree.com:25461/live/51194/16890/38101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | SPACE" tvg-logo="" group-title="Cine Premium",TE CINE | SPACE
-http://gangafree.com:25461/live/51194/16890/38102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | STAR TVE" tvg-logo="http://gangafree.com:25461/images/a52d98344c003488429a8de6317c98f0.jpg" group-title="Cine Premium",TE CINE | STAR TVE
-http://gangafree.com:25461/live/51194/16890/38103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | TBS" tvg-logo="" group-title="Cine Premium",TE CINE | TBS
-http://gangafree.com:25461/live/51194/16890/38104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | TCM" tvg-logo="" group-title="Cine Premium",TE CINE | TCM
-http://gangafree.com:25461/live/51194/16890/38105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | TNT" tvg-logo="http://gangafree.com:25461/images/2bfef0530e86875773ac557931601714.png" group-title="Cine Premium",TE CINE | TNT
-http://gangafree.com:25461/live/51194/16890/38106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE CINE | TNT SERIES" tvg-logo="http://gangafree.com:25461/images/b343e0f6449236510c6cb532a4bad667.png" group-title="Cine Premium",TE CINE | TNT SERIES
-http://gangafree.com:25461/live/51194/16890/38107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal de las Estrellas LA" tvg-logo="http://mylatinotv.com:8080/images/mexico/lasestrellas.png" group-title="Mexico",Canal de las Estrellas LA
-http://gangafree.com:25461/live/51194/16890/40443.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Ultra Familia" tvg-logo="" group-title="Mexico",Mexico | Ultra Familia
-http://gangafree.com:25461/live/51194/16890/40444.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Ultra Macho" tvg-logo="" group-title="Mexico",Mexico | Ultra Macho
-http://gangafree.com:25461/live/51194/16890/40448.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Ultra Film" tvg-logo="" group-title="Mexico",Mexico | Ultra Film
-http://gangafree.com:25461/live/51194/16890/40450.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Ultra Fiesta" tvg-logo="" group-title="Mexico",Mexico | Ultra Fiesta
-http://gangafree.com:25461/live/51194/16890/40451.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Ultra Clasico" tvg-logo="" group-title="Mexico",Mexico | Ultra Clasico
-http://gangafree.com:25461/live/51194/16890/40452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Ultra Cine" tvg-logo="" group-title="Mexico",Mexico | Ultra Cine
-http://gangafree.com:25461/live/51194/16890/40453.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Ultra Kidz" tvg-logo="" group-title="Mexico",Mexico | Ultra Kidz
-http://gangafree.com:25461/live/51194/16890/40454.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Orbita tv" tvg-logo="" group-title="Mexico",Mexico | Orbita tv
-http://gangafree.com:25461/live/51194/16890/40455.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | 24horas" tvg-logo="" group-title="Mexico",Mexico | 24horas
-http://gangafree.com:25461/live/51194/16890/40456.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | France24hd" tvg-logo="" group-title="Mexico",Mexico | France24hd
-http://gangafree.com:25461/live/51194/16890/40457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Canal44" tvg-logo="" group-title="Mexico",Mexico | Canal44
-http://gangafree.com:25461/live/51194/16890/40458.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Estrellatv" tvg-logo="" group-title="Mexico",Mexico | Estrellatv
-http://gangafree.com:25461/live/51194/16890/40459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Zeemundo" tvg-logo="" group-title="Mexico",Mexico | Zeemundo
-http://gangafree.com:25461/live/51194/16890/40461.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Insight_tv" tvg-logo="" group-title="Mexico",Mexico | Insight_tv
-http://gangafree.com:25461/live/51194/16890/40462.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Supercanal" tvg-logo="" group-title="Mexico",Mexico | Supercanal
-http://gangafree.com:25461/live/51194/16890/40463.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Tele-el-salvador" tvg-logo="" group-title="Mexico",Mexico | Tele-el-salvador
-http://gangafree.com:25461/live/51194/16890/40464.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Cbtv" tvg-logo="" group-title="Mexico",Mexico | Cbtv
-http://gangafree.com:25461/live/51194/16890/40465.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | C7jalisco" tvg-logo="" group-title="Mexico",Mexico | C7jalisco
-http://gangafree.com:25461/live/51194/16890/40466.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Cubaplay" tvg-logo="" group-title="Mexico",Mexico | Cubaplay
-http://gangafree.com:25461/live/51194/16890/40467.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Gran cine" tvg-logo="" group-title="Mexico",Mexico | Gran cine
-http://gangafree.com:25461/live/51194/16890/40468.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Sorpresa" tvg-logo="" group-title="Mexico",Mexico | Sorpresa
-http://gangafree.com:25461/live/51194/16890/40469.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Telen" tvg-logo="" group-title="Mexico",Mexico | Telen
-http://gangafree.com:25461/live/51194/16890/40470.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Lasusa" tvg-logo="" group-title="Mexico",Mexico | Lasusa
-http://gangafree.com:25461/live/51194/16890/40471.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Aym sports" tvg-logo="" group-title="Mexico",Mexico | Aym sports
-http://gangafree.com:25461/live/51194/16890/40472.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Telemicro" tvg-logo="" group-title="Mexico",Mexico | Telemicro
-http://gangafree.com:25461/live/51194/16890/40473.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Sonlife spanish" tvg-logo="" group-title="Mexico",Mexico | Sonlife spanish
-http://gangafree.com:25461/live/51194/16890/40474.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Enlace" tvg-logo="" group-title="Mexico",Mexico | Enlace
-http://gangafree.com:25461/live/51194/16890/40475.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Aliento vision" tvg-logo="" group-title="Mexico",Mexico | Aliento vision
-http://gangafree.com:25461/live/51194/16890/40476.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico | Canal 44" tvg-logo="" group-title="Mexico",Mexico | Canal 44
-http://gangafree.com:25461/live/51194/16890/40478.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="****MEXICO****" tvg-logo="http://gangafree.com:25461/images/4edfc924721abb774d5447bade86ea5d.png" group-title="Mexico",****MEXICO****
-http://gangafree.com:25461/live/51194/16890/40479.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estrella TV" tvg-logo="http://gangafree.com:25461/images/17a287c62be19cad939ae650f9445a96.jpeg" group-title="Mexico",Estrella TV
-http://gangafree.com:25461/live/51194/16890/40480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexico - Milenio Tv MX" tvg-logo="http://mylatinotv.com:8080/images/mexico/mileniotv.png" group-title="Mexico",Mexico - Milenio Tv MX
-http://gangafree.com:25461/live/51194/16890/40481.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Milenio." tvg-logo="http://mylatinotv.com:8080/images/mexico/mileniotv.png" group-title="Mexico",Milenio.
-http://gangafree.com:25461/live/51194/16890/40482.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo HD" tvg-logo="http://gangafree.com:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="Mexico",LA: Telemundo HD
-http://gangafree.com:25461/live/51194/16890/40483.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo 47 HD" tvg-logo="http://gangafree.com:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="Mexico",LA: Telemundo 47 HD
-http://gangafree.com:25461/live/51194/16890/40484.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX Canal 5" tvg-logo="" group-title="Mexico",MX Canal 5
-http://gangafree.com:25461/live/51194/16890/40485.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 1" tvg-logo="" group-title="Mexico",Azteca 1
-http://gangafree.com:25461/live/51194/16890/40486.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="" group-title="Mexico",Azteca 7
-http://gangafree.com:25461/live/51194/16890/40487.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA | TLC | Cultural" tvg-logo="https://www.thewrap.com/wp-content/uploads/2014/08/tlc-logo.jpg" group-title="Culturales",LA | TLC | Cultural
-http://gangafree.com:25461/live/51194/16890/40489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA | Animal Planet | Cultural" tvg-logo="https://www.newslinereport.com/online/nota_animal-planet-renueva-su-imagen-en-america-latina.jpg" group-title="Culturales",LA | Animal Planet | Cultural
-http://gangafree.com:25461/live/51194/16890/40490.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA | Discovery Channel | Cultural" tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg" group-title="Culturales",LA | Discovery Channel | Cultural
-http://gangafree.com:25461/live/51194/16890/40491.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery H&H SD | Cultural" tvg-logo="https://www.comteco.com.bo/img/upload/canales/hyh-discovery.png" group-title="Culturales",MX | Discovery H&H SD | Cultural
-http://gangafree.com:25461/live/51194/16890/40492.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA | Discovery Science | Cultural" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="Culturales",LA | Discovery Science | Cultural
-http://gangafree.com:25461/live/51194/16890/40493.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA | Discovery Theater | Cultural" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-hd-theater_m.png" group-title="Culturales",LA | Discovery Theater | Cultural
-http://gangafree.com:25461/live/51194/16890/40494.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA | Discovery Turbo | Cultural" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/DiscoveryTurbo.png" group-title="Culturales",LA | Discovery Turbo | Cultural
-http://gangafree.com:25461/live/51194/16890/40495.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA | Discovery World | Cultural" tvg-logo="https://pbs.twimg.com/profile_images/746351117177479168/MkxvzVVF_400x400.jpg" group-title="Culturales",LA | Discovery World | Cultural
-http://gangafree.com:25461/live/51194/16890/40496.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA | Investigation Discovery | Cultural" tvg-logo="https://i.imgur.com/UE8u1PZ.jpg" group-title="Culturales",LA | Investigation Discovery | Cultural
-http://gangafree.com:25461/live/51194/16890/40497.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA | H2 | Cultural" tvg-logo="https://cdn.mitvstatic.com/channels/gt_h2_m.png" group-title="Culturales",LA | H2 | Cultural
-http://gangafree.com:25461/live/51194/16890/40498.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | History CHANNEL | Cultural" tvg-logo="https://www.seekpng.com/png/detail/291-2917130_biblia-png-sin-fondo-history-tv-logo.png" group-title="Culturales",MX | History CHANNEL | Cultural
-http://gangafree.com:25461/live/51194/16890/40499.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA | NatGeo Wild | Cultural" tvg-logo="https://i.imgur.com/MsDZBf0.jpg" group-title="Culturales",LA | NatGeo Wild | Cultural
-http://gangafree.com:25461/live/51194/16890/40500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA | Nat Geo | Cultural" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="Culturales",LA | Nat Geo | Cultural
-http://gangafree.com:25461/live/51194/16890/40501.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA | H2 | Cultural Opc 2" tvg-logo="https://cdn.mitvstatic.com/channels/gt_h2_m.png" group-title="Culturales",LA | H2 | Cultural Opc 2
-http://gangafree.com:25461/live/51194/16890/40502.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | History CHANNEL HD | Cultural" tvg-logo="https://www.seekpng.com/png/detail/291-2917130_biblia-png-sin-fondo-history-tv-logo.png" group-title="Culturales",MX | History CHANNEL HD | Cultural
-http://gangafree.com:25461/live/51194/16890/40503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | History CHANNEL SD | Cultural" tvg-logo="https://www.seekpng.com/png/detail/291-2917130_biblia-png-sin-fondo-history-tv-logo.png" group-title="Culturales",MX | History CHANNEL SD | Cultural
-http://gangafree.com:25461/live/51194/16890/40504.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA || Discovery en Español" tvg-logo="" group-title="Culturales",LA || Discovery en Español
-http://gangafree.com:25461/live/51194/16890/40505.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | NatGeo Wild HD | Cultural" tvg-logo="https://i.imgur.com/MsDZBf0.jpg" group-title="Culturales",MX | NatGeo Wild HD | Cultural
-http://gangafree.com:25461/live/51194/16890/40506.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Nat Geo SD  | Cultural" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="Culturales",MX | Nat Geo SD  | Cultural
-http://gangafree.com:25461/live/51194/16890/40507.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | NatGeo Wild SD | Cultural" tvg-logo="https://i.imgur.com/MsDZBf0.jpg" group-title="Culturales",MX | NatGeo Wild SD | Cultural
-http://gangafree.com:25461/live/51194/16890/40508.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Nat Geo | Cultural" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="Culturales",MX | Nat Geo | Cultural
-http://gangafree.com:25461/live/51194/16890/40509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Nat Geo HD | Cultural" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="Culturales",MX | Nat Geo HD | Cultural
-http://gangafree.com:25461/live/51194/16890/40510.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery Civilization SD | Cultural" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="Culturales",MX | Discovery Civilization SD | Cultural
-http://gangafree.com:25461/live/51194/16890/40511.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery SCI SD | Cultural" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="Culturales",MX | Discovery SCI SD | Cultural
-http://gangafree.com:25461/live/51194/16890/40512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | NAT GEO SD | Cultural" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="Culturales",MX | NAT GEO SD | Cultural
-http://gangafree.com:25461/live/51194/16890/40513.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery H&H HD | Cultural" tvg-logo="https://www.comteco.com.bo/img/upload/canales/hyh-discovery.png" group-title="Culturales",MX | Discovery H&H HD | Cultural
-http://gangafree.com:25461/live/51194/16890/40514.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Animal Planet SD | Cultural" tvg-logo="https://www.newslinereport.com/online/nota_animal-planet-renueva-su-imagen-en-america-latina.jpg" group-title="Culturales",MX | Animal Planet SD | Cultural
-http://gangafree.com:25461/live/51194/16890/40515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery Channel SD | Cultural" tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg" group-title="Culturales",MX | Discovery Channel SD | Cultural
-http://gangafree.com:25461/live/51194/16890/40516.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery World SD | Cultural" tvg-logo="https://pbs.twimg.com/profile_images/746351117177479168/MkxvzVVF_400x400.jpg" group-title="Culturales",MX | Discovery World SD | Cultural
-http://gangafree.com:25461/live/51194/16890/40517.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery Theater SD | Cultural" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-hd-theater_m.png" group-title="Culturales",MX | Discovery Theater SD | Cultural
-http://gangafree.com:25461/live/51194/16890/40518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | TLC SD | Cultural" tvg-logo="https://www.thewrap.com/wp-content/uploads/2014/08/tlc-logo.jpg" group-title="Culturales",MX | TLC SD | Cultural
-http://gangafree.com:25461/live/51194/16890/40519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery TURBO SD | Cultural" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/DiscoveryTurbo.png" group-title="Culturales",MX | Discovery TURBO SD | Cultural
-http://gangafree.com:25461/live/51194/16890/40520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Investigation Discovery SD | Cultural" tvg-logo="https://i.imgur.com/UE8u1PZ.jpg" group-title="Culturales",MX | Investigation Discovery SD | Cultural
-http://gangafree.com:25461/live/51194/16890/40521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery Civilization HD | Cultural" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="Culturales",MX | Discovery Civilization HD | Cultural
-http://gangafree.com:25461/live/51194/16890/40522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery Science HD | Cultural" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="Culturales",MX | Discovery Science HD | Cultural
-http://gangafree.com:25461/live/51194/16890/40523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | National Geographic HD | Cultural" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="Culturales",MX | National Geographic HD | Cultural
-http://gangafree.com:25461/live/51194/16890/40524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery Channel HD | Cultural" tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg" group-title="Culturales",MX | Discovery Channel HD | Cultural
-http://gangafree.com:25461/live/51194/16890/40525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery World HD | Cultural" tvg-logo="https://pbs.twimg.com/profile_images/746351117177479168/MkxvzVVF_400x400.jpg" group-title="Culturales",MX | Discovery World HD | Cultural
-http://gangafree.com:25461/live/51194/16890/40526.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery Theater HD | Cultural" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-hd-theater_m.png" group-title="Culturales",MX | Discovery Theater HD | Cultural
-http://gangafree.com:25461/live/51194/16890/40527.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Investigation Discovery HD | Cultural" tvg-logo="https://i.imgur.com/UE8u1PZ.jpg" group-title="Culturales",MX | Investigation Discovery HD | Cultural
-http://gangafree.com:25461/live/51194/16890/40528.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | TLC HD | Cultural" tvg-logo="https://www.thewrap.com/wp-content/uploads/2014/08/tlc-logo.jpg" group-title="Culturales",MX | TLC HD | Cultural
-http://gangafree.com:25461/live/51194/16890/40529.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery Turbo HD | Cultural" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/DiscoveryTurbo.png" group-title="Culturales",MX | Discovery Turbo HD | Cultural
-http://gangafree.com:25461/live/51194/16890/40530.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Animal Planet HD | Cultural" tvg-logo="https://www.newslinereport.com/online/nota_animal-planet-renueva-su-imagen-en-america-latina.jpg" group-title="Culturales",MX | Animal Planet HD | Cultural
-http://gangafree.com:25461/live/51194/16890/40531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | Investigation Discovery HD | Cultural" tvg-logo="https://i.imgur.com/UE8u1PZ.jpg" group-title="Culturales",MX | Investigation Discovery HD | Cultural
-http://gangafree.com:25461/live/51194/16890/40532.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | BABY TV HD" tvg-logo="https://i.imgur.com/ikAwbLM.jpg" group-title="Infantiles",TE INFANTILES | BABY TV HD
-http://gangafree.com:25461/live/51194/16890/40773.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | BOOMERANG" tvg-logo="https://i.imgur.com/JEtTR44.png" group-title="Infantiles",TE INFANTILES | BOOMERANG
-http://gangafree.com:25461/live/51194/16890/40774.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | Boomerang HD" tvg-logo="http://144.217.91.146/Logos/United%20States/boomerang-global.png" group-title="Infantiles",TE INFANTILES | Boomerang HD
-http://gangafree.com:25461/live/51194/16890/40775.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | CARTOON NETWORK HD" tvg-logo="https://i.imgur.com/gEI5p2h.png" group-title="Infantiles",TE INFANTILES | CARTOON NETWORK HD
-http://gangafree.com:25461/live/51194/16890/40776.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | DISCOVERY KIDS HD" tvg-logo="https://i.imgur.com/7tIA2Vz.png" group-title="Infantiles",TE INFANTILES | DISCOVERY KIDS HD
-http://gangafree.com:25461/live/51194/16890/40777.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | DISNEY CHANNEL HD" tvg-logo="http://i.imgur.com/zrqUbNB.png" group-title="Infantiles",TE INFANTILES | DISNEY CHANNEL HD
-http://gangafree.com:25461/live/51194/16890/40778.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | DISNEY JR" tvg-logo="http://144.217.91.146/Logos/United%20States/disney-junior-us.png" group-title="Infantiles",TE INFANTILES | DISNEY JR
-http://gangafree.com:25461/live/51194/16890/40779.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | DISNEY JR HD" tvg-logo="https://i.imgur.com/2oatUKe.jpg" group-title="Infantiles",TE INFANTILES | DISNEY JR HD
-http://gangafree.com:25461/live/51194/16890/40780.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | Disney XD" tvg-logo="http://144.217.91.146/Logos/United%20States/disney-xd-us.png" group-title="Infantiles",TE INFANTILES | Disney XD
-http://gangafree.com:25461/live/51194/16890/40781.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | DISNEY XD HD" tvg-logo="https://i.imgur.com/1hAnJ2m.png" group-title="Infantiles",TE INFANTILES | DISNEY XD HD
-http://gangafree.com:25461/live/51194/16890/40782.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | NAT GEO KIDS" tvg-logo="https://i.imgur.com/1yFsQZi.jpg" group-title="Infantiles",TE INFANTILES | NAT GEO KIDS
-http://gangafree.com:25461/live/51194/16890/40783.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | NAT GEO KIDS HD" tvg-logo="https://i.imgur.com/1yFsQZi.jpg" group-title="Infantiles",TE INFANTILES | NAT GEO KIDS HD
-http://gangafree.com:25461/live/51194/16890/40784.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | NICK 2" tvg-logo="https://i.imgur.com/fhIjMDV.png" group-title="Infantiles",TE INFANTILES | NICK 2
-http://gangafree.com:25461/live/51194/16890/40785.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | NICK 2 HD" tvg-logo="https://i.imgur.com/3Svfymb.png" group-title="Infantiles",TE INFANTILES | NICK 2 HD
-http://gangafree.com:25461/live/51194/16890/40786.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | NICK JR" tvg-logo="https://i.imgur.com/lq4Lbzu.png" group-title="Infantiles",TE INFANTILES | NICK JR
-http://gangafree.com:25461/live/51194/16890/40787.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | NICKELODEON HD" tvg-logo="https://i.imgur.com/HxYINRV.jpg" group-title="Infantiles",TE INFANTILES | NICKELODEON HD
-http://gangafree.com:25461/live/51194/16890/40788.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | NICKTOONS HD" tvg-logo="https://logodix.com/logo/1280331.png" group-title="Infantiles",TE INFANTILES | NICKTOONS HD
-http://gangafree.com:25461/live/51194/16890/40789.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | TOONCAST" tvg-logo="https://i.imgur.com/VLoCdNO.png" group-title="Infantiles",TE INFANTILES | TOONCAST
-http://gangafree.com:25461/live/51194/16890/40790.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TE INFANTILES | Cartoon Network" tvg-logo="http://144.217.91.146/Logos/United%20States/cartoon-network-global.png" group-title="Infantiles",TE INFANTILES | Cartoon Network
-http://gangafree.com:25461/live/51194/16890/40791.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Fall From Grace (2020)" tvg-logo="http://gangafree.com:25461/images/410d7115f716e383508553a5d129289b.jpg" group-title="Estrenos 2020",A Fall From Grace (2020)
-http://gangafree.com:25461/movie/51194/16890/18.mp4
-#EXTINF:-1 tvg-id="" tvg-name="After Midnight (2020)" tvg-logo="http://gangafree.com:25461/images/c5f7058514f29cc5728e687253247526.jpg" group-title="Estrenos 2020",After Midnight (2020)
-http://gangafree.com:25461/movie/51194/16890/19.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ana (2020)" tvg-logo="http://gangafree.com:25461/images/110436b5025cd2e7a10c0932b2400a8b.jpg" group-title="Estrenos 2020",Ana (2020)
-http://gangafree.com:25461/movie/51194/16890/20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Serial Killer's Guide to Life (2020)" tvg-logo="http://gangafree.com:25461/images/522d5b4d632b97184108222b3743b0bb.jpg" group-title="Estrenos 2020",A Serial Killer's Guide to Life (2020)
-http://gangafree.com:25461/movie/51194/16890/21.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beneath Us (2020)" tvg-logo="http://gangafree.com:25461/images/c572e168b811d3988c68d9fe474e1a03.jpg" group-title="Estrenos 2020",Beneath Us (2020)
-http://gangafree.com:25461/movie/51194/16890/22.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bulletproof 2 (2020)" tvg-logo="http://gangafree.com:25461/images/9fea8243a0e0311c464d09bc41b5a9c8.jpg" group-title="Estrenos 2020",Bulletproof 2 (2020)
-http://gangafree.com:25461/movie/51194/16890/23.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cindy la regia (2020)" tvg-logo="http://gangafree.com:25461/images/c08305c04891413dbba750222dcc7556.jpg" group-title="Estrenos 2020",Cindy la regia (2020)
-http://gangafree.com:25461/movie/51194/16890/24.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Come to Daddy (2020)" tvg-logo="http://gangafree.com:25461/images/f3d65ed3160cb57447b0099f12663b84.jpg" group-title="Estrenos 2020",Come to Daddy (2020)
-http://gangafree.com:25461/movie/51194/16890/25.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Horse Girl (2020)" tvg-logo="http://gangafree.com:25461/images/27d877785fc576a2b15f52781837e819.jpg" group-title="Estrenos 2020",Horse Girl (2020)
-http://gangafree.com:25461/movie/51194/16890/26.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Isi & Ossi (2020)" tvg-logo="http://gangafree.com:25461/images/8d69cb94312470731c8961efd9bf27e2.jpg" group-title="Estrenos 2020",Isi & Ossi (2020)
-http://gangafree.com:25461/movie/51194/16890/27.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lamp Life (2020)" tvg-logo="http://gangafree.com:25461/images/b2fc135e937439a4c4c47dd970481b7d.jpg" group-title="Estrenos 2020",Lamp Life (2020)
-http://gangafree.com:25461/movie/51194/16890/28.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Leslie Jones: Time Machine (2020)" tvg-logo="http://gangafree.com:25461/images/ec28c1a405b3a35583a67012064a54c3.jpg" group-title="Estrenos 2020",Leslie Jones: Time Machine (2020)
-http://gangafree.com:25461/movie/51194/16890/29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Miss Americana (2020)" tvg-logo="http://gangafree.com:25461/images/2d1469aa08b58c1f41148d9789bce008.jpg" group-title="Estrenos 2020",Miss Americana (2020)
-http://gangafree.com:25461/movie/51194/16890/30.mp4
-#EXTINF:-1 tvg-id="" tvg-name="No andaba muerto, estaba de parranda (2020)" tvg-logo="http://gangafree.com:25461/images/2c3dcd11c02f438cf7792e59d855c59a.jpg" group-title="Estrenos 2020",No andaba muerto, estaba de parranda (2020)
-http://gangafree.com:25461/movie/51194/16890/31.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superman: Red Son (2020)" tvg-logo="http://gangafree.com:25461/images/d3e36e7a96bc0cb6e3ba4f5797bd4634.jpg" group-title="Estrenos 2020",Superman: Red Son (2020)
-http://gangafree.com:25461/movie/51194/16890/32.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Assent (2020)" tvg-logo="http://gangafree.com:25461/images/f6372345c9a5cb2fe1933119b7fda837.jpg" group-title="Estrenos 2020",The Assent (2020)
-http://gangafree.com:25461/movie/51194/16890/33.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Dawn (2020)" tvg-logo="http://gangafree.com:25461/images/9983a3e541fd199794c28c7848c8ec59.jpg" group-title="Estrenos 2020",The Dawn (2020)
-http://gangafree.com:25461/movie/51194/16890/34.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Host (2020)" tvg-logo="http://gangafree.com:25461/images/478d8981b93b6410af343e90f1bb5df3.jpg" group-title="Estrenos 2020",The Host (2020)
-http://gangafree.com:25461/movie/51194/16890/35.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last Thing He Wanted (2020)" tvg-logo="http://gangafree.com:25461/images/3c2418f27bfbbf0b65225351a29bbff0.jpg" group-title="Estrenos 2020",The Last Thing He Wanted (2020)
-http://gangafree.com:25461/movie/51194/16890/36.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Murder of Nicole Brown Simpson (2020)" tvg-logo="http://gangafree.com:25461/images/987e9679f90bde9fbf9343876207f477.jpg" group-title="Estrenos 2020",The Murder of Nicole Brown Simpson (2020)
-http://gangafree.com:25461/movie/51194/16890/37.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Photograph (2020)" tvg-logo="http://gangafree.com:25461/images/acce7c334a53366046e4f111598b6531.jpg" group-title="Estrenos 2020",The Photograph (2020)
-http://gangafree.com:25461/movie/51194/16890/38.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Windermere Children (2020)" tvg-logo="http://gangafree.com:25461/images/dbc06069544b6a64cdef85fbf6e21eee.jpg" group-title="Estrenos 2020",The Windermere Children (2020)
-http://gangafree.com:25461/movie/51194/16890/39.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Timmy Failure: Mistakes Were Made (2020)" tvg-logo="http://gangafree.com:25461/images/4203cf265912bbeea6d5700e5d2dd5a4.jpg" group-title="Estrenos 2020",Timmy Failure: Mistakes Were Made (2020)
-http://gangafree.com:25461/movie/51194/16890/40.mp4
-#EXTINF:-1 tvg-id="" tvg-name="To All the Boys: P.S. I Still Love You (2020)" tvg-logo="http://gangafree.com:25461/images/48509d6e0214741d51ed0321566a8d08.jpg" group-title="Estrenos 2020",To All the Boys: P.S. I Still Love You (2020)
-http://gangafree.com:25461/movie/51194/16890/41.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vir Das: For India (2020)" tvg-logo="http://gangafree.com:25461/images/3cf4b531019c853133f7f154189045f8.jpg" group-title="Estrenos 2020",Vir Das: For India (2020)
-http://gangafree.com:25461/movie/51194/16890/42.mp4
-#EXTINF:-1 tvg-id="" tvg-name="All the Bright Places (2020)" tvg-logo="http://gangafree.com:25461/images/e23c33e6651f61f7b2739d9dc59797dc.jpg" group-title="Estrenos 2020",All the Bright Places (2020)
-http://gangafree.com:25461/movie/51194/16890/43.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deported (2020)" tvg-logo="http://gangafree.com:25461/images/16137ef3696b3590fbbb3dd673e37b65.jpg" group-title="Estrenos 2020",Deported (2020)
-http://gangafree.com:25461/movie/51194/16890/44.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homeward (2020)" tvg-logo="http://gangafree.com:25461/images/8b161dcaf670e5ea2797ea1543196b79.jpg" group-title="Estrenos 2020",Homeward (2020)
-http://gangafree.com:25461/movie/51194/16890/45.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Taylor Tomlinson: Quarter-Life Crisis (2020)" tvg-logo="http://gangafree.com:25461/images/5294149978840b6c44cb16e7267446af.jpg" group-title="Estrenos 2020",Taylor Tomlinson: Quarter-Life Crisis (2020)
-http://gangafree.com:25461/movie/51194/16890/46.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escape From Pretoria (2020)" tvg-logo="http://gangafree.com:25461/images/4db8e0e05211dd0ae732c000eff4ac03.jpg" group-title="Estrenos 2020",Escape From Pretoria (2020)
-http://gangafree.com:25461/movie/51194/16890/47.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guilty (2020)" tvg-logo="http://gangafree.com:25461/images/bb6125fb3a334ee6ad452666fa9e5858.jpg" group-title="Estrenos 2020",Guilty (2020)
-http://gangafree.com:25461/movie/51194/16890/48.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homeward (2020)" tvg-logo="http://gangafree.com:25461/images/8b161dcaf670e5ea2797ea1543196b79.jpg" group-title="Estrenos 2020",Homeward (2020)
-http://gangafree.com:25461/movie/51194/16890/49.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lost Girls (2020)" tvg-logo="http://gangafree.com:25461/images/775f46189b16c3a34ca82a90a4cf517e.jpg" group-title="Estrenos 2020",Lost Girls (2020)
-http://gangafree.com:25461/movie/51194/16890/50.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sonic the Hedgehog (2020)" tvg-logo="http://gangafree.com:25461/images/c734728dc7b0cfe14c180fe547be9b41.jpg" group-title="Estrenos 2020",Sonic the Hedgehog (2020)
-http://gangafree.com:25461/movie/51194/16890/51.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spenser Confidential (2020)" tvg-logo="http://gangafree.com:25461/images/4fdfb60b39f7f1ce8094da77d5966dab.jpg" group-title="Estrenos 2020",Spenser Confidential (2020)
-http://gangafree.com:25461/movie/51194/16890/52.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Taylor Tomlinson: Quarter-Life Crisis (2020)" tvg-logo="http://gangafree.com:25461/images/5294149978840b6c44cb16e7267446af.jpg" group-title="Estrenos 2020",Taylor Tomlinson: Quarter-Life Crisis (2020)
-http://gangafree.com:25461/movie/51194/16890/53.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Grudge (2020)" tvg-logo="http://gangafree.com:25461/images/a7e84f0fd903ae0b628081fa35dbc59f.jpg" group-title="Estrenos 2020",The Grudge (2020)
-http://gangafree.com:25461/movie/51194/16890/54.mp4
-#EXTINF:-1 tvg-id="" tvg-name="After Truth: Disinformation and the Cost of Fake News (2020)" tvg-logo="http://gangafree.com:25461/images/10fad31911a66e5118a66f47b9b30dcd.jpg" group-title="Estrenos 2020",After Truth: Disinformation and the Cost of Fake News (2020)
-http://gangafree.com:25461/movie/51194/16890/55.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon: Resleeved (2020)" tvg-logo="http://gangafree.com:25461/images/aec9831ce24f8ce5aa9209a2330d37e9.jpg" group-title="Estrenos 2020",Altered Carbon: Resleeved (2020)
-http://gangafree.com:25461/movie/51194/16890/56.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Big Time Adolescence (2020)" tvg-logo="http://gangafree.com:25461/images/26c735ee2d6c5b2a12867328297ac60c.jpg" group-title="Estrenos 2020",Big Time Adolescence (2020)
-http://gangafree.com:25461/movie/51194/16890/57.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blood on Her Name (2020)" tvg-logo="http://gangafree.com:25461/images/5a69aeb0eff4c81c74b95fced78af3ea.jpg" group-title="Estrenos 2020",Blood on Her Name (2020)
-http://gangafree.com:25461/movie/51194/16890/58.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brahms: The Boy II (2020)" tvg-logo="http://gangafree.com:25461/images/b825d4dd42f25a619b5acf67b8831739.jpg" group-title="Estrenos 2020",Brahms: The Boy II (2020)
-http://gangafree.com:25461/movie/51194/16890/59.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crawlers (2020)" tvg-logo="http://gangafree.com:25461/images/a04e52ca90d5ae76ac408a1f8c48d273.jpg" group-title="Estrenos 2020",Crawlers (2020)
-http://gangafree.com:25461/movie/51194/16890/60.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cruel Peter (2020)" tvg-logo="http://gangafree.com:25461/images/8108e4a5eb835b1884013673ee1cab15.jpg" group-title="Estrenos 2020",Cruel Peter (2020)
-http://gangafree.com:25461/movie/51194/16890/61.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escape From Pretoria (2020)" tvg-logo="http://gangafree.com:25461/images/4db8e0e05211dd0ae732c000eff4ac03.jpg" group-title="Estrenos 2020",Escape From Pretoria (2020)
-http://gangafree.com:25461/movie/51194/16890/62.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lost Girls (2020)" tvg-logo="http://gangafree.com:25461/images/775f46189b16c3a34ca82a90a4cf517e.jpg" group-title="Estrenos 2020",Lost Girls (2020)
-http://gangafree.com:25461/movie/51194/16890/63.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Stargirl (2020)" tvg-logo="http://gangafree.com:25461/images/e545a28c61d45c76c047d2b28acf9d94.jpg" group-title="Estrenos 2020",Stargirl (2020)
-http://gangafree.com:25461/movie/51194/16890/64.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Banker (2020)" tvg-logo="http://gangafree.com:25461/images/a08ebd68442765c8364ffc8a5a62d65c.jpg" group-title="Estrenos 2020",The Banker (2020)
-http://gangafree.com:25461/movie/51194/16890/65.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Hunt (2020)" tvg-logo="http://gangafree.com:25461/images/2d2aa8f3a6b352b17b6858cc54f78db8.jpg" group-title="Estrenos 2020",The Hunt (2020)
-http://gangafree.com:25461/movie/51194/16890/66.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Jack in the Box (2020)" tvg-logo="http://gangafree.com:25461/images/5f400a564ae95ad61e1282f69e6a6bac.jpg" group-title="Estrenos 2020",The Jack in the Box (2020)
-http://gangafree.com:25461/movie/51194/16890/67.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Thing About Harry (2020)" tvg-logo="http://gangafree.com:25461/images/08ce87f7e93c373fb0e5a9d54a0ab5c2.jpg" group-title="Estrenos 2020",The Thing About Harry (2020)
-http://gangafree.com:25461/movie/51194/16890/68.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ultras (2020)" tvg-logo="http://gangafree.com:25461/images/665b06b3dfd892085e289b66e1289624.jpg" group-title="Estrenos 2020",Ultras (2020)
-http://gangafree.com:25461/movie/51194/16890/69.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Z-O-M-B-I-E-S 2 (2020)" tvg-logo="http://gangafree.com:25461/images/172114cc210b0812d8112425e8f74e44.jpg" group-title="Estrenos 2020",Z-O-M-B-I-E-S 2 (2020)
-http://gangafree.com:25461/movie/51194/16890/70.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coronavirus (2020)" tvg-logo="http://gangafree.com:25461/images/bd743a0ff3a6e7eebb80121edac96e2e.jpg" group-title="Estrenos 2020",Coronavirus (2020)
-http://gangafree.com:25461/movie/51194/16890/71.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crip Camp: A Disability Revolution (2020)" tvg-logo="http://gangafree.com:25461/images/ebd661b4caee15fd11ce084bc7e1c462.jpg" group-title="Estrenos 2020",Crip Camp: A Disability Revolution (2020)
-http://gangafree.com:25461/movie/51194/16890/72.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fortune Feimster: Sweet & Salty (2020)" tvg-logo="http://gangafree.com:25461/images/545c72c3f233cb7996330c8f21f842d4.jpg" group-title="Estrenos 2020",Fortune Feimster: Sweet & Salty (2020)
-http://gangafree.com:25461/movie/51194/16890/73.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Marc Maron: End Times Fun (2020)" tvg-logo="http://gangafree.com:25461/images/0f0291ee93195def3d613ae331c31ddc.jpg" group-title="Estrenos 2020",Marc Maron: End Times Fun (2020)
-http://gangafree.com:25461/movie/51194/16890/75.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Closet (2020)" tvg-logo="http://gangafree.com:25461/images/e922667c92d6d1cbade611a7cfee3b3e.jpg" group-title="Estrenos 2020",The Closet (2020)
-http://gangafree.com:25461/movie/51194/16890/77.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Way Back (2020)" tvg-logo="http://gangafree.com:25461/images/19dd8d0172d122956560a33cfa98f710.jpg" group-title="Estrenos 2020",The Way Back (2020)
-http://gangafree.com:25461/movie/51194/16890/78.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uncorked (2020)" tvg-logo="http://gangafree.com:25461/images/44386fb6327a6691d2ed671b84ca6567.jpg" group-title="Estrenos 2020",Uncorked (2020)
-http://gangafree.com:25461/movie/51194/16890/79.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Underwater (2020)" tvg-logo="http://gangafree.com:25461/images/e5c68f7f9036f3b05c711a7e78b87677.jpg" group-title="Estrenos 2020",Underwater (2020)
-http://gangafree.com:25461/movie/51194/16890/80.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assassin 33 A.D. (2020)" tvg-logo="http://gangafree.com:25461/images/db3e8c79bce0aeed8250b9c1ba0acc47.jpg" group-title="Estrenos 2020",Assassin 33 A.D. (2020)
-http://gangafree.com:25461/movie/51194/16890/81.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Coffee & Kareem (2020)" tvg-logo="http://gangafree.com:25461/images/ce768bffdd1021cf6023b84a8cce569d.jpg" group-title="Estrenos 2020",Coffee & Kareem (2020)
-http://gangafree.com:25461/movie/51194/16890/82.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coronavirus: The Beijing Quarantine Diaries (2020)" tvg-logo="http://gangafree.com:25461/images/35654e4e343f84c1411c7c905c2a63dd.jpg" group-title="Estrenos 2020",Coronavirus: The Beijing Quarantine Diaries (2020)
-http://gangafree.com:25461/movie/51194/16890/83.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Earth and Blood (2020)" tvg-logo="http://gangafree.com:25461/images/977c8e5ce8c279f508556bd4883fc535.jpg" group-title="Estrenos 2020",Earth and Blood (2020)
-http://gangafree.com:25461/movie/51194/16890/85.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fantasy Island (2020)" tvg-logo="http://gangafree.com:25461/images/45542898770f9651dfab3638d9f61642.jpg" group-title="Estrenos 2020",Fantasy Island (2020)
-http://gangafree.com:25461/movie/51194/16890/87.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gretel & Hansel (2020)" tvg-logo="http://gangafree.com:25461/images/3b22c6f4c636d91db201b297a8cd9c57.jpg" group-title="Estrenos 2020",Gretel & Hansel (2020)
-http://gangafree.com:25461/movie/51194/16890/88.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hasta que la boda nos separe (2020)" tvg-logo="http://gangafree.com:25461/images/6732426d463540a9bbc283c2c92f0aba.jpg" group-title="Estrenos 2020",Hasta que la boda nos separe (2020)
-http://gangafree.com:25461/movie/51194/16890/89.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Here We Are: Notes for Living on Planet Earth (2020)" tvg-logo="http://gangafree.com:25461/images/f35bace6fb5ff289c9470b80102568c5.jpg" group-title="Estrenos 2020",Here We Are: Notes for Living on Planet Earth (2020)
-http://gangafree.com:25461/movie/51194/16890/90.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Human Capital (2020)" tvg-logo="http://gangafree.com:25461/images/011d3ffc8b74a39301f8dccde00d709a.jpg" group-title="Estrenos 2020",Human Capital (2020)
-http://gangafree.com:25461/movie/51194/16890/91.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Impractical Jokers: The Movie (2020)" tvg-logo="http://gangafree.com:25461/images/884ae7293dca75a18b5dbd6b6b9a460e.jpg" group-title="Estrenos 2020",Impractical Jokers: The Movie (2020)
-http://gangafree.com:25461/movie/51194/16890/92.mp4
-#EXTINF:-1 tvg-id="" tvg-name="In the Trap (2020)" tvg-logo="http://gangafree.com:25461/images/6e1dfbe9092213edb1c0510ea219bf8b.jpg" group-title="Estrenos 2020",In the Trap (2020)
-http://gangafree.com:25461/movie/51194/16890/93.mp4
-#EXTINF:-1 tvg-id="" tvg-name="I Still Believe (2020)" tvg-logo="http://gangafree.com:25461/images/6b7224d134872d49f0ae48a1bc85d106.jpg" group-title="Estrenos 2020",I Still Believe (2020)
-http://gangafree.com:25461/movie/51194/16890/94.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La suite nupcial (2020)" tvg-logo="http://gangafree.com:25461/images/9ec55732fad847283d4e8b28ad42a577.jpg" group-title="Estrenos 2020",La suite nupcial (2020)
-http://gangafree.com:25461/movie/51194/16890/95.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Like a Boss (2020)" tvg-logo="http://gangafree.com:25461/images/52c8c88e233a5bf91da87cce4c39fe37.jpg" group-title="Estrenos 2020",Like a Boss (2020)
-http://gangafree.com:25461/movie/51194/16890/96.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love Wedding Repeat (2020)" tvg-logo="http://gangafree.com:25461/images/2cc0f9269b79947d68600ad47a78c834.jpg" group-title="Estrenos 2020",Love Wedding Repeat (2020)
-http://gangafree.com:25461/movie/51194/16890/97.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Miss Fisher and the Crypt of Tears (2020)" tvg-logo="http://gangafree.com:25461/images/012571f272c3aeae410a90ebd21e58cf.jpg" group-title="Estrenos 2020",Miss Fisher and the Crypt of Tears (2020)
-http://gangafree.com:25461/movie/51194/16890/98.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat Legends: Scorpion's Revenge (2020)" tvg-logo="http://gangafree.com:25461/images/c2921b8b52a0e508e5e663f92a369890.jpg" group-title="Estrenos 2020",Mortal Kombat Legends: Scorpion's Revenge (2020)
-http://gangafree.com:25461/movie/51194/16890/99.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Never Rarely Sometimes Always (2020)" tvg-logo="http://gangafree.com:25461/images/d3d2854bedbaad633d3b7eff7ead0c4c.jpg" group-title="Estrenos 2020",Never Rarely Sometimes Always (2020)
-http://gangafree.com:25461/movie/51194/16890/100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pandemic: COVID-19 (2020)" tvg-logo="http://gangafree.com:25461/images/9e194279401f322e43aac27cce31c255.jpg" group-title="Estrenos 2020",Pandemic: COVID-19 (2020)
-http://gangafree.com:25461/movie/51194/16890/101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rising High (2020)" tvg-logo="http://gangafree.com:25461/images/a6f99d5ad48b798e6e63cef1756ae676.jpg" group-title="Estrenos 2020",Rising High (2020)
-http://gangafree.com:25461/movie/51194/16890/102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rómulo y Julita (2020)" tvg-logo="http://gangafree.com:25461/images/a33020bcb23245c5cfaa6669fd193fd0.jpg" group-title="Estrenos 2020",Rómulo y Julita (2020)
-http://gangafree.com:25461/movie/51194/16890/103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sergio (2020)" tvg-logo="http://gangafree.com:25461/images/d67d6a65b6077ac720fed2aa5ea4b806.jpg" group-title="Estrenos 2020",Sergio (2020)
-http://gangafree.com:25461/movie/51194/16890/104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Fittest (2020)" tvg-logo="http://gangafree.com:25461/images/979c91e3d84e0884d098ec5df8b8f5d3.jpg" group-title="Estrenos 2020",The Fittest (2020)
-http://gangafree.com:25461/movie/51194/16890/105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Main Event (2020)" tvg-logo="http://gangafree.com:25461/images/c243ecc9983a43ceb46a4a8059985c68.jpg" group-title="Estrenos 2020",The Main Event (2020)
-http://gangafree.com:25461/movie/51194/16890/106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Other Lamb (2020)" tvg-logo="http://gangafree.com:25461/images/d93f1399951fd9e981c3e99498bdd30f.jpg" group-title="Estrenos 2020",The Other Lamb (2020)
-http://gangafree.com:25461/movie/51194/16890/107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Quarry (2020)" tvg-logo="http://gangafree.com:25461/images/e8a971036d018c3126264c92fd2083a4.jpg" group-title="Estrenos 2020",The Quarry (2020)
-http://gangafree.com:25461/movie/51194/16890/108.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Rhythm Section (2020)" tvg-logo="http://gangafree.com:25461/images/ac2541592f579ac2d3afe360827992da.jpg" group-title="Estrenos 2020",The Rhythm Section (2020)
-http://gangafree.com:25461/movie/51194/16890/109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Turning (2020)" tvg-logo="http://gangafree.com:25461/images/03c61c12fb1c49235b99ed86755423e4.jpg" group-title="Estrenos 2020",The Turning (2020)
-http://gangafree.com:25461/movie/51194/16890/110.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tigertail (2020)" tvg-logo="http://gangafree.com:25461/images/ae3cb2708e5341561f4f0e2a4d292494.jpg" group-title="Estrenos 2020",Tigertail (2020)
-http://gangafree.com:25461/movie/51194/16890/111.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Trolls World Tour (2020)" tvg-logo="http://gangafree.com:25461/images/bffb05361e023ccfed578828bd8561f1.jpg" group-title="Estrenos 2020",Trolls World Tour (2020)
-http://gangafree.com:25461/movie/51194/16890/112.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Uncorked (2020)" tvg-logo="http://gangafree.com:25461/images/44386fb6327a6691d2ed671b84ca6567.jpg" group-title="Estrenos 2020",Uncorked (2020)
-http://gangafree.com:25461/movie/51194/16890/113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Underwater (2020)" tvg-logo="http://gangafree.com:25461/images/e5c68f7f9036f3b05c711a7e78b87677.jpg" group-title="Estrenos 2020",Underwater (2020)
-http://gangafree.com:25461/movie/51194/16890/114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wendy (2020)" tvg-logo="http://gangafree.com:25461/images/e318f1fadb696e41c3371b96eca4e72f.jpg" group-title="Estrenos 2020",Wendy (2020)
-http://gangafree.com:25461/movie/51194/16890/115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Night of Horror: Nightmare Radio (2020)" tvg-logo="http://gangafree.com:25461/images/04c857aa7fec57809c04a47da58f330a.jpg" group-title="Estrenos 2020",A Night of Horror: Nightmare Radio (2020)
-http://gangafree.com:25461/movie/51194/16890/116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beastie Boys Story (2020)" tvg-logo="http://gangafree.com:25461/images/be4ccb455cf2346cf95b48101268b24f.jpg" group-title="Estrenos 2020",Beastie Boys Story (2020)
-http://gangafree.com:25461/movie/51194/16890/117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Behind You (2020)" tvg-logo="http://gangafree.com:25461/images/ba972fa268e41e978cff69f032203ef9.jpg" group-title="Estrenos 2020",Behind You (2020)
-http://gangafree.com:25461/movie/51194/16890/118.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dreamkatcher (2020)" tvg-logo="http://gangafree.com:25461/images/a92022f478383f881e710532416e3f89.jpg" group-title="Estrenos 2020",Dreamkatcher (2020)
-http://gangafree.com:25461/movie/51194/16890/119.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Extraction (2020)" tvg-logo="http://gangafree.com:25461/images/818a98cc899905f0ad01dc22b9f74de8.jpg" group-title="Estrenos 2020",Extraction (2020)
-http://gangafree.com:25461/movie/51194/16890/120.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Finding Grace (2020)" tvg-logo="http://gangafree.com:25461/images/4d389a73fc96c0570c3e8c208f8de192.jpg" group-title="Estrenos 2020",Finding Grace (2020)
-http://gangafree.com:25461/movie/51194/16890/121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Happiness Continues (2020)" tvg-logo="http://gangafree.com:25461/images/8b9ba3300b34c12c3b7a304611ff735a.jpg" group-title="Estrenos 2020",Happiness Continues (2020)
-http://gangafree.com:25461/movie/51194/16890/122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LA Originals (2020)" tvg-logo="http://gangafree.com:25461/images/3a5bb919a14f3a91c38a9b2bbc0a3327.jpg" group-title="Estrenos 2020",LA Originals (2020)
-http://gangafree.com:25461/movie/51194/16890/123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LEGO DC: Shazam! Magic and Monsters (2020)" tvg-logo="http://gangafree.com:25461/images/b6c98b9a1381d4b4dab2adf65cf45278.jpg" group-title="Estrenos 2020",LEGO DC: Shazam! Magic and Monsters (2020)
-http://gangafree.com:25461/movie/51194/16890/124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Misbehaviour (2020)" tvg-logo="http://gangafree.com:25461/images/5df86b4db994c7f850fef2406bbaadcb.jpg" group-title="Estrenos 2020",Misbehaviour (2020)
-http://gangafree.com:25461/movie/51194/16890/125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Murder to Mercy: The Cyntoia Brown Story (2020)" tvg-logo="http://gangafree.com:25461/images/cbca9f7a7150edb5fc3c0f7caee60198.jpg" group-title="Estrenos 2020",Murder to Mercy: The Cyntoia Brown Story (2020)
-http://gangafree.com:25461/movie/51194/16890/126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Penance Lane (2020)" tvg-logo="http://gangafree.com:25461/images/b15fb019871897de966a8a1b7eb704aa.jpg" group-title="Estrenos 2020",Penance Lane (2020)
-http://gangafree.com:25461/movie/51194/16890/127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scare Me (2020)" tvg-logo="http://gangafree.com:25461/images/168ed9ba8950783942d9b55847e9d0a0.jpg" group-title="Estrenos 2020",Scare Me (2020)
-http://gangafree.com:25461/movie/51194/16890/128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last Full Measure (2020)" tvg-logo="http://gangafree.com:25461/images/e4a44a9b955ba0a564a51807dfd8e7dc.jpg" group-title="Estrenos 2020",The Last Full Measure (2020)
-http://gangafree.com:25461/movie/51194/16890/129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Night Clerk (2020)" tvg-logo="http://gangafree.com:25461/images/b7537444f1b97d8adb0d18f931cb2562.jpg" group-title="Estrenos 2020",The Night Clerk (2020)
-http://gangafree.com:25461/movie/51194/16890/131.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Willoughbys (2020)" tvg-logo="http://gangafree.com:25461/images/01a9915b083d8bc521fca33f222ff4b4.jpg" group-title="Estrenos 2020",The Willoughbys (2020)
-http://gangafree.com:25461/movie/51194/16890/132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Time to Hunt (2020)" tvg-logo="http://gangafree.com:25461/images/efdb15ad8f355b587a307b7298f10792.jpg" group-title="Estrenos 2020",Time to Hunt (2020)
-http://gangafree.com:25461/movie/51194/16890/133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wasp Network (2020)" tvg-logo="http://gangafree.com:25461/images/9bcbfdb960dd7644e22c81347bf124e8.jpg" group-title="Estrenos 2020",Wasp Network (2020)
-http://gangafree.com:25461/movie/51194/16890/134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Serial Killer's Guide to Life (2020)" tvg-logo="http://gangafree.com:25461/images/522d5b4d632b97184108222b3743b0bb.jpg" group-title="Estrenos 2020",A Serial Killer's Guide to Life (2020)
-http://gangafree.com:25461/movie/51194/16890/135.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life (2020)" tvg-logo="http://gangafree.com:25461/images/b20a34084d6da9663217887a65a1c40c.jpg" group-title="Estrenos 2020",Bad Boys for Life (2020)
-http://gangafree.com:25461/movie/51194/16890/136.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beastie Boys Story (2020)" tvg-logo="http://gangafree.com:25461/images/be4ccb455cf2346cf95b48101268b24f.jpg" group-title="Estrenos 2020",Beastie Boys Story (2020)
-http://gangafree.com:25461/movie/51194/16890/137.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Behind You (2020)" tvg-logo="http://gangafree.com:25461/images/ba972fa268e41e978cff69f032203ef9.jpg" group-title="Estrenos 2020",Behind You (2020)
-http://gangafree.com:25461/movie/51194/16890/138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Big Time Adolescence (2020)" tvg-logo="http://gangafree.com:25461/images/26c735ee2d6c5b2a12867328297ac60c.jpg" group-title="Estrenos 2020",Big Time Adolescence (2020)
-http://gangafree.com:25461/movie/51194/16890/139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)" tvg-logo="http://gangafree.com:25461/images/a93a06325919a6829cef47a368d698c2.jpg" group-title="Estrenos 2020",Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)
-http://gangafree.com:25461/movie/51194/16890/140.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blood on Her Name (2020)" tvg-logo="http://gangafree.com:25461/images/5a69aeb0eff4c81c74b95fced78af3ea.jpg" group-title="Estrenos 2020",Blood on Her Name (2020)
-http://gangafree.com:25461/movie/51194/16890/141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bloodshot (2020)" tvg-logo="http://gangafree.com:25461/images/a25f15b25882bc6ef874d3ce4c96b69b.jpg" group-title="Estrenos 2020",Bloodshot (2020)
-http://gangafree.com:25461/movie/51194/16890/142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brahms: The Boy II (2020)" tvg-logo="http://gangafree.com:25461/images/b825d4dd42f25a619b5acf67b8831739.jpg" group-title="Estrenos 2020",Brahms: The Boy II (2020)
-http://gangafree.com:25461/movie/51194/16890/143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Buffaloed (2020)" tvg-logo="http://gangafree.com:25461/images/b2dd53bed7182fa6d279fe8457c63997.jpg" group-title="Estrenos 2020",Buffaloed (2020)
-http://gangafree.com:25461/movie/51194/16890/144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bulletproof 2 (2020)" tvg-logo="http://gangafree.com:25461/images/9fea8243a0e0311c464d09bc41b5a9c8.jpg" group-title="Estrenos 2020",Bulletproof 2 (2020)
-http://gangafree.com:25461/movie/51194/16890/145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cindy la regia (2020)" tvg-logo="http://gangafree.com:25461/images/c08305c04891413dbba750222dcc7556.jpg" group-title="Estrenos 2020",Cindy la regia (2020)
-http://gangafree.com:25461/movie/51194/16890/146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coffee & Kareem (2020)" tvg-logo="http://gangafree.com:25461/images/ce768bffdd1021cf6023b84a8cce569d.jpg" group-title="Estrenos 2020",Coffee & Kareem (2020)
-http://gangafree.com:25461/movie/51194/16890/147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Color Out of Space (2020)" tvg-logo="http://gangafree.com:25461/images/973c5e3aed4244136486d0cd051da9bb.jpg" group-title="Estrenos 2020",Color Out of Space (2020)
-http://gangafree.com:25461/movie/51194/16890/148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Come to Daddy (2020)" tvg-logo="http://gangafree.com:25461/images/f3d65ed3160cb57447b0099f12663b84.jpg" group-title="Estrenos 2020",Come to Daddy (2020)
-http://gangafree.com:25461/movie/51194/16890/149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coronavirus (2020)" tvg-logo="http://gangafree.com:25461/images/bd743a0ff3a6e7eebb80121edac96e2e.jpg" group-title="Estrenos 2020",Coronavirus (2020)
-http://gangafree.com:25461/movie/51194/16890/150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coronavirus: The Beijing Quarantine Diaries (2020)" tvg-logo="http://gangafree.com:25461/images/35654e4e343f84c1411c7c905c2a63dd.jpg" group-title="Estrenos 2020",Coronavirus: The Beijing Quarantine Diaries (2020)
-http://gangafree.com:25461/movie/51194/16890/151.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crawlers (2020)" tvg-logo="http://gangafree.com:25461/images/a04e52ca90d5ae76ac408a1f8c48d273.jpg" group-title="Estrenos 2020",Crawlers (2020)
-http://gangafree.com:25461/movie/51194/16890/152.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crip Camp: A Disability Revolution (2020)" tvg-logo="http://gangafree.com:25461/images/ebd661b4caee15fd11ce084bc7e1c462.jpg" group-title="Estrenos 2020",Crip Camp: A Disability Revolution (2020)
-http://gangafree.com:25461/movie/51194/16890/153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cruel Peter (2020)" tvg-logo="http://gangafree.com:25461/images/8108e4a5eb835b1884013673ee1cab15.jpg" group-title="Estrenos 2020",Cruel Peter (2020)
-http://gangafree.com:25461/movie/51194/16890/154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rising High (2020)" tvg-logo="http://gangafree.com:25461/images/a6f99d5ad48b798e6e63cef1756ae676.jpg" group-title="Estrenos 2020",Rising High (2020)
-http://gangafree.com:25461/movie/51194/16890/155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Legacy (2020)" tvg-logo="http://gangafree.com:25461/images/c68b58247a69b0b9334de97cdc891ca7.jpg" group-title="Estrenos 2020",Legacy (2020)
-http://gangafree.com:25461/movie/51194/16890/717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Selfie (2020)" tvg-logo="http://gangafree.com:25461/images/0bb6834ee827cbe644e8acc0ae97135e.jpg" group-title="Estrenos 2020",Selfie (2020)
-http://gangafree.com:25461/movie/51194/16890/998.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Captain Underpants: Epic Choice-o-rama (2020)" tvg-logo="http://gangafree.com:25461/images/8a01b2b2f064e674558bf7c324ed16c5.jpg" group-title="Estrenos 2020",Captain Underpants: Epic Choice-o-rama (2020)
-http://gangafree.com:25461/movie/51194/16890/1455.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Call of the Wild (2020)" tvg-logo="http://gangafree.com:25461/images/e6724ad401213f28ae56768b236e0b25.jpg" group-title="Estrenos 2020",The Call of the Wild (2020)
-http://gangafree.com:25461/movie/51194/16890/1785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anastasia: Once Upon a Time (2020)" tvg-logo="http://gangafree.com:25461/images/0c4cc41f1ae09f6757a177205001feaa.jpg" group-title="Estrenos 2020",Anastasia: Once Upon a Time (2020)
-http://gangafree.com:25461/movie/51194/16890/37885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Emma. - 2020" tvg-logo="http://gangafree.com:25461/images/74d2329ec1e0b1049d4ee3e2cb8c9526.jpg" group-title="Estrenos 2020",Emma. - 2020
-http://gangafree.com:25461/movie/51194/16890/38375.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2 Graves in the Desert (2020)" tvg-logo="http://gangafree.com:25461/images/c08bc562d00a245f4f83d8a25442380b.jpg" group-title="Estrenos 2020",2 Graves in the Desert (2020)
-http://gangafree.com:25461/movie/51194/16890/40723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18 Presents (2020)" tvg-logo="http://gangafree.com:25461/images/43b2606ed7c56e920b35e4085930f026.jpg" group-title="Estrenos 2020",18 Presents (2020)
-http://gangafree.com:25461/movie/51194/16890/40724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alma pura (2020)" tvg-logo="http://gangafree.com:25461/images/96642739244280b00465c65e39a23d90.jpg" group-title="Estrenos 2020",Alma pura (2020)
-http://gangafree.com:25461/movie/51194/16890/40725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Andres Iniesta, The Unexpected Hero (2020)" tvg-logo="http://gangafree.com:25461/images/6285f0dc9428ab3b9718f893b2ea5b71.jpg" group-title="Estrenos 2020",Andres Iniesta, The Unexpected Hero (2020)
-http://gangafree.com:25461/movie/51194/16890/40726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arkansas (2020)" tvg-logo="http://gangafree.com:25461/images/ed0513962c307ce5c074012d778795f6.jpg" group-title="Estrenos 2020",Arkansas (2020)
-http://gangafree.com:25461/movie/51194/16890/40727.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Banking on Africa: The Bitcoin Revolution (2020)" tvg-logo="http://gangafree.com:25461/images/bc066c09c84434f0da4cc7d5e5bddb9d.jpg" group-title="Estrenos 2020",Banking on Africa: The Bitcoin Revolution (2020)
-http://gangafree.com:25461/movie/51194/16890/40728.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Becoming (2020)" tvg-logo="http://gangafree.com:25461/images/3fc9d8b7cb87f6f1a356b4ca4f0e72d3.jpg" group-title="Estrenos 2020",Becoming (2020)
-http://gangafree.com:25461/movie/51194/16890/40729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ben Platt: Live from Radio City Music Hall (2020)" tvg-logo="http://gangafree.com:25461/images/d1f92366056382c8a587cea15e3eb08a.jpg" group-title="Estrenos 2020",Ben Platt: Live from Radio City Music Hall (2020)
-http://gangafree.com:25461/movie/51194/16890/40730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Body (2015)" tvg-logo="http://gangafree.com:25461/images/de8d41c6e3b614deea8053eee7a61249.jpg" group-title="Estrenos 2020",Body (2015)
-http://gangafree.com:25461/movie/51194/16890/40731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capone (2020)" tvg-logo="http://gangafree.com:25461/images/c6feb2c4591354949dc263e4231001c6.jpg" group-title="Estrenos 2020",Capone (2020)
-http://gangafree.com:25461/movie/51194/16890/40732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chaco (2020)" tvg-logo="http://gangafree.com:25461/images/35190c804f79fafd022459d47853e35b.jpg" group-title="Estrenos 2020",Chaco (2020)
-http://gangafree.com:25461/movie/51194/16890/40733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DC Showcase: Adam Strange (2020)" tvg-logo="http://gangafree.com:25461/images/d90191deb7f2db15d916356f58d2760b.jpg" group-title="Estrenos 2020",DC Showcase: Adam Strange (2020)
-http://gangafree.com:25461/movie/51194/16890/40734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DC Showcase: The Phantom Stranger (2020)" tvg-logo="http://gangafree.com:25461/images/3023808e42e9dfba5de2afa2a9899d71.jpg" group-title="Estrenos 2020",DC Showcase: The Phantom Stranger (2020)
-http://gangafree.com:25461/movie/51194/16890/40735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="De patitas a la calle (2020)" tvg-logo="http://gangafree.com:25461/images/337fb0c850a826a6b68bbc44c0a56ce1.jpg" group-title="Estrenos 2020",De patitas a la calle (2020)
-http://gangafree.com:25461/movie/51194/16890/40736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Devoto, la invasión silenciosa (2020)" tvg-logo="http://gangafree.com:25461/images/b7c4be00519dc422eeac1c8312da0fb5.jpg" group-title="Estrenos 2020",Devoto, la invasión silenciosa (2020)
-http://gangafree.com:25461/movie/51194/16890/40737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Downhill (2020)" tvg-logo="http://gangafree.com:25461/images/c8b348793612e223c234b6e1d950a2a4.jpg" group-title="Estrenos 2020",Downhill (2020)
-http://gangafree.com:25461/movie/51194/16890/40738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragonheart: Vengeance (2020)" tvg-logo="http://gangafree.com:25461/images/ad5c380249fc5244a0a41f3bcdabb9fd.jpg" group-title="Estrenos 2020",Dragonheart: Vengeance (2020)
-http://gangafree.com:25461/movie/51194/16890/40739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El maestro (2020)" tvg-logo="http://gangafree.com:25461/images/7cd560c9f2ecfaed17f7ce6ff0be8f15.jpg" group-title="Estrenos 2020",El maestro (2020)
-http://gangafree.com:25461/movie/51194/16890/40740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Have a Good Trip: Adventures in Psychedelics (2020)" tvg-logo="http://gangafree.com:25461/images/27851863cdd2aac339e8be2681086984.jpg" group-title="Estrenos 2020",Have a Good Trip: Adventures in Psychedelics (2020)
-http://gangafree.com:25461/movie/51194/16890/40741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Inheritance (2020)" tvg-logo="http://gangafree.com:25461/images/de17cfbabedfdb3a2b2e314d47fd200f.jpg" group-title="Estrenos 2020",Inheritance (2020)
-http://gangafree.com:25461/movie/51194/16890/40742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jesus (2020)" tvg-logo="http://gangafree.com:25461/images/746f869eef90986c4df262d46df33c97.jpg" group-title="Estrenos 2020",Jesus (2020)
-http://gangafree.com:25461/movie/51194/16890/40743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Justice League Dark: Apokolips War (2020)" tvg-logo="http://gangafree.com:25461/images/ca04b3729732a780ccb6f3875dd12f55.jpg" group-title="Estrenos 2020",Justice League Dark: Apokolips War (2020)
-http://gangafree.com:25461/movie/51194/16890/40744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La chancha (2019)" tvg-logo="http://gangafree.com:25461/images/f287a5117d0ec292c1f9120cc879d6c5.jpg" group-title="Estrenos 2020",La chancha (2019)
-http://gangafree.com:25461/movie/51194/16890/40745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La isla de las mentiras (2020)" tvg-logo="http://gangafree.com:25461/images/2d672a3676ddc237e946f857903ebb24.jpg" group-title="Estrenos 2020",La isla de las mentiras (2020)
-http://gangafree.com:25461/movie/51194/16890/40746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Protagonist (2019)" tvg-logo="http://gangafree.com:25461/images/67b656c314d566fccd9cd87eb24d80f7.jpg" group-title="Estrenos 2020",The Protagonist (2019)
-http://gangafree.com:25461/movie/51194/16890/40747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La rusa (2020)" tvg-logo="http://gangafree.com:25461/images/2665ecb77498e6a1020edb79a57bb35c.jpg" group-title="Estrenos 2020",La rusa (2020)
-http://gangafree.com:25461/movie/51194/16890/40748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Last Moment of Clarity (2020)" tvg-logo="http://gangafree.com:25461/images/f8a93849e3e60288036ae7aa99f68270.jpg" group-title="Estrenos 2020",Last Moment of Clarity (2020)
-http://gangafree.com:25461/movie/51194/16890/40749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loco por vos (2020)" tvg-logo="http://gangafree.com:25461/images/0a596db88b097d74586fc33b9eb6ef55.jpg" group-title="Estrenos 2020",Loco por vos (2020)
-http://gangafree.com:25461/movie/51194/16890/40750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Locos de Amor 3 (2020)" tvg-logo="http://gangafree.com:25461/images/883f7b4bab83bc84d8b531a66c111eb5.jpg" group-title="Estrenos 2020",Locos de Amor 3 (2020)
-http://gangafree.com:25461/movie/51194/16890/40751.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mujeres arriba (2020)" tvg-logo="http://gangafree.com:25461/images/59a55f6dd1bf4417ff64dfe963e1a183.jpg" group-title="Estrenos 2020",Mujeres arriba (2020)
-http://gangafree.com:25461/movie/51194/16890/40752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Murder Manual (2020)" tvg-logo="http://gangafree.com:25461/images/d6c3f2b3ee7588612b1bf872a4833ac6.jpg" group-title="Estrenos 2020",Murder Manual (2020)
-http://gangafree.com:25461/movie/51194/16890/40753.mp4
-#EXTINF:-1 tvg-id="" tvg-name="My Nightmare Landlord (2020)" tvg-logo="http://gangafree.com:25461/images/287aa72a63febae0cbb77ca5d0c0987f.jpg" group-title="Estrenos 2020",My Nightmare Landlord (2020)
-http://gangafree.com:25461/movie/51194/16890/40754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="My Valentine (2020)" tvg-logo="http://gangafree.com:25461/images/65f57ae5460dfd691c262110775544f9.jpg" group-title="Estrenos 2020",My Valentine (2020)
-http://gangafree.com:25461/movie/51194/16890/40755.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Natalie Wood: What Remains Behind (2020)" tvg-logo="http://gangafree.com:25461/images/c30c01f5428da084d63636a4afeb676f.jpg" group-title="Estrenos 2020",Natalie Wood: What Remains Behind (2020)
-http://gangafree.com:25461/movie/51194/16890/40756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Piedra, Papel o Tijera (2020)" tvg-logo="http://gangafree.com:25461/images/a8bff8da34a022f6db95a0357a83af77.jpg" group-title="Estrenos 2020",Piedra, Papel o Tijera (2020)
-http://gangafree.com:25461/movie/51194/16890/40757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primal: Tales of Savagery (2020)" tvg-logo="http://gangafree.com:25461/images/e28a5b3f44837de1bf8208b9da48c059.jpg" group-title="Estrenos 2020",Primal: Tales of Savagery (2020)
-http://gangafree.com:25461/movie/51194/16890/40758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Proximity (2020)" tvg-logo="http://gangafree.com:25461/images/5dd21df9f05be72d2bf3bd9dab76525e.jpg" group-title="Estrenos 2020",Proximity (2020)
-http://gangafree.com:25461/movie/51194/16890/40759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scoob! (2020)" tvg-logo="http://gangafree.com:25461/images/2e4b4f6a6b4ff05781c2f805db22908d.jpg" group-title="Estrenos 2020",Scoob! (2020)
-http://gangafree.com:25461/movie/51194/16890/40760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sí, Mi Amor (2020)" tvg-logo="http://gangafree.com:25461/images/cf903ff30c23fec7220bf6ed30a1fbcf.jpg" group-title="Estrenos 2020",Sí, Mi Amor (2020)
-http://gangafree.com:25461/movie/51194/16890/40761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spycies (2020)" tvg-logo="http://gangafree.com:25461/images/005b8022e4c82e3461ff2425d81ca241.jpg" group-title="Estrenos 2020",Spycies (2020)
-http://gangafree.com:25461/movie/51194/16890/40762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Survive the Night (2020)" tvg-logo="http://gangafree.com:25461/images/b9cc5490d7826c43aa8c919b0280465e.jpg" group-title="Estrenos 2020",Survive the Night (2020)
-http://gangafree.com:25461/movie/51194/16890/40763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Droving (2020)" tvg-logo="http://gangafree.com:25461/images/cdc894e20c4d28c1d69380bd421d2257.jpg" group-title="Estrenos 2020",The Droving (2020)
-http://gangafree.com:25461/movie/51194/16890/40764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Legion (2020)" tvg-logo="http://gangafree.com:25461/images/89e2604cdce08eee92710321a3e1a7aa.jpg" group-title="Estrenos 2020",The Legion (2020)
-http://gangafree.com:25461/movie/51194/16890/40765.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Lovebirds (2020)" tvg-logo="http://gangafree.com:25461/images/3469f62f272aca6f2556d42d9d40bb4c.jpg" group-title="Estrenos 2020",The Lovebirds (2020)
-http://gangafree.com:25461/movie/51194/16890/40766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Postcard Killings (2020)" tvg-logo="http://gangafree.com:25461/images/1b68f37dadb5762ae5a6d30653730e9c.jpg" group-title="Estrenos 2020",The Postcard Killings (2020)
-http://gangafree.com:25461/movie/51194/16890/40767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Vast of Night (2020)" tvg-logo="http://gangafree.com:25461/images/28f5d8370a7a1c85e272688fe5ea43e3.jpg" group-title="Estrenos 2020",The Vast of Night (2020)
-http://gangafree.com:25461/movie/51194/16890/40768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Wrong Missy (2020)" tvg-logo="http://gangafree.com:25461/images/8d38e10a87684c05ce2f0343e184eeba.jpg" group-title="Estrenos 2020",The Wrong Missy (2020)
-http://gangafree.com:25461/movie/51194/16890/40769.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Un Crack (2020)" tvg-logo="http://gangafree.com:25461/images/b68497d73afbdf090f9c63c5c8c76c2f.jpg" group-title="Estrenos 2020",Un Crack (2020)
-http://gangafree.com:25461/movie/51194/16890/40770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Valley Girl (1983)" tvg-logo="http://gangafree.com:25461/images/6011465fcb8e367c83a5d8908cd3defa.jpg" group-title="Estrenos 2020",Valley Girl (1983)
-http://gangafree.com:25461/movie/51194/16890/40771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="TEST" tvg-logo="" group-title="Mexico",TEST
-http://gangafree.com:25461/live/51194/16890/40853.m3u8
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lat || Usa Univision LA
+http://gangafree.com:25461/57068/43111/37958
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lat || UniMas Las Vegas
+http://gangafree.com:25461/57068/43111/37961
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lat || Usa UniMas Miami
+http://gangafree.com:25461/57068/43111/37962
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Telemundo Houston
+http://gangafree.com:25461/57068/43111/37966
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ~ Univision SD
+http://gangafree.com:25461/57068/43111/37968
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE USA | LA UNIMAS
+http://gangafree.com:25461/57068/43111/37970
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE DEPORTES | BEIN SPORTS Ñ
+http://gangafree.com:25461/57068/43111/37972
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE DEPORTES | ESPN 2 SUR
+http://gangafree.com:25461/57068/43111/37978
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE DEPORTES | FOX SPORTS 2 SUR
+http://gangafree.com:25461/57068/43111/37986
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE DEPORTES | FOX SPORTS SUR
+http://gangafree.com:25461/57068/43111/37990
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lat || Usa UniMas Miami
+http://gangafree.com:25461/57068/43111/37962
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Chile || Chilevision.
+http://gangafree.com:25461/57068/43111/38011
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lat || Usa UniMas Miami
+http://gangafree.com:25461/57068/43111/37962
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA | Telemundo Houston
+http://gangafree.com:25461/57068/43111/37966
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE HD | HBO Xtreme
+http://gangafree.com:25461/57068/43111/38072
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | A&E
+http://gangafree.com:25461/57068/43111/38073
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | AMC
+http://gangafree.com:25461/57068/43111/38074
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | AXN
+http://gangafree.com:25461/57068/43111/38075
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | CINECANAL
+http://gangafree.com:25461/57068/43111/38076
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | CINEMAX
+http://gangafree.com:25461/57068/43111/38078
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | DE PELICULA PLUS
+http://gangafree.com:25461/57068/43111/38079
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | FOX
+http://gangafree.com:25461/57068/43111/38081
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | FOX LIFE
+http://gangafree.com:25461/57068/43111/38082
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | FOX PREMIUM ACTION
+http://gangafree.com:25461/57068/43111/38083
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | FOX PREMIUM CINEMA
+http://gangafree.com:25461/57068/43111/38084
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | FOX PREMIUM CLASSIC
+http://gangafree.com:25461/57068/43111/38085
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | FOX PREMIUM COMEDY
+http://gangafree.com:25461/57068/43111/38086
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | FOX PREMIUM FAMILY
+http://gangafree.com:25461/57068/43111/38087
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | FOX PREMIUM MOVIES
+http://gangafree.com:25461/57068/43111/38088
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | GOLDEN
+http://gangafree.com:25461/57068/43111/38092
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | GOLDEN EDGE
+http://gangafree.com:25461/57068/43111/38093
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | HBO
+http://gangafree.com:25461/57068/43111/38094
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | HBO 2
+http://gangafree.com:25461/57068/43111/38095
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | HBO FAMILY
+http://gangafree.com:25461/57068/43111/38096
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | HBO PLUS
+http://gangafree.com:25461/57068/43111/38097
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | PARAMOUNT CHANNEL
+http://gangafree.com:25461/57068/43111/38100
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | SONY
+http://gangafree.com:25461/57068/43111/38101
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | SPACE
+http://gangafree.com:25461/57068/43111/38102
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | TBS
+http://gangafree.com:25461/57068/43111/38104
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | TNT
+http://gangafree.com:25461/57068/43111/38106
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE CINE | TNT SERIES
+http://gangafree.com:25461/57068/43111/38107
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal de las Estrellas LA
+http://gangafree.com:25461/57068/43111/40443
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mexico | Ultra Kidz
+http://gangafree.com:25461/57068/43111/40454
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Mexico | Estrellatv
+http://gangafree.com:25461/57068/43111/40459
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Estrella TV
+http://gangafree.com:25461/57068/43111/40480
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX Canal 5
+http://gangafree.com:25461/57068/43111/40485
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Azteca 7
+http://gangafree.com:25461/57068/43111/40487
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA | TLC | Cultural
+http://gangafree.com:25461/57068/43111/40489
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA | Animal Planet | Cultural
+http://gangafree.com:25461/57068/43111/40490
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA | Discovery Channel | Cultural
+http://gangafree.com:25461/57068/43111/40491
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA | Discovery Turbo | Cultural
+http://gangafree.com:25461/57068/43111/40495
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA | Investigation Discovery | Cultural
+http://gangafree.com:25461/57068/43111/40497
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA | NatGeo Wild | Cultural
+http://gangafree.com:25461/57068/43111/40500
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA | Nat Geo | Cultural
+http://gangafree.com:25461/57068/43111/40501
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Animal Planet SD | Cultural
+http://gangafree.com:25461/57068/43111/40515
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MX | Discovery Channel SD | Cultural
+http://gangafree.com:25461/57068/43111/40516
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE INFANTILES | BABY TV HD
+http://gangafree.com:25461/57068/43111/40773
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE INFANTILES | DISCOVERY KIDS HD
+http://gangafree.com:25461/57068/43111/40777
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE INFANTILES | DISNEY CHANNEL HD
+http://gangafree.com:25461/57068/43111/40778
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TE INFANTILES | Cartoon Network
+http://gangafree.com:25461/57068/43111/40791
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A Fall From Grace (2020)
+http://gangafree.com:25461/movie/57068/43111/18.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", After Midnight (2020)
+http://gangafree.com:25461/movie/57068/43111/19.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ana (2020)
+http://gangafree.com:25461/movie/57068/43111/20.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A Serial Killer's Guide to Life (2020)
+http://gangafree.com:25461/movie/57068/43111/21.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Beneath Us (2020)
+http://gangafree.com:25461/movie/57068/43111/22.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bulletproof 2 (2020)
+http://gangafree.com:25461/movie/57068/43111/23.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cindy la regia (2020)
+http://gangafree.com:25461/movie/57068/43111/24.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Come to Daddy (2020)
+http://gangafree.com:25461/movie/57068/43111/25.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Horse Girl (2020)
+http://gangafree.com:25461/movie/57068/43111/26.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Isi & Ossi (2020)
+http://gangafree.com:25461/movie/57068/43111/27.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lamp Life (2020)
+http://gangafree.com:25461/movie/57068/43111/28.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Leslie Jones: Time Machine (2020)
+http://gangafree.com:25461/movie/57068/43111/29.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Miss Americana (2020)
+http://gangafree.com:25461/movie/57068/43111/30.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", estaba de parranda (2020)
+http://gangafree.com:25461/movie/57068/43111/31.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Superman: Red Son (2020)
+http://gangafree.com:25461/movie/57068/43111/32.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Assent (2020)
+http://gangafree.com:25461/movie/57068/43111/33.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Dawn (2020)
+http://gangafree.com:25461/movie/57068/43111/34.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Host (2020)
+http://gangafree.com:25461/movie/57068/43111/35.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Last Thing He Wanted (2020)
+http://gangafree.com:25461/movie/57068/43111/36.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Photograph (2020)
+http://gangafree.com:25461/movie/57068/43111/38.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Windermere Children (2020)
+http://gangafree.com:25461/movie/57068/43111/39.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Timmy Failure: Mistakes Were Made (2020)
+http://gangafree.com:25461/movie/57068/43111/40.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", To All the Boys: P.S. I Still Love You (2020)
+http://gangafree.com:25461/movie/57068/43111/41.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Vir Das: For India (2020)
+http://gangafree.com:25461/movie/57068/43111/42.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", All the Bright Places (2020)
+http://gangafree.com:25461/movie/57068/43111/43.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Deported (2020)
+http://gangafree.com:25461/movie/57068/43111/44.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Homeward (2020)
+http://gangafree.com:25461/movie/57068/43111/45.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Taylor Tomlinson: Quarter-Life Crisis (2020)
+http://gangafree.com:25461/movie/57068/43111/46.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Escape From Pretoria (2020)
+http://gangafree.com:25461/movie/57068/43111/47.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Guilty (2020)
+http://gangafree.com:25461/movie/57068/43111/48.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Homeward (2020)
+http://gangafree.com:25461/movie/57068/43111/49.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lost Girls (2020)
+http://gangafree.com:25461/movie/57068/43111/50.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sonic the Hedgehog (2020)
+http://gangafree.com:25461/movie/57068/43111/51.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Spenser Confidential (2020)
+http://gangafree.com:25461/movie/57068/43111/52.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Taylor Tomlinson: Quarter-Life Crisis (2020)
+http://gangafree.com:25461/movie/57068/43111/53.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Grudge (2020)
+http://gangafree.com:25461/movie/57068/43111/54.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", After Truth: Disinformation and the Cost of Fake News (2020)
+http://gangafree.com:25461/movie/57068/43111/55.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Altered Carbon: Resleeved (2020)
+http://gangafree.com:25461/movie/57068/43111/56.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Big Time Adolescence (2020)
+http://gangafree.com:25461/movie/57068/43111/57.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Blood on Her Name (2020)
+http://gangafree.com:25461/movie/57068/43111/58.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Brahms: The Boy II (2020)
+http://gangafree.com:25461/movie/57068/43111/59.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Crawlers (2020)
+http://gangafree.com:25461/movie/57068/43111/60.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cruel Peter (2020)
+http://gangafree.com:25461/movie/57068/43111/61.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Escape From Pretoria (2020)
+http://gangafree.com:25461/movie/57068/43111/62.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lost Girls (2020)
+http://gangafree.com:25461/movie/57068/43111/63.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Stargirl (2020)
+http://gangafree.com:25461/movie/57068/43111/64.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Banker (2020)
+http://gangafree.com:25461/movie/57068/43111/65.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Hunt (2020)
+http://gangafree.com:25461/movie/57068/43111/66.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Jack in the Box (2020)
+http://gangafree.com:25461/movie/57068/43111/67.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Thing About Harry (2020)
+http://gangafree.com:25461/movie/57068/43111/68.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ultras (2020)
+http://gangafree.com:25461/movie/57068/43111/69.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Z-O-M-B-I-E-S 2 (2020)
+http://gangafree.com:25461/movie/57068/43111/70.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Crip Camp: A Disability Revolution (2020)
+http://gangafree.com:25461/movie/57068/43111/72.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fortune Feimster: Sweet & Salty (2020)
+http://gangafree.com:25461/movie/57068/43111/73.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Marc Maron: End Times Fun (2020)
+http://gangafree.com:25461/movie/57068/43111/75.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Closet (2020)
+http://gangafree.com:25461/movie/57068/43111/77.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Way Back (2020)
+http://gangafree.com:25461/movie/57068/43111/78.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Coffee & Kareem (2020)
+http://gangafree.com:25461/movie/57068/43111/82.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Coronavirus: The Beijing Quarantine Diaries (2020)
+http://gangafree.com:25461/movie/57068/43111/83.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Earth and Blood (2020)
+http://gangafree.com:25461/movie/57068/43111/85.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fantasy Island (2020)
+http://gangafree.com:25461/movie/57068/43111/87.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Gretel & Hansel (2020)
+http://gangafree.com:25461/movie/57068/43111/88.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Here We Are: Notes for Living on Planet Earth (2020)
+http://gangafree.com:25461/movie/57068/43111/90.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Human Capital (2020)
+http://gangafree.com:25461/movie/57068/43111/91.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Willoughbys (2020)
+http://gangafree.com:25461/movie/57068/43111/132.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Time to Hunt (2020)
+http://gangafree.com:25461/movie/57068/43111/133.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Wasp Network (2020)
+http://gangafree.com:25461/movie/57068/43111/134.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A Serial Killer's Guide to Life (2020)
+http://gangafree.com:25461/movie/57068/43111/135.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bad Boys for Life (2020)
+http://gangafree.com:25461/movie/57068/43111/136.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Beastie Boys Story (2020)
+http://gangafree.com:25461/movie/57068/43111/137.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Behind You (2020)
+http://gangafree.com:25461/movie/57068/43111/138.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Big Time Adolescence (2020)
+http://gangafree.com:25461/movie/57068/43111/139.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)
+http://gangafree.com:25461/movie/57068/43111/140.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bulletproof 2 (2020)
+http://gangafree.com:25461/movie/57068/43111/145.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cindy la regia (2020)
+http://gangafree.com:25461/movie/57068/43111/146.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Coffee & Kareem (2020)
+http://gangafree.com:25461/movie/57068/43111/147.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Color Out of Space (2020)
+http://gangafree.com:25461/movie/57068/43111/148.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Come to Daddy (2020)
+http://gangafree.com:25461/movie/57068/43111/149.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Coronavirus: The Beijing Quarantine Diaries (2020)
+http://gangafree.com:25461/movie/57068/43111/151.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Crip Camp: A Disability Revolution (2020)
+http://gangafree.com:25461/movie/57068/43111/153.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cruel Peter (2020)
+http://gangafree.com:25461/movie/57068/43111/154.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Rising High (2020)
+http://gangafree.com:25461/movie/57068/43111/155.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Legacy (2020)
+http://gangafree.com:25461/movie/57068/43111/717.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Selfie (2020)
+http://gangafree.com:25461/movie/57068/43111/998.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Captain Underpants: Epic Choice-o-rama (2020)
+http://gangafree.com:25461/movie/57068/43111/1455.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Call of the Wild (2020)
+http://gangafree.com:25461/movie/57068/43111/1785.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Anastasia: Once Upon a Time (2020)
+http://gangafree.com:25461/movie/57068/43111/37885.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Emma. - 2020
+http://gangafree.com:25461/movie/57068/43111/38375.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 2 Graves in the Desert (2020)
+http://gangafree.com:25461/movie/57068/43111/40723.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 18 Presents (2020)
+http://gangafree.com:25461/movie/57068/43111/40724.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Alma pura (2020)
+http://gangafree.com:25461/movie/57068/43111/40725.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Arkansas (2020)
+http://gangafree.com:25461/movie/57068/43111/40727.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Banking on Africa: The Bitcoin Revolution (2020)
+http://gangafree.com:25461/movie/57068/43111/40728.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Becoming (2020)
+http://gangafree.com:25461/movie/57068/43111/40729.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ben Platt: Live from Radio City Music Hall (2020)
+http://gangafree.com:25461/movie/57068/43111/40730.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Inheritance (2020)
+http://gangafree.com:25461/movie/57068/43111/40742.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Survive the Night (2020)
+http://gangafree.com:25461/movie/57068/43111/40763.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Droving (2020)
+http://gangafree.com:25461/movie/57068/43111/40764.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Legion (2020)
+http://gangafree.com:25461/movie/57068/43111/40765.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Lovebirds (2020)
+http://gangafree.com:25461/movie/57068/43111/40766.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", The Postcard Killings (2020)
+http://gangafree.com:25461/movie/57068/43111/40767.mp4
+
 
 
 #EXTM3U

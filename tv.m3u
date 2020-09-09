@@ -423,43 +423,43 @@ http://experiencetv.zapto.org:25468/movie/expertvcon/solofree/260.mp4
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Event 1 - UFC Fight Night Prelims 6PM" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Events",Event 1 - UFC Fight Night Prelims 6PM
+#EXTINF:-1 tvg-id="" tvg-name="Event 1 - AEW All Out 7PM" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Events",Event 1 - AEW All Out 7PM
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/261
-#EXTINF:-1 tvg-id="" tvg-name="Event 2 - UFC Fight Night HD 9PM" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Events",Event 2 - UFC Fight Night HD 9PM
+#EXTINF:-1 tvg-id="" tvg-name="Event 2 -" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Events",Event 2 -
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/335
-#EXTINF:-1 tvg-id="" tvg-name="Event 3 - UFC Fight Night SD 9PM" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Events",Event 3 - UFC Fight Night SD 9PM
+#EXTINF:-1 tvg-id="" tvg-name="Event 3 -" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Events",Event 3 -
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/392
-#EXTINF:-1 tvg-id="" tvg-name="Event 4 - BOX Ramirez v Postol" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Events",Event 4 - BOX Ramirez v Postol
+#EXTINF:-1 tvg-id="" tvg-name="Event 4 -" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Events",Event 4 -
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/393
 #EXTINF:-1 tvg-id="" tvg-name="Event 5 -" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Events",Event 5 -
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/394
-#EXTINF:-1 tvg-id="" tvg-name="MLB 1 - Mets @ Yankees" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 1 - Mets @ Yankees
+#EXTINF:-1 tvg-id="" tvg-name="MLB 1 - Twins @ Cardinals" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 1 - Twins @ Cardinals
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/336
-#EXTINF:-1 tvg-id="" tvg-name="MLB 2 - Cubs @ Reds" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 2 - Cubs @ Reds
+#EXTINF:-1 tvg-id="" tvg-name="MLB 2 - Red Sox @ Phillies" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 2 - Red Sox @ Phillies
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/337
-#EXTINF:-1 tvg-id="" tvg-name="MLB 3 - Twins @ Tigers" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 3 - Twins @ Tigers
+#EXTINF:-1 tvg-id="" tvg-name="MLB 3 - Rays @ Nationals" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 3 - Rays @ Nationals
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/338
-#EXTINF:-1 tvg-id="" tvg-name="MLB 4 - Rays @ Marlins" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 4 - Rays @ Marlins
+#EXTINF:-1 tvg-id="" tvg-name="MLB 4 - Royals @ Indians" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 4 - Royals @ Indians
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/339
-#EXTINF:-1 tvg-id="" tvg-name="MLB 5 - Nationals @ Red Sox" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 5 - Nationals @ Red Sox
+#EXTINF:-1 tvg-id="" tvg-name="MLB 5 - A's @ Astros" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 5 - A's @ Astros
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/340
-#EXTINF:-1 tvg-id="" tvg-name="MLB 6 - Royals @ White Sox" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 6 - Royals @ White Sox
+#EXTINF:-1 tvg-id="" tvg-name="MLB 6 - Yankees @ Blue Jays" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 6 - Yankees @ Blue Jays
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/341
-#EXTINF:-1 tvg-id="" tvg-name="MLB 7 - Pirates @ Brewers" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 7 - Pirates @ Brewers
+#EXTINF:-1 tvg-id="" tvg-name="MLB 7 - White Sox @ Pirates" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 7 - White Sox @ Pirates
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/342
-#EXTINF:-1 tvg-id="" tvg-name="MLB 8 - Indians @ Cardinals" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 8 - Indians @ Cardinals
+#EXTINF:-1 tvg-id="" tvg-name="MLB 8 - Orioles @ Mets" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 8 - Orioles @ Mets
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/343
-#EXTINF:-1 tvg-id="" tvg-name="MLB 9 - Dodgers @ Rangers" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 9 - Dodgers @ Rangers
+#EXTINF:-1 tvg-id="" tvg-name="MLB 9 - Marlins @ Braves" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 9 - Marlins @ Braves
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/344
-#EXTINF:-1 tvg-id="" tvg-name="MLB 10 - Orioles @ Blue Jays" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 10 - Orioles @ Blue Jays
+#EXTINF:-1 tvg-id="" tvg-name="MLB 10 - Brewers @ Tigers" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 10 - Brewers @ Tigers
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/345
-#EXTINF:-1 tvg-id="" tvg-name="MLB 11 - Padres @ Rockies" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 11 - Padres @ Rockies
+#EXTINF:-1 tvg-id="" tvg-name="MLB 11 - Angels @ Rangers" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 11 - Angels @ Rangers
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/346
-#EXTINF:-1 tvg-id="" tvg-name="MLB 12 - Mariners @ Angels" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 12 - Mariners @ Angels
+#EXTINF:-1 tvg-id="" tvg-name="MLB 12 -" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 12 -
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/347
-#EXTINF:-1 tvg-id="" tvg-name="MLB 13 - Giants @ D-Backs" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 13 - Giants @ D-Backs
+#EXTINF:-1 tvg-id="" tvg-name="MLB 13 -" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 13 -
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/348
-#EXTINF:-1 tvg-id="" tvg-name="MLB 14 - A's @ Astros" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 14 - A's @ Astros
+#EXTINF:-1 tvg-id="" tvg-name="MLB 14 -" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 14 -
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/349
 #EXTINF:-1 tvg-id="" tvg-name="MLB 15 -" tvg-logo="https://i.ibb.co/MhXDyv8/mlb.png" group-title="MLB",MLB 15 -
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/350
@@ -787,7 +787,7 @@ http://netsersolutions.online:2999/abellido00/YRR0wJyErO/891
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/864
 #EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="USA | NFL Network" tvg-logo="http://lonewolftvpr.com/logos/nfl.png" group-title="USA",USA | NFL Network
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/234
-#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="USA | NFL Red Zone (Offline)" tvg-logo="http://lonewolftvpr.com/logos/redzone.png" group-title="USA",USA | NFL Red Zone (Offline)
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="USA | NFL Red Zone" tvg-logo="http://lonewolftvpr.com/logos/redzone.png" group-title="USA",USA | NFL Red Zone
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/260
 #EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="USA | NHL Network" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="USA",USA | NHL Network
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/299
@@ -1021,6 +1021,14 @@ http://netsersolutions.online:2999/abellido00/YRR0wJyErO/1214
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/1225
 #EXTINF:-1 tvg-id="" tvg-name="USA | NBC New Orleans " tvg-logo="" group-title="USA Local Networks (Under Construction)",USA | NBC New Orleans 
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/1226
+#EXTINF:-1 tvg-id="abcknvx.us" tvg-name="USA | ABC Phoenix" tvg-logo="" group-title="USA Local Networks (Under Construction)",USA | ABC Phoenix
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/1233
+#EXTINF:-1 tvg-id="cbs5kpho.us" tvg-name="USA | CBS Phoenix" tvg-logo="" group-title="USA Local Networks (Under Construction)",USA | CBS Phoenix
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/1234
+#EXTINF:-1 tvg-id="fox10ksaz.us" tvg-name="USA | FOX Phoenix" tvg-logo="" group-title="USA Local Networks (Under Construction)",USA | FOX Phoenix
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/1235
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Phoenix" tvg-logo="" group-title="USA Local Networks (Under Construction)",USA | NBC Phoenix
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/1236
 #EXTINF:-1 tvg-id="" tvg-name="USA | Worcester - WCCA TV 13" tvg-logo="http://lonewolftvpr.com/logos/news12.png" group-title="USA",USA | Worcester - WCCA TV 13
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/665
 #EXTINF:-1 tvg-id="foxsportsarizona.us" tvg-name="Fox Sports Arizona" tvg-logo="http://lonewolftvpr.com/logos/foxsports.png" group-title="Fox Sports Networks",Fox Sports Arizona
@@ -1321,6 +1329,8 @@ http://netsersolutions.online:2999/abellido00/YRR0wJyErO/624
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/17
 #EXTINF:-1 tvg-id="winsports.co" tvg-name="Latino | Win Sports" tvg-logo="http://lonewolftvpr.com/logos/winsports.png" group-title="Latinamerica",Latino | Win Sports
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/297
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Caza y Pezca" tvg-logo="" group-title="Latinamerica",Latino | Caza y Pezca
+http://netsersolutions.online:2999/abellido00/YRR0wJyErO/1228
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Dusk" tvg-logo="http://lonewolftvpr.com/logos/18mas.png" group-title="Adult",Adult | Dusk
 http://netsersolutions.online:2999/abellido00/YRR0wJyErO/276
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Brazzers" tvg-logo="http://lonewolftvpr.com/logos/18mas.png" group-title="Adult",Adult | Brazzers
@@ -1613,6 +1623,13 @@ http://netsersolutions.online:2999/movie/abellido00/YRR0wJyErO/1044.mkv
 http://netsersolutions.online:2999/movie/abellido00/YRR0wJyErO/1176.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic World: Fallen Kingdom (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg" group-title="Action",Jurassic World: Fallen Kingdom (2018)
 http://netsersolutions.online:2999/movie/abellido00/YRR0wJyErO/1227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mulan (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg" group-title="New Release",Mulan (2020)
+http://netsersolutions.online:2999/movie/abellido00/YRR0wJyErO/1230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg" group-title="Action",Jurassic World (2015)
+http://netsersolutions.online:2999/movie/abellido00/YRR0wJyErO/1231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dark Shadows (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fd9Ck4cxVlmtXsbeGtQW7WFuUFI.jpg" group-title="Thriller",Dark Shadows (2012)
+http://netsersolutions.online:2999/movie/abellido00/YRR0wJyErO/1232.mkv
+
 
 
 #EXTM3U

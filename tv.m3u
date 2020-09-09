@@ -1,30 +1,52 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="max.mx" tvg-name="MX | HBO Mundi FHD" tvg-logo="http://flowfhd.xyz:25461/images/47237531226e28d51e579f60ed7da7db.png" group-title="CANALES-MOVIES",MX | HBO Mundi FHD
-http://flowfhd.xyz:25461/aocmePLAkdjvTOOmwjvwvksv/sdlpefeflrmdowp26f1r564f3/67301
-#EXTINF:-1 tvg-id="maxup.mx" tvg-name="MX | HBO Pop FHD" tvg-logo="http://flowfhd.xyz:25461/images/cbb3991a179afe1cfac36135a9dea3ca.png" group-title="CANALES-MOVIES",MX | HBO Pop FHD
-http://flowfhd.xyz:25461/aocmePLAkdjvTOOmwjvwvksv/sdlpefeflrmdowp26f1r564f3/67302
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="USA | HBO ESP" tvg-logo="" group-title="CANALES-MOVIES",USA | HBO ESP
-http://flowfhd.xyz:25461/aocmePLAkdjvTOOmwjvwvksv/sdlpefeflrmdowp26f1r564f3/67361
-#EXTINF:-1 tvg-id="starz.us" tvg-name="USA | STARZ ESP" tvg-logo="" group-title="CANALES-MOVIES",USA | STARZ ESP
-http://flowfhd.xyz:25461/aocmePLAkdjvTOOmwjvwvksv/sdlpefeflrmdowp26f1r564f3/67363
-#EXTINF:-1 tvg-id="starzedge.us" tvg-name="USA | STARZ EDGE" tvg-logo="" group-title="CANALES-MOVIES",USA | STARZ EDGE
-http://flowfhd.xyz:25461/aocmePLAkdjvTOOmwjvwvksv/sdlpefeflrmdowp26f1r564f3/67364
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="USA | HBO Signature ESP" tvg-logo="" group-title="CANALES-MOVIES",USA | HBO Signature ESP
-http://flowfhd.xyz:25461/aocmePLAkdjvTOOmwjvwvksv/sdlpefeflrmdowp26f1r564f3/67365
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="USA | Showtime ESP" tvg-logo="" group-title="CANALES-MOVIES",USA | Showtime ESP
-http://flowfhd.xyz:25461/aocmePLAkdjvTOOmwjvwvksv/sdlpefeflrmdowp26f1r564f3/67366
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="USA | HBO" tvg-logo="" group-title="CANALES-MOVIES",USA | HBO
-http://flowfhd.xyz:25461/aocmePLAkdjvTOOmwjvwvksv/sdlpefeflrmdowp26f1r564f3/67367
-#EXTINF:-1 tvg-id="hbolatino.us" tvg-name="USA | HBO Latino" tvg-logo="" group-title="CANALES-MOVIES",USA | HBO Latino
-http://flowfhd.xyz:25461/aocmePLAkdjvTOOmwjvwvksv/sdlpefeflrmdowp26f1r564f3/67368
-#EXTINF:-1 tvg-id="cinemax.us" tvg-name="USA | Cinemax ESP" tvg-logo="" group-title="CANALES-MOVIES",USA | Cinemax ESP
-http://flowfhd.xyz:25461/aocmePLAkdjvTOOmwjvwvksv/sdlpefeflrmdowp26f1r564f3/67369
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bein En Espanol" tvg-logo="" group-title="CANALES-BEIN SPORT",USA | Bein En Espanol
-http://flowfhd.xyz:25461/aocmePLAkdjvTOOmwjvwvksv/sdlpefeflrmdowp26f1r564f3/70010
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing" tvg-logo="" group-title="CARRERAS DE CABALLOS",Dubai Racing
-http://flowfhd.xyz:25461/aocmePLAkdjvTOOmwjvwvksv/sdlpefeflrmdowp26f1r564f3/70608
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",FOX SERIES HD (MX)
+http://localdblagent.club:8080/Carlos1/Carlos1/12095?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",GOLDEN EDGE HD
+http://localdblagent.club:8080/Carlos1/Carlos1/12103?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",GOLDEN PLUS HD (MX)
+http://localdblagent.club:8080/Carlos1/Carlos1/12105?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",MEZZO LIVE HD
+http://localdblagent.club:8080/Carlos1/Carlos1/12126?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Hollywood HD
+http://localdblagent.club:8080/Carlos1/Carlos1/12111?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",LA SEXTA HD
+http://localdblagent.club:8080/Carlos1/Carlos1/12123?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PARAMOUNT HD (MX)
+http://localdblagent.club:8080/Carlos1/Carlos1/12133?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",SPACE HD
+http://localdblagent.club:8080/Carlos1/Carlos1/12136?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",TNT SERIES HD (MX)
+http://localdblagent.club:8080/Carlos1/Carlos1/12150?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Vamos HD
+http://localdblagent.club:8080/Carlos1/Carlos1/12161?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",VH1 HD
+http://localdblagent.club:8080/Carlos1/Carlos1/12164?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",WARNER HD
+http://localdblagent.club:8080/Carlos1/Carlos1/12169?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",EL GOURMET HD
+http://localdblagent.club:8080/Carlos1/Carlos1/12081?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ESPN 3 HD
+http://localdblagent.club:8080/Carlos1/Carlos1/12085?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",FILM & ART HD (MX)
+http://localdblagent.club:8080/Carlos1/Carlos1/12089?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",FOX Deportes HD
+http://localdblagent.club:8080/Carlos1/Carlos1/12094?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AXN White HD
+http://localdblagent.club:8080/Carlos1/Carlos1/12044?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",0 HD
+http://localdblagent.club:8080/Carlos1/Carlos1/12035?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",A&E  HD (MX)
+http://localdblagent.club:8080/Carlos1/Carlos1/12037?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",A3 Series HD
+http://localdblagent.club:8080/Carlos1/Carlos1/12038?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",SPORT 1  HD
+http://shamsi.xyz:25461/free/free/604?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",SPORT 10  HD
+http://shamsi.xyz:25461/free/free/613?checkedby:hlscat.com
+
 
 
 

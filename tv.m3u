@@ -1,197 +1,468 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : A&E
+http://mains.vip:2086/craigg/1Lurn7m3F1/98773
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ADN 40
+http://mains.vip:2086/craigg/1Lurn7m3F1/92629
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AMC
+http://mains.vip:2086/craigg/1Lurn7m3F1/98772
+
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO
+http://mains.vip:2086/craigg/1Lurn7m3F1/67176
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/67177
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO FAMILY
+http://mains.vip:2086/craigg/1Lurn7m3F1/67178
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO PLUS
+http://mains.vip:2086/craigg/1Lurn7m3F1/67179
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO SIGNATURE
+http://mains.vip:2086/craigg/1Lurn7m3F1/67180
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HOLA TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/67193
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : MEGA
+http://mains.vip:2086/craigg/1Lurn7m3F1/67186
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : NAT GEO
+http://mains.vip:2086/craigg/1Lurn7m3F1/67187
+
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : STUDIO UNIVERSAL
+http://mains.vip:2086/craigg/1Lurn7m3F1/67208
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : TNT
+http://mains.vip:2086/craigg/1Lurn7m3F1/67203
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : TV CHILE
+http://mains.vip:2086/craigg/1Lurn7m3F1/67199
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : TYC SPORTS
+http://mains.vip:2086/craigg/1Lurn7m3F1/67173
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : WARNER CHANNEL
+http://mains.vip:2086/craigg/1Lurn7m3F1/67210
+
+
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AMERICA TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/92628
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ANIMAL PLANET
+http://mains.vip:2086/craigg/1Lurn7m3F1/98774
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ANTENA 3
+http://mains.vip:2086/craigg/1Lurn7m3F1/66548
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ASPIRE
+http://mains.vip:2086/craigg/1Lurn7m3F1/66549
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AXN
+http://mains.vip:2086/craigg/1Lurn7m3F1/92627
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AYM SPORTS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92626
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AZ CORAZON
+http://mains.vip:2086/craigg/1Lurn7m3F1/92625
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AZTECA
+http://mains.vip:2086/craigg/1Lurn7m3F1/66551
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AZTECA UNO
+http://mains.vip:2086/craigg/1Lurn7m3F1/92623
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : BABY TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/92622
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : BANDAMAX
+http://mains.vip:2086/craigg/1Lurn7m3F1/66552
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : BLOOMBERG
+http://mains.vip:2086/craigg/1Lurn7m3F1/92620
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : BOOMERANG
+http://mains.vip:2086/craigg/1Lurn7m3F1/92619
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CANAL 22 INTERNACIONAL
+http://mains.vip:2086/craigg/1Lurn7m3F1/66554
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CANAL ANTIGUA
+http://mains.vip:2086/craigg/1Lurn7m3F1/92618
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CANAL DE LAS ESTRELLAS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92617
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CARACOL TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/66556
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CARTOON NETWORK
+http://mains.vip:2086/craigg/1Lurn7m3F1/98775
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CENTRO AMERICA TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/66557
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CGTN
+http://mains.vip:2086/craigg/1Lurn7m3F1/92614
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINE ESTELAR
+http://mains.vip:2086/craigg/1Lurn7m3F1/66558
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINE MEXICANO
+http://mains.vip:2086/craigg/1Lurn7m3F1/66559
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINE NOSTALGIA
+http://mains.vip:2086/craigg/1Lurn7m3F1/66560
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINE SONY
+http://mains.vip:2086/craigg/1Lurn7m3F1/66561
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINEMAX
+http://mains.vip:2086/craigg/1Lurn7m3F1/92613
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CNN EN ESPANOL
+http://mains.vip:2086/craigg/1Lurn7m3F1/66553
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CNN INTERNACIONAL
+http://mains.vip:2086/craigg/1Lurn7m3F1/92611
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : COMEDY CENTRAL
+http://mains.vip:2086/craigg/1Lurn7m3F1/98776
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DE PELICULA
+http://mains.vip:2086/craigg/1Lurn7m3F1/66563
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DE PELICULA CLASICO
+http://mains.vip:2086/craigg/1Lurn7m3F1/66564
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DESTINATION AMERICA
+http://mains.vip:2086/craigg/1Lurn7m3F1/66565
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DIGITAL QUINCE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92609
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DIRECTTV SPORT
+http://mains.vip:2086/craigg/1Lurn7m3F1/92608
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DIRECTTV SPORT 1
+http://mains.vip:2086/craigg/1Lurn7m3F1/92607
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DIRECTTV SPORT 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/92606
+
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",AR : FOX SPORTS PREMIUM
+http://mains.vip:2086/craigg/1Lurn7m3F1/67126
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",AR : GOL TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/67124
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : COMEDY CENTRAL
+http://mains.vip:2086/craigg/1Lurn7m3F1/67194
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : DISNEY JR
+http://mains.vip:2086/craigg/1Lurn7m3F1/67154
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : FOROTV
+http://mains.vip:2086/craigg/1Lurn7m3F1/67202
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : FOX SPORTS 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/67169
+
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY CHANNEL
+http://mains.vip:2086/craigg/1Lurn7m3F1/92605
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY EN ESPANOL
+http://mains.vip:2086/craigg/1Lurn7m3F1/66567
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY FAMILIA
+http://mains.vip:2086/craigg/1Lurn7m3F1/66566
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY HOME & HEALTH
+http://mains.vip:2086/craigg/1Lurn7m3F1/92603
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY ID
+http://mains.vip:2086/craigg/1Lurn7m3F1/98777
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY KIDS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92602
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY SCIENCE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92601
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY THEATER
+http://mains.vip:2086/craigg/1Lurn7m3F1/92600
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY TURBO
+http://mains.vip:2086/craigg/1Lurn7m3F1/92599
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY WORLD
+http://mains.vip:2086/craigg/1Lurn7m3F1/66651
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISNEY CHANNEL
+http://mains.vip:2086/craigg/1Lurn7m3F1/92597
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISNEY JUNIOR
+http://mains.vip:2086/craigg/1Lurn7m3F1/92596
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISNEY XD
+http://mains.vip:2086/craigg/1Lurn7m3F1/98778
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISTRITO COMEDIA
+http://mains.vip:2086/craigg/1Lurn7m3F1/92595
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : E!
+http://mains.vip:2086/craigg/1Lurn7m3F1/98779
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ECUADOR TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/66569
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ECUAVISA INTERNACIONAL
+http://mains.vip:2086/craigg/1Lurn7m3F1/66570
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : EL GOURMET
+http://mains.vip:2086/craigg/1Lurn7m3F1/92594
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ENLACE
+http://mains.vip:2086/craigg/1Lurn7m3F1/66571
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESPN
+http://mains.vip:2086/craigg/1Lurn7m3F1/98780
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESPN 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/98781
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESPN 3
+http://mains.vip:2086/craigg/1Lurn7m3F1/98782
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESPN DEPORTES
+http://mains.vip:2086/craigg/1Lurn7m3F1/66568
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESTRELLA TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/66572
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FM
+http://mains.vip:2086/craigg/1Lurn7m3F1/66573
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOOD NETWORK
+http://mains.vip:2086/craigg/1Lurn7m3F1/98783
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FORO TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/66574
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX
+http://mains.vip:2086/craigg/1Lurn7m3F1/98784
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX ACTION
+http://mains.vip:2086/craigg/1Lurn7m3F1/92591
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX CINEMA
+http://mains.vip:2086/craigg/1Lurn7m3F1/66661
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX CLASSICS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92589
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX COMEDY
+http://mains.vip:2086/craigg/1Lurn7m3F1/92588
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX DEPORTES
+http://mains.vip:2086/craigg/1Lurn7m3F1/92587
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX FAMILY
+http://mains.vip:2086/craigg/1Lurn7m3F1/98785
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX MOVIES
+http://mains.vip:2086/craigg/1Lurn7m3F1/92586
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SERIES
+http://mains.vip:2086/craigg/1Lurn7m3F1/92585
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SPORTS 1
+http://mains.vip:2086/craigg/1Lurn7m3F1/92584
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SPORTS 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/92583
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SPORTS 3
+http://mains.vip:2086/craigg/1Lurn7m3F1/92582
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SPORTS PREMIUM
+http://mains.vip:2086/craigg/1Lurn7m3F1/92581
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FX
+http://mains.vip:2086/craigg/1Lurn7m3F1/98786
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FXM
+http://mains.vip:2086/craigg/1Lurn7m3F1/98787
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GALAVISION
+http://mains.vip:2086/craigg/1Lurn7m3F1/66578
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GARAGE TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/92579
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GLITZ
+http://mains.vip:2086/craigg/1Lurn7m3F1/92578
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GOL TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/66576
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GOLDEN
+http://mains.vip:2086/craigg/1Lurn7m3F1/66670
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GOLDEN EDGE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92575
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GSN
+http://mains.vip:2086/craigg/1Lurn7m3F1/66577
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GUATEVISION
+http://mains.vip:2086/craigg/1Lurn7m3F1/92574
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO
+http://mains.vip:2086/craigg/1Lurn7m3F1/92572
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/92571
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO FAMILY
+http://mains.vip:2086/craigg/1Lurn7m3F1/92570
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO LATINO
+http://mains.vip:2086/craigg/1Lurn7m3F1/66579
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO PLUS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92569
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO SIGNATURE
+http://mains.vip:2086/craigg/1Lurn7m3F1/66678
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HISTORY
+http://mains.vip:2086/craigg/1Lurn7m3F1/92567
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HISTORY 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/92566
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HISTORY EN ESPANOL
+http://mains.vip:2086/craigg/1Lurn7m3F1/66582
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HITN
+http://mains.vip:2086/craigg/1Lurn7m3F1/66580
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HLN
+http://mains.vip:2086/craigg/1Lurn7m3F1/66581
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HOLA TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/66583
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : LAS ESTRELLAS
+http://mains.vip:2086/craigg/1Lurn7m3F1/66619
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : LIFETIME
+http://mains.vip:2086/craigg/1Lurn7m3F1/92563
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MAS CHIC
+http://mains.vip:2086/craigg/1Lurn7m3F1/92562
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MAX PRIME
+http://mains.vip:2086/craigg/1Lurn7m3F1/92560
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MAX UP
+http://mains.vip:2086/craigg/1Lurn7m3F1/92559
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MILENIO TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/92558
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MOVIEMAX
+http://mains.vip:2086/craigg/1Lurn7m3F1/92556
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MOVIEPLEX
+http://mains.vip:2086/craigg/1Lurn7m3F1/92555
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MTV HITS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92554
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MULTIMEDIOS
+http://mains.vip:2086/craigg/1Lurn7m3F1/66586
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NAT GEO
+http://mains.vip:2086/craigg/1Lurn7m3F1/92553
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NAT GEO MUNDO
+http://mains.vip:2086/craigg/1Lurn7m3F1/66588
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NAT GEO WILD
+http://mains.vip:2086/craigg/1Lurn7m3F1/98788
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NBC UNIVERSO
+http://mains.vip:2086/craigg/1Lurn7m3F1/66685
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NEXT TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/92550
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NICK 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/92549
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NICK JR
+http://mains.vip:2086/craigg/1Lurn7m3F1/92548
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NICK TOONS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92547
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NICKELODEON
+http://mains.vip:2086/craigg/1Lurn7m3F1/92546
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NOS PAIS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92545
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NTN24
+http://mains.vip:2086/craigg/1Lurn7m3F1/66587
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NUESTRA TELE
+http://mains.vip:2086/craigg/1Lurn7m3F1/66589
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : OUTERMAX
+http://mains.vip:2086/craigg/1Lurn7m3F1/92543
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : PARAMOUNT CHANNEL
+http://mains.vip:2086/craigg/1Lurn7m3F1/92542
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : PASIONES
+http://mains.vip:2086/craigg/1Lurn7m3F1/66590
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : PERU MAGICO
+http://mains.vip:2086/craigg/1Lurn7m3F1/66591
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : PROMAR
+http://mains.vip:2086/craigg/1Lurn7m3F1/92540
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : RCN NOVELAS CO
+http://mains.vip:2086/craigg/1Lurn7m3F1/86839
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : RITMOSON
+http://mains.vip:2086/craigg/1Lurn7m3F1/92539
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : RTV 7
+http://mains.vip:2086/craigg/1Lurn7m3F1/92538
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SHOWTIME
+http://mains.vip:2086/craigg/1Lurn7m3F1/92537
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SHOWTIME BEYOND
+http://mains.vip:2086/craigg/1Lurn7m3F1/92536
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SHOWTIME EAST
+http://mains.vip:2086/craigg/1Lurn7m3F1/92535
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SHOWTIME WEST
+http://mains.vip:2086/craigg/1Lurn7m3F1/92534
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SONY CHANNEL
+http://mains.vip:2086/craigg/1Lurn7m3F1/92533
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SPACE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92532
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ
+http://mains.vip:2086/craigg/1Lurn7m3F1/92531
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ COMEDY
+http://mains.vip:2086/craigg/1Lurn7m3F1/92528
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ EAST
+http://mains.vip:2086/craigg/1Lurn7m3F1/92527
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92525
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE ACTION
+http://mains.vip:2086/craigg/1Lurn7m3F1/92524
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE CLASSIC
+http://mains.vip:2086/craigg/1Lurn7m3F1/92522
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE ESPAÑOL
+http://mains.vip:2086/craigg/1Lurn7m3F1/56141
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE FAMILY
+http://mains.vip:2086/craigg/1Lurn7m3F1/92521
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE SUSPENSE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92520
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE WESTERN
+http://mains.vip:2086/craigg/1Lurn7m3F1/92519
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ WEST
+http://mains.vip:2086/craigg/1Lurn7m3F1/92516
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STUDIO UNIVERSAL
+http://mains.vip:2086/craigg/1Lurn7m3F1/92515
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SUR PERU
+http://mains.vip:2086/craigg/1Lurn7m3F1/66592
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SYFY
+http://mains.vip:2086/craigg/1Lurn7m3F1/92514
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TBS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92513
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TCM
+http://mains.vip:2086/craigg/1Lurn7m3F1/92512
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEAMAZONAS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92510
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELECENTRO
+http://mains.vip:2086/craigg/1Lurn7m3F1/66597
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEFE
+http://mains.vip:2086/craigg/1Lurn7m3F1/66598
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEMUNDO
+http://mains.vip:2086/craigg/1Lurn7m3F1/92508
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEMUNDO INTERNATIONAL
+http://mains.vip:2086/craigg/1Lurn7m3F1/92500
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEMUNDO WEST
+http://mains.vip:2086/craigg/1Lurn7m3F1/92492
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELENOVELAS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92491
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEPACIFICO
+http://mains.vip:2086/craigg/1Lurn7m3F1/92490
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELESISTEMA
+http://mains.vip:2086/craigg/1Lurn7m3F1/92489
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELESUR
+http://mains.vip:2086/craigg/1Lurn7m3F1/92488
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELETICA 7
+http://mains.vip:2086/craigg/1Lurn7m3F1/92487
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TLC
+http://mains.vip:2086/craigg/1Lurn7m3F1/92486
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TNT
+http://mains.vip:2086/craigg/1Lurn7m3F1/92485
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TNT SERIES
+http://mains.vip:2086/craigg/1Lurn7m3F1/92484
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TOONCAST
+http://mains.vip:2086/craigg/1Lurn7m3F1/92482
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TR3S
+http://mains.vip:2086/craigg/1Lurn7m3F1/66600
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TRU TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/92480
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TUDN
+http://mains.vip:2086/craigg/1Lurn7m3F1/66593
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TV CHILE
+http://mains.vip:2086/craigg/1Lurn7m3F1/66594
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TV ONE
+http://mains.vip:2086/craigg/1Lurn7m3F1/66595
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TVE
+http://mains.vip:2086/craigg/1Lurn7m3F1/66596
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TVN
+http://mains.vip:2086/craigg/1Lurn7m3F1/92478
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TYC SPORTS
+http://mains.vip:2086/craigg/1Lurn7m3F1/66601
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA CINE
+http://mains.vip:2086/craigg/1Lurn7m3F1/98789
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA CLASICO
+http://mains.vip:2086/craigg/1Lurn7m3F1/98790
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA FAMILIA
+http://mains.vip:2086/craigg/1Lurn7m3F1/98791
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA FIESTA
+http://mains.vip:2086/craigg/1Lurn7m3F1/98792
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA FILM
+http://mains.vip:2086/craigg/1Lurn7m3F1/98793
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA MACHO
+http://mains.vip:2086/craigg/1Lurn7m3F1/98794
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA MEX
+http://mains.vip:2086/craigg/1Lurn7m3F1/98795
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA TAINMENT
+http://mains.vip:2086/craigg/1Lurn7m3F1/98796
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIMAS
+http://mains.vip:2086/craigg/1Lurn7m3F1/66719
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIMAS EAST
+http://mains.vip:2086/craigg/1Lurn7m3F1/92475
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIMAS WEST
+http://mains.vip:2086/craigg/1Lurn7m3F1/66602
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVERSAL
+http://mains.vip:2086/craigg/1Lurn7m3F1/66720
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVERSO
+http://mains.vip:2086/craigg/1Lurn7m3F1/66603
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION
+http://mains.vip:2086/craigg/1Lurn7m3F1/66722
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION (KUVN) DALLAS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92468
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION (WLTV) FORT LAUDERDALE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92465
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION DEPORTES
+http://mains.vip:2086/craigg/1Lurn7m3F1/21595
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION EAST
+http://mains.vip:2086/craigg/1Lurn7m3F1/66604
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION TDN
+http://mains.vip:2086/craigg/1Lurn7m3F1/66723
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION TLNOVELAS
+http://mains.vip:2086/craigg/1Lurn7m3F1/66605
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION WEST
+http://mains.vip:2086/craigg/1Lurn7m3F1/82066
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VENEVISION PLUS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92462
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VEPLUS
+http://mains.vip:2086/craigg/1Lurn7m3F1/66606
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VH1
+http://mains.vip:2086/craigg/1Lurn7m3F1/92461
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VH1 CLASSIC
+http://mains.vip:2086/craigg/1Lurn7m3F1/92460
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VIDEOROLA
+http://mains.vip:2086/craigg/1Lurn7m3F1/66607
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VIENDOMOVIES
+http://mains.vip:2086/craigg/1Lurn7m3F1/66608
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VME
+http://mains.vip:2086/craigg/1Lurn7m3F1/66609
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VTV
+http://mains.vip:2086/craigg/1Lurn7m3F1/92459
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : WAPA AMERICA
+http://mains.vip:2086/craigg/1Lurn7m3F1/66610
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : WARNER
+http://mains.vip:2086/craigg/1Lurn7m3F1/92458
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : WE TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/66611
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : WIN SPORTS
+http://mains.vip:2086/craigg/1Lurn7m3F1/98797
+#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ZOOMOO
+http://mains.vip:2086/craigg/1Lurn7m3F1/66612
 
 
-#EXTINF:-1,A&E
-http://23.237.54.42/hls/A-AND-EMX.m3u8
-
-#EXTINF:-1,ANIMAL PLANET
-http://23.237.54.42/hls/ANIMALPLANETMX.m3u8
-
-#EXTINF:-1,AXN
-http://23.237.54.42/hls/AXNMX.m3u8
-
-#EXTINF:-1,AZMUNDO
-http://23.237.54.42/hls/AZMUNDOMX.m3u8
-
-#EXTINF:-1,AZTECA UNO
-http://23.237.54.42/hls/AZTECA1MX.m3u8
-
-#EXTINF:-1,BOOMERANG
-http://23.237.54.42/hls/BOOMERANGMX.m3u8
-
-#EXTINF:-1,CANAL 5
-http://23.237.54.42/hls/CANAL5MX.m3u8
-
-#EXTINF:-1,CANAL 9
-http://23.237.54.42/hls/CANAL9MX.m3u8
-
-#EXTINF:-1,CANAL ONCE
-http://23.237.54.42/hls/CANAL11MX.m3u8
-
-#EXTINF:-1,CARTOON NETWOR
-http://23.237.54.42/hls/CARTOONNETWORKMX.m3u8
-
-#EXTINF:-1,CINECANAL
-http://23.237.54.42/hls/CINECANALMX.m3u8
-
-#EXTINF:-1,CINEMAX
-http://23.237.54.42/hls/CINEMAXMX.m3u8
-
-#EXTINF:-1,DISCOVERI CHANEL
-http://23.237.54.42/hls/DISCOVERYCHANNELMX.m3u8
-
-#EXTINF:-1,DISCOVERY KIDS
-http://23.237.54.42/hls/DISCOVERYKIDSMX.m3u8
-
-#EXTINF:-1,DISCOVERY TURBO
-http://23.237.54.42/hls/DISCOVERYTURBOHDMX.m3u8
-
-#EXTINF:-1,DISCOVRY SCIENCIE
-http://23.237.54.42/hls/DISCOVERYSCIENCEMX.m3u8
-
-#EXTINF:-1,DISNET JUNIOR
-http://23.237.54.42/hls/DISNEYJUNIORMX.m3u8
-
-#EXTINF:-1,DISNEY CHANNEL
-http://23.237.54.42/hls/DISNEYCHANNELMX.m3u8
-
-#EXTINF:-1,DISNEY XD
-http://23.237.54.42/hls/DISNEYXDMX.m3u8
-
-#EXTINF:-1,DISTRITOCOMEDIA
-http://23.237.54.42/hls/DISTRITOCOMEDIAMX.m3u8
-
-#EXTINF:-1,ESPN
-http://23.237.54.42/hls/ESPNMX.m3u8
-
-#EXTINF:-1,ESPN 2
-http://23.237.54.42/hls/ESPN2MX.m3u8
-
-#EXTINF:-1,ESPN 3
-http://23.237.54.42/hls/ESPN3MX.m3u8
-
-#EXTINF:-1,FORO TV
-http://23.237.54.42/hls/FOROTVMX.m3u8
-
-#EXTINF:-1,FOX
-http://23.237.54.42/hls/FOXMX.m3u8
-
-#EXTINF:-1,FOX ACTION
-http://23.237.54.42/hls/FOXACTIONMX.m3u8
-
-#EXTINF:-1,FOX CINEMA
-http://23.237.54.42/hls/FOXCINEMAMX.m3u8
-
-#EXTINF:-1,FOX CLASIC
-http://23.237.54.42/hls/FOXCLASSICMX.m3u8
-
-#EXTINF:-1,FOX MOVIES
-http://23.237.54.42/hls/FOXMOVIESMX.m3u8
-
-#EXTINF:-1,FOX SERIES
-http://23.237.54.42/hls/FOXSERIESMX.m3u8
-
-#EXTINF:-1,FOXSPORTS
-http://23.237.54.42/hls/FOXSPORTSMX.m3u8
-
-#EXTINF:-1,FOXSPORTS 2
-http://23.237.54.42/hls/FOXSPORTS2MX.m3u8
-
-#EXTINF:-1,FOXSPORTS 3
-http://23.237.54.42/hls/FOXSPORTS3MX.m3u8
-
-#EXTINF:-1,FX
-http://23.237.54.42/hls/FXMX.m3u8
-
-#EXTINF:-1,GALAVISION
-http://23.237.32.130/hls/GALAVISION.m3u8
-
-#EXTINF:-1,GOLDEN
-http://23.237.54.42/hls/GOLDENMX.m3u8
-
-#EXTINF:-1,GOLDEN EDGE
-http://23.237.54.42/hls/GOLDENEDGEMX.m3u8
-
-#EXTINF:-1,GOLDEN PLUS
-http://23.237.54.42/hls/GOLDENPLUSMX.m3u8
-
-#EXTINF:-1,GOURMET
-http://23.237.54.42/hls/GOURMETMX.m3u8
-
-#EXTINF:-1,HISTORY
-http://23.237.54.42/hls/HISTORYMX.m3u8
-
-#EXTINF:-1,ID
-http://23.237.54.42/hls/INVESTIGATIONDISCOVERYMX.m3u8
-
-#EXTINF:-1,IMAGEN TV
-http://23.237.54.42/hls/IMAGENTVMX.m3u8
-
-#EXTINF:-1,LAS ESTRELLAS
-http://23.237.54.42/hls/LASESTRELLASMX.m3u8
-
-#EXTINF:-1,MTV
-http://23.237.54.42/hls/MTVMX.m3u8
-
-#EXTINF:-1,NAT GEO
-http://23.237.54.42/hls/NATGEOMX.m3u8
-
-#EXTINF:-1,NATGEO KIDS
-http://23.237.54.42/hls/NATGEOKIDSMX.m3u8
-
-#EXTINF:-1,NATGEO WILL
-http://23.237.54.42/hls/NATGEOWILDMX.m3u8
-
-#EXTINF:-1,NICK
-http://23.237.54.42/hls/NICKMX.m3u8
-
-#EXTINF:-1,NICK JR
-http://23.237.54.42/hls/NICKJUNIORMX.m3u8
-
-#EXTINF:-1,NICKTOONS
-http://23.237.54.42/hls/NICKTOONSMX.m3u8
-
-#EXTINF:-1,PARAMOUNT
-http://23.237.54.42/hls/PARAMOUNTCHANNELMX.m3u8
-
-#EXTINF:-1,SONY
-http://23.237.54.42/hls/SONYMX.m3u8
-
-#EXTINF:-1,SPACE
-http://23.237.54.42/hls/SPACEMX.m3u8
-
-#EXTINF:-1,SYFY
-http://23.237.54.42/hls/SYFYMX.m3u8
-
-#EXTINF:-1,TBS
-http://23.237.54.42/hls/TBSMX.m3u8
-
-#EXTINF:-1,TCM
-http://23.237.54.42/hls/TCMMX.m3u8
-
-#EXTINF:-1,TLC
-http://23.237.54.42/hls/TLCMX.m3u8
-
-#EXTINF:-1,TLNOVELAS
-http://23.237.32.130/hls/TLNOVELAS.m3u8
-
-#EXTINF:-1,TNT
-http://23.237.54.42/hls/TNTMX.m3u8
-
-#EXTINF:-1,TOONCAST
-http://23.237.54.42/hls/TOONCASTMX.m3u8
-
-#EXTINF:-1,TV MAS
-http://23.237.54.42/hls/TVMASMX.m3u8
-
-#EXTINF:-1,UNIMAS
-http://23.237.32.130/hls/UNIMAS.m3u8
-
-#EXTINF:-1,UNIVISION
-http://23.237.32.130/hls/UNIVISION.m3u8
-
-#EXTINF:-1,WARNER
-http://23.237.54.42/hls/WARNERCHANNELMX.m3u8
 
 
 

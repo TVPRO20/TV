@@ -1,1430 +1,354 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : A&E
-http://mains.vip:2086/craigg/1Lurn7m3F1/98773
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ADN 40
-http://mains.vip:2086/craigg/1Lurn7m3F1/92629
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AMC
-http://mains.vip:2086/craigg/1Lurn7m3F1/98772
-
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO
-http://mains.vip:2086/craigg/1Lurn7m3F1/67176
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/67177
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO FAMILY
-http://mains.vip:2086/craigg/1Lurn7m3F1/67178
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO PLUS
-http://mains.vip:2086/craigg/1Lurn7m3F1/67179
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO SIGNATURE
-http://mains.vip:2086/craigg/1Lurn7m3F1/67180
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HOLA TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/67193
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : MEGA
-http://mains.vip:2086/craigg/1Lurn7m3F1/67186
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : NAT GEO
-http://mains.vip:2086/craigg/1Lurn7m3F1/67187
-
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : STUDIO UNIVERSAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/67208
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : TNT
-http://mains.vip:2086/craigg/1Lurn7m3F1/67203
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : TV CHILE
-http://mains.vip:2086/craigg/1Lurn7m3F1/67199
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : TYC SPORTS
-http://mains.vip:2086/craigg/1Lurn7m3F1/67173
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : WARNER CHANNEL
-http://mains.vip:2086/craigg/1Lurn7m3F1/67210
-
-
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AMERICA TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92628
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ANIMAL PLANET
-http://mains.vip:2086/craigg/1Lurn7m3F1/98774
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ANTENA 3
-http://mains.vip:2086/craigg/1Lurn7m3F1/66548
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ASPIRE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66549
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AXN
-http://mains.vip:2086/craigg/1Lurn7m3F1/92627
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AYM SPORTS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92626
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AZ CORAZON
-http://mains.vip:2086/craigg/1Lurn7m3F1/92625
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AZTECA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66551
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AZTECA UNO
-http://mains.vip:2086/craigg/1Lurn7m3F1/92623
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : BABY TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92622
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : BANDAMAX
-http://mains.vip:2086/craigg/1Lurn7m3F1/66552
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : BLOOMBERG
-http://mains.vip:2086/craigg/1Lurn7m3F1/92620
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : BOOMERANG
-http://mains.vip:2086/craigg/1Lurn7m3F1/92619
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CANAL 22 INTERNACIONAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/66554
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CANAL ANTIGUA
-http://mains.vip:2086/craigg/1Lurn7m3F1/92618
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CANAL DE LAS ESTRELLAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92617
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CARACOL TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66556
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CARTOON NETWORK
-http://mains.vip:2086/craigg/1Lurn7m3F1/98775
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CENTRO AMERICA TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66557
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CGTN
-http://mains.vip:2086/craigg/1Lurn7m3F1/92614
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINE ESTELAR
-http://mains.vip:2086/craigg/1Lurn7m3F1/66558
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINE MEXICANO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66559
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINE NOSTALGIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66560
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINE SONY
-http://mains.vip:2086/craigg/1Lurn7m3F1/66561
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINEMAX
-http://mains.vip:2086/craigg/1Lurn7m3F1/92613
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CNN EN ESPANOL
-http://mains.vip:2086/craigg/1Lurn7m3F1/66553
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CNN INTERNACIONAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92611
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : COMEDY CENTRAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/98776
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DE PELICULA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66563
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DE PELICULA CLASICO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66564
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DESTINATION AMERICA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66565
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DIGITAL QUINCE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92609
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DIRECTTV SPORT
-http://mains.vip:2086/craigg/1Lurn7m3F1/92608
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DIRECTTV SPORT 1
-http://mains.vip:2086/craigg/1Lurn7m3F1/92607
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DIRECTTV SPORT 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/92606
-
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",AR : FOX SPORTS PREMIUM
-http://mains.vip:2086/craigg/1Lurn7m3F1/67126
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",AR : GOL TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/67124
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : COMEDY CENTRAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/67194
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : DISNEY JR
-http://mains.vip:2086/craigg/1Lurn7m3F1/67154
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : FOROTV
-http://mains.vip:2086/craigg/1Lurn7m3F1/67202
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : FOX SPORTS 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/67169
-
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY CHANNEL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92605
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY EN ESPANOL
-http://mains.vip:2086/craigg/1Lurn7m3F1/66567
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY FAMILIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66566
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY HOME & HEALTH
-http://mains.vip:2086/craigg/1Lurn7m3F1/92603
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY ID
-http://mains.vip:2086/craigg/1Lurn7m3F1/98777
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY KIDS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92602
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY SCIENCE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92601
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY THEATER
-http://mains.vip:2086/craigg/1Lurn7m3F1/92600
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY TURBO
-http://mains.vip:2086/craigg/1Lurn7m3F1/92599
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY WORLD
-http://mains.vip:2086/craigg/1Lurn7m3F1/66651
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISNEY CHANNEL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92597
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISNEY JUNIOR
-http://mains.vip:2086/craigg/1Lurn7m3F1/92596
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISNEY XD
-http://mains.vip:2086/craigg/1Lurn7m3F1/98778
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISTRITO COMEDIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/92595
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : E!
-http://mains.vip:2086/craigg/1Lurn7m3F1/98779
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ECUADOR TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66569
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ECUAVISA INTERNACIONAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/66570
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : EL GOURMET
-http://mains.vip:2086/craigg/1Lurn7m3F1/92594
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ENLACE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66571
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESPN
-http://mains.vip:2086/craigg/1Lurn7m3F1/98780
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESPN 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/98781
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESPN 3
-http://mains.vip:2086/craigg/1Lurn7m3F1/98782
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESPN DEPORTES
-http://mains.vip:2086/craigg/1Lurn7m3F1/66568
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESTRELLA TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66572
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FM
-http://mains.vip:2086/craigg/1Lurn7m3F1/66573
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOOD NETWORK
-http://mains.vip:2086/craigg/1Lurn7m3F1/98783
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FORO TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66574
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX
-http://mains.vip:2086/craigg/1Lurn7m3F1/98784
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX ACTION
-http://mains.vip:2086/craigg/1Lurn7m3F1/92591
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX CINEMA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66661
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX CLASSICS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92589
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX COMEDY
-http://mains.vip:2086/craigg/1Lurn7m3F1/92588
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX DEPORTES
-http://mains.vip:2086/craigg/1Lurn7m3F1/92587
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX FAMILY
-http://mains.vip:2086/craigg/1Lurn7m3F1/98785
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX MOVIES
-http://mains.vip:2086/craigg/1Lurn7m3F1/92586
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SERIES
-http://mains.vip:2086/craigg/1Lurn7m3F1/92585
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SPORTS 1
-http://mains.vip:2086/craigg/1Lurn7m3F1/92584
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SPORTS 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/92583
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SPORTS 3
-http://mains.vip:2086/craigg/1Lurn7m3F1/92582
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SPORTS PREMIUM
-http://mains.vip:2086/craigg/1Lurn7m3F1/92581
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FX
-http://mains.vip:2086/craigg/1Lurn7m3F1/98786
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FXM
-http://mains.vip:2086/craigg/1Lurn7m3F1/98787
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GALAVISION
-http://mains.vip:2086/craigg/1Lurn7m3F1/66578
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GARAGE TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92579
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GLITZ
-http://mains.vip:2086/craigg/1Lurn7m3F1/92578
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GOL TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66576
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GOLDEN
-http://mains.vip:2086/craigg/1Lurn7m3F1/66670
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GOLDEN EDGE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92575
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GSN
-http://mains.vip:2086/craigg/1Lurn7m3F1/66577
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GUATEVISION
-http://mains.vip:2086/craigg/1Lurn7m3F1/92574
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO
-http://mains.vip:2086/craigg/1Lurn7m3F1/92572
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/92571
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO FAMILY
-http://mains.vip:2086/craigg/1Lurn7m3F1/92570
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO LATINO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66579
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO PLUS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92569
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO SIGNATURE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66678
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HISTORY
-http://mains.vip:2086/craigg/1Lurn7m3F1/92567
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HISTORY 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/92566
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HISTORY EN ESPANOL
-http://mains.vip:2086/craigg/1Lurn7m3F1/66582
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HITN
-http://mains.vip:2086/craigg/1Lurn7m3F1/66580
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HLN
-http://mains.vip:2086/craigg/1Lurn7m3F1/66581
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HOLA TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66583
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : LAS ESTRELLAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/66619
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : LIFETIME
-http://mains.vip:2086/craigg/1Lurn7m3F1/92563
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MAS CHIC
-http://mains.vip:2086/craigg/1Lurn7m3F1/92562
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MAX PRIME
-http://mains.vip:2086/craigg/1Lurn7m3F1/92560
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MAX UP
-http://mains.vip:2086/craigg/1Lurn7m3F1/92559
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MILENIO TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92558
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MOVIEMAX
-http://mains.vip:2086/craigg/1Lurn7m3F1/92556
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MOVIEPLEX
-http://mains.vip:2086/craigg/1Lurn7m3F1/92555
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MTV HITS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92554
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MULTIMEDIOS
-http://mains.vip:2086/craigg/1Lurn7m3F1/66586
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NAT GEO
-http://mains.vip:2086/craigg/1Lurn7m3F1/92553
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NAT GEO MUNDO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66588
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NAT GEO WILD
-http://mains.vip:2086/craigg/1Lurn7m3F1/98788
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NBC UNIVERSO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66685
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NEXT TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92550
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NICK 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/92549
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NICK JR
-http://mains.vip:2086/craigg/1Lurn7m3F1/92548
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NICK TOONS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92547
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NICKELODEON
-http://mains.vip:2086/craigg/1Lurn7m3F1/92546
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NOS PAIS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92545
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NTN24
-http://mains.vip:2086/craigg/1Lurn7m3F1/66587
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NUESTRA TELE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66589
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : OUTERMAX
-http://mains.vip:2086/craigg/1Lurn7m3F1/92543
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : PARAMOUNT CHANNEL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92542
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : PASIONES
-http://mains.vip:2086/craigg/1Lurn7m3F1/66590
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : PERU MAGICO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66591
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : PROMAR
-http://mains.vip:2086/craigg/1Lurn7m3F1/92540
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : RCN NOVELAS CO
-http://mains.vip:2086/craigg/1Lurn7m3F1/86839
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : RITMOSON
-http://mains.vip:2086/craigg/1Lurn7m3F1/92539
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : RTV 7
-http://mains.vip:2086/craigg/1Lurn7m3F1/92538
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SHOWTIME
-http://mains.vip:2086/craigg/1Lurn7m3F1/92537
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SHOWTIME BEYOND
-http://mains.vip:2086/craigg/1Lurn7m3F1/92536
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SHOWTIME EAST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92535
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SHOWTIME WEST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92534
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SONY CHANNEL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92533
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SPACE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92532
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ
-http://mains.vip:2086/craigg/1Lurn7m3F1/92531
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ COMEDY
-http://mains.vip:2086/craigg/1Lurn7m3F1/92528
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ EAST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92527
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92525
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE ACTION
-http://mains.vip:2086/craigg/1Lurn7m3F1/92524
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE CLASSIC
-http://mains.vip:2086/craigg/1Lurn7m3F1/92522
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE ESPAÑOL
-http://mains.vip:2086/craigg/1Lurn7m3F1/56141
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE FAMILY
-http://mains.vip:2086/craigg/1Lurn7m3F1/92521
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE SUSPENSE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92520
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE WESTERN
-http://mains.vip:2086/craigg/1Lurn7m3F1/92519
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ WEST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92516
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STUDIO UNIVERSAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92515
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SUR PERU
-http://mains.vip:2086/craigg/1Lurn7m3F1/66592
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SYFY
-http://mains.vip:2086/craigg/1Lurn7m3F1/92514
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TBS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92513
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TCM
-http://mains.vip:2086/craigg/1Lurn7m3F1/92512
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEAMAZONAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92510
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELECENTRO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66597
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEFE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66598
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEMUNDO
-http://mains.vip:2086/craigg/1Lurn7m3F1/92508
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEMUNDO INTERNATIONAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92500
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEMUNDO WEST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92492
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELENOVELAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92491
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEPACIFICO
-http://mains.vip:2086/craigg/1Lurn7m3F1/92490
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELESISTEMA
-http://mains.vip:2086/craigg/1Lurn7m3F1/92489
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELESUR
-http://mains.vip:2086/craigg/1Lurn7m3F1/92488
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELETICA 7
-http://mains.vip:2086/craigg/1Lurn7m3F1/92487
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TLC
-http://mains.vip:2086/craigg/1Lurn7m3F1/92486
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TNT
-http://mains.vip:2086/craigg/1Lurn7m3F1/92485
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TNT SERIES
-http://mains.vip:2086/craigg/1Lurn7m3F1/92484
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TOONCAST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92482
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TR3S
-http://mains.vip:2086/craigg/1Lurn7m3F1/66600
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TRU TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92480
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TUDN
-http://mains.vip:2086/craigg/1Lurn7m3F1/66593
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TV CHILE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66594
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TV ONE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66595
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TVE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66596
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TVN
-http://mains.vip:2086/craigg/1Lurn7m3F1/92478
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TYC SPORTS
-http://mains.vip:2086/craigg/1Lurn7m3F1/66601
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA CINE
-http://mains.vip:2086/craigg/1Lurn7m3F1/98789
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA CLASICO
-http://mains.vip:2086/craigg/1Lurn7m3F1/98790
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA FAMILIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/98791
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA FIESTA
-http://mains.vip:2086/craigg/1Lurn7m3F1/98792
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA FILM
-http://mains.vip:2086/craigg/1Lurn7m3F1/98793
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA MACHO
-http://mains.vip:2086/craigg/1Lurn7m3F1/98794
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA MEX
-http://mains.vip:2086/craigg/1Lurn7m3F1/98795
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA TAINMENT
-http://mains.vip:2086/craigg/1Lurn7m3F1/98796
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIMAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/66719
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIMAS EAST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92475
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIMAS WEST
-http://mains.vip:2086/craigg/1Lurn7m3F1/66602
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVERSAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/66720
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVERSO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66603
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION
-http://mains.vip:2086/craigg/1Lurn7m3F1/66722
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION (KUVN) DALLAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92468
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION (WLTV) FORT LAUDERDALE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92465
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION DEPORTES
-http://mains.vip:2086/craigg/1Lurn7m3F1/21595
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION EAST
-http://mains.vip:2086/craigg/1Lurn7m3F1/66604
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION TDN
-http://mains.vip:2086/craigg/1Lurn7m3F1/66723
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION TLNOVELAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/66605
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION WEST
-http://mains.vip:2086/craigg/1Lurn7m3F1/82066
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VENEVISION PLUS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92462
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VEPLUS
-http://mains.vip:2086/craigg/1Lurn7m3F1/66606
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VH1
-http://mains.vip:2086/craigg/1Lurn7m3F1/92461
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VH1 CLASSIC
-http://mains.vip:2086/craigg/1Lurn7m3F1/92460
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VIDEOROLA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66607
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VIENDOMOVIES
-http://mains.vip:2086/craigg/1Lurn7m3F1/66608
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VME
-http://mains.vip:2086/craigg/1Lurn7m3F1/66609
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VTV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92459
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : WAPA AMERICA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66610
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : WARNER
-http://mains.vip:2086/craigg/1Lurn7m3F1/92458
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : WE TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66611
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : WIN SPORTS
-http://mains.vip:2086/craigg/1Lurn7m3F1/98797
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ZOOMOO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66612
-
-
+#EXTM3U
+#EXTINF:-1,Bein sport
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/71_.m3u8
+#EXTINF:-1,cdf
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/20_.m3u8
+#EXTINF:-1,Directv Sport
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/41_.m3u8
+#EXTINF:-1,Directv Sport2
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/42_.m3u8
+#EXTINF:-1,Espn
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/73_.m3u8
+#EXTINF:-1,Espn 3
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/72_.m3u8
+#EXTINF:-1,Espn+
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/48_.m3u8
+#EXTINF:-1,Euro sport 1
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/8_.m3u8
+#EXTINF:-1,Euro sport 2
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/9_.m3u8
+#EXTINF:-1,Fox sport
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/74_.m3u8
+#EXTINF:-1,Fox sport 2
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/47_.m3u8
+#EXTINF:-1,Fox sport 3
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/46_.m3u8
+#EXTINF:-1,Gol tv
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/2_.m3u8
+#EXTINF:-1,Golf
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/10_.m3u8
+#EXTINF:-1,Movistar
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/5_.m3u8
+#EXTINF:-1,sky
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/11_.m3u8
+#EXTINF:-1,TNT Sports
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/50_.m3u8
+#EXTINF:-1,WIN SPORTS
+https://speedmindec.tecltda.club/speedmind45612378956454646464646464646464/44_.m3u8
+#EXTINF:-1,WIN SPORTS+
+https://speedmindecV2.tecltda.club/speedmind456123789V2128464646464647987774/1_.m3u8
 
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://blogdoguinhocesar.files.wordpress.com/2015/09/canal-space.png" group-title="CINE PREMIUM",SPACE
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png" group-title="CINE PREMIUM",FOX LIFE
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX CHANEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png" group-title="CINE PREMIUM",FOX CHANEL
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="CINE PREMIUM",STUDIO UNIVERSAL
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/16.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="CINE PREMIUM",TNT
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/17.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="CINE PREMIUM",TNT SERIES 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/18.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="CINE PREMIUM",A&E
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/19.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="CINE PREMIUM",FX
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/20.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FMX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="CINE PREMIUM",FMX
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/21.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-5.png" group-title="CINE PREMIUM",AMC
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/22.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CINE PREMIUM",AXN
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/23.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/245px-Paramount.png" group-title="CINE PREMIUM",PARAMOUNT CHANNEL
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cartoon_Network_1992_logo.svg/800px-Cartoon_Network_1992_logo.svg.png" group-title="INFANTIL",CARTON NETWORK
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/41.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="INFANTIL",BOOMERANG
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/42.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="INFANTIL",NAT GEO KIDS
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/43.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK TOONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/1280px-Nicktoons_Network_logo_2009.svg.png" group-title="INFANTIL",NICK TOONS
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/44.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" group-title="INFANTIL",NICK 2
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/45.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://w0.pngwave.com/png/982/982/logo-nickelodeon-arabia-television-bumper-nicktoons-splat-uk-png-clip-art.png" group-title="INFANTIL",NICKELODEON
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/46.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo-1.png" group-title="INFANTIL",NICK JR
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/47.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="INFANTIL",TOONCAST
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/48.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png" group-title="CINE PREMIUM",UNIVERSAL CHANNEL
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/49.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/1200px-Sony_Channel_logo.svg.png" group-title="CINE PREMIUM",SONY CHANNEL
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/50.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE PREMIUM",CINECANAL
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/52.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/640px-2014_Disney_Channel_logo.svg.png" group-title="INFANTIL",DISNEY CHANEL
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/53.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINE PREMIUM",DE PELICULA
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/54.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/847px-Logo_Golden_TV.svg.png" group-title="CINE PREMIUM",GOLDEN
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/55.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="https://www.pngfind.com/pngs/m/690-6907141_transparent-escuchar-musica-clipart-disney-junior-logo-png.png" group-title="INFANTIL",DISNEY JUNIOR
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/56.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CINE PREMIUM",CINEMAX
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/57.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/disney-xd-logo-png-transparent.png" group-title="INFANTIL",DISNEY XD
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/58.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRU TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="CINE PREMIUM",TRU TV
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/59.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTIL",DISCOVERY KIDS
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/60.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="CINE PREMIUM",HBO
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/61.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="ENTRETENIMIENTO",DISCOVERY H&H
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/68.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="CULTURAL",DISCOVERY TURBO
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/69.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="CULTURAL",INVESTIGATION DISCOVERY
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/71.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="CULTURAL",HISTORY
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/74.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="CULTURAL",ANIMAL PLANET
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/75.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="ENTRETENIMIENTO",TLC
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/78.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1280px-MTV_Logo_2010.svg.png" group-title="ENTRETENIMIENTO",MTV
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/79.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/80.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: BIG ASS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: BIG ASS
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/81.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: BIG DICK " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: BIG DICK 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/82.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: CUCKLOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: CUCKLOD
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/83.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: FETISH " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: FETISH 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/84.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: INTERRACIAL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: INTERRACIAL 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/85.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: LATINA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: LATINA 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/86.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: LESBIAN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: LESBIAN 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/87.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: MILF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: MILF
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/88.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: POV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: POV 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/89.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: PORNSTAR " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: PORNSTAR 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/90.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: RUSSIAN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: RUSSIAN 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/91.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: TEEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: TEEN
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/92.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: THREESOME " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: THREESOME 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/93.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: TUSHI RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: TUSHI RAW
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/94.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: VIXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: VIXEN
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/95.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: MOFOS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: MOFOS 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/96.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: MILF 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: MILF 2
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/97.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS MIAKHALIFA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS MIAKHALIFA
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/98.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: HUSTLERS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: HUSTLERS 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/99.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: JASMIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: JASMIN
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/100.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS: BRAZZERS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",ADULTOS: BRAZZERS
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEXMEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",SEXMEX
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/RCN_Novelas.png/120px-RCN_Novelas.png" group-title="COLOMBIA ",RCN NOVELAS 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BIGTITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/800px-Pornproject_logo.svg.png" group-title="ADULTOS",BIGTITS
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="X-MEN" tvg-logo="https://i.redd.it/w3v6xn3c74c31.png" group-title="CANALES 24/7",X-MEN
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://seeklogo.com/images/C/caracol-television-2017-logo-E3E35240F8-seeklogo.com.png" group-title="COLOMBIA ",CARACOL
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SUPER CAMPEONES" tvg-logo="https://cdn-cms.bnea.io/sites/default/files/games/logo/197476118373750.png" group-title="CANALES 24/7",SUPER CAMPEONES
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK" tvg-logo="https://www.tdogmedia.com/wp-content/uploads/2015/07/South-Park.png" group-title="CANALES 24/7",SOUTH PARK
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Smallville_2001_logo.svg/1200px-Smallville_2001_logo.svg.png" group-title="CANALES 24/7",SMALLVILLE
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAILOR MOON" tvg-logo="https://toppng.com/uploads/preview/very-first-anime-you-watched-sailor-moon-logo-vector-11563248372st7ly1w4cr.png" group-title="CANALES 24/7",SAILOR MOON
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POKEMON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1024px-International_Pok%C3%A9mon_logo.svg.png" group-title="CANALES 24/7",POKEMON
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL " tvg-logo="https://miradasdoc.com/mdoc2019/wp-content/uploads/2016/10/discovery-channel-logo-1024x219.png" group-title="CULTURAL",DISCOVERY CHANNEL 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DICOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1024px-Discovery_Science_2017_Logo.svg.png" group-title="CULTURAL",DICOVERY SCIENCE
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATHER " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURAL",DISCOVERY THEATHER 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/114.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO " tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png" group-title="CULTURAL",NAT GEO 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/115.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5610_7_133975.png" group-title="MUSICALES",BANDAMAX
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="CULTURAL",HISTORY CHANNEL
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN " tvg-logo="https://www.pngkit.com/png/full/987-9872747_cnn-international-logo-png-cnn-logo.png" group-title="CULTURAL",CNN 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PINKY Y CEREBRO" tvg-logo="https://www.cool90s.com/images/Pinky%20and%20the%20Brain.png" group-title="CANALES 24/7",PINKY Y CEREBRO
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/120.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA CINEMA " tvg-logo="https://static.wixstatic.com/media/0cd32b_91fe205f4689457c92bd222cb787e186~mv2.png" group-title="MÉXICO",AZTECA CINEMA 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA PANTERA ROSA" tvg-logo="https://www.leverescaperoom.com/wp-content/uploads/Pinkpanther-logo.svg_.png" group-title="CANALES 24/7",LA PANTERA ROSA
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEFORMULA" tvg-logo="https://i.imgur.com/TB2dJz7.png" group-title="MÉXICO",TELEFORMULA
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NARUTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1024px-Naruto_logo.svg.png" group-title="CANALES 24/7",NARUTO
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/124.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Azteca_Trece_2016-3.png" group-title="MÉXICO",AZTECA UNO
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-logo="https://cdn131.picsart.com/278369787022211.png" group-title="MÉXICO",ADN 40
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/126.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1200px-LogoNTyLR.svg.png" group-title="COLOMBIA ",RCN
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MALCOLM" tvg-logo="https://2.bp.blogspot.com/-q1-No2xCa98/VnivktNNkBI/AAAAAAAAAS0/2mu3jh93u9o/s1600-r/80C.png" group-title="CANALES 24/7",MALCOLM
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="MUSICALES",MTV HITS
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/129.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FUTURAMA" tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG26.png" group-title="CANALES 24/7",FUTURAMA
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/130.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="E ENTERTAIMENT " tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" group-title="ENTRETENIMIENTO",E ENTERTAIMENT 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEHIT" tvg-logo="https://forounivers.com/uploads/monthly_2018_06/large.Logo_telehit.png.cdf9dcc20a1e4c0a05bd9f4e29383079.png" group-title="MUSICALES",TELEHIT
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EL CHAPULIN COLORADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="CANALES 24/7",EL CHAPULIN COLORADO
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/134.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="MUSICALES",VH1
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1280px-Canal_DHE_logo.svg.png" group-title="ENTRETENIMIENTO",DHE
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO" tvg-logo="https://www.vhv.rs/dpng/d/534-5340278_chavo-del-8-png-chavo-del-8-logo.png" group-title="CANALES 24/7",EL CHAVO
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA KALLE" tvg-logo="https://lakalle.bluradio.com/assets/img/logoheader.png" group-title="MUSICALES",LA KALLE
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO COMPANY" tvg-logo="http://www.areacompanyonline.com/logo.png" group-title="MUSICALES",RADIO COMPANY
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSICTOP" tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/07d10-musictop.png" group-title="MUSICALES",MUSICTOP
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX CLASSICS" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023531111/FOX_Classics_HD.png" group-title="CINE PREMIUM",FOX CLASSICS
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/141.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL GT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="CANALES 24/7",DRAGON BALL GT
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/142.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png" group-title="CANALES 24/7",DRAGON BALL Z
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/143.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png" group-title="CINE PREMIUM",FOX COMEDY
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/144.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="CANALES 24/7",DRAGON BALL
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DINOSAURIOS" tvg-logo="https://miro.medium.com/max/690/1*5FDqv_Jqlk___XP0eFZptQ.png" group-title="CANALES 24/7",DINOSAURIOS
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/146.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="CANALES 24/7",DRAGON BALL SUPER
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CUENTOS DE LOS HERMANOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Grimm_Logo.png" group-title="CANALES 24/7",CUENTOS DE LOS HERMANOS
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/148.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CORRE CAMINOS" tvg-logo="https://media0.webgarden.es/images/media0:59bb9b2014bc0.png/coyoteycorrecaminos-1.png" group-title="CANALES 24/7",CORRE CAMINOS
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/149.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CORAJE EL PERRO COBARDE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Courage_the_Cowardly_Dog_logo.svg/1200px-Courage_the_Cowardly_Dog_logo.svg.png" group-title="CANALES 24/7",CORAJE EL PERRO COBARDE
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPOJA" tvg-logo="https://www.mipeluchito.com/wp-content/uploads/logo-bob-esponja-300x200.png" group-title="CANALES 24/7",BOB ESPOJA
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CABALLEROS DEL ZODIACO" tvg-logo="https://seeklogo.com/images/C/cavaleiros-do-zodiaco-logo-7BEBD54081-seeklogo.com.png" group-title="CANALES 24/7",CABALLEROS DEL ZODIACO
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PEPA" tvg-logo="https://es.peppapig.com/wp-content/uploads/sites/6/2019/03/cropped-peppa_logo.png" group-title="CANALES 24/7",PEPA
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Todo incluido (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igXVSRZsNX3TZsKrQqSyEJvzHRF.jpg" group-title="COMEDIA",Todo incluido (2009)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/189.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Enredados (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFUreK1CxkUwk4y6W2Qoo88l0UF.jpg" group-title="INFANTILES",Enredados (2010)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagro en la celda 7 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scxBIHaT1ZiPDPJu3vKd9Yn5gBA.jpg" group-title="DRAMA",Milagro en la celda 7 (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hermano oso (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUAsEgeeJjZk01kmQazbJmYhORx.jpg" group-title="INFANTILES",Hermano oso (2003)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/193.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hermano oso 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8aCmglbG3MmXLUA2bmdqO9NjxL.jpg" group-title="INFANTILES",Hermano oso 2 (2006)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Despierto (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHYIu9LdmGE9wvbvsRv4uL5GTU6.jpg" group-title="DRAMA",Despierto (2007)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cut Off (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29qTWwuiH84Ycsh4r1GuDDWt8Wt.jpg" group-title="SUSPENSO",Cut Off (2018)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Into the Arms of Danger (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/U1yqjQnFO3Lk8n5dUrzCAonDBs.jpg" group-title="SUSPENSO",Into the Arms of Danger (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Day Will Come (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lflUtjYKjufnnrQbhQx9lSv2IHQ.jpg" group-title="DRAMA",The Day Will Come (2016)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Redirected (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmS0nA7EFQwwHYOeIfukgTnFz39.jpg" group-title="ACCION",Redirected (2014)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El secreto de Adaline (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8r8UFAmb5qAfz4W7wEXCJoCEBr.jpg" group-title="DRAMA",El secreto de Adaline (2015)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Veinteañera, divorciada y fantástica (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpC0bIYYfAY0wLa8sjlzIspMQr4.jpg" group-title="COMEDIA",Veinteañera, divorciada y fantástica (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Patients of a Saint (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uSR3687xtyS207S8nYp1voT9mR.jpg" group-title="SUSPENSO",Patients of a Saint (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ejecutivos agresivos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwrPvCGIDX5JWmxVNtLF67SeaXG.jpg" group-title="COMEDIA",Ejecutivos agresivos (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Veneno en la piel (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLjDOHZ56VBYLg5m3ohx4hMcTtO.jpg" group-title="PELICULAS RETRO",Veneno en la piel (1993)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Think like a dog (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/us6f635Lq7k9oIBAosl1hx87jgr.jpg" group-title="INFANTILES",Think like a dog (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Vast of Night (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suORidtGKPO6tWwNqiwGvNo85z3.jpg" group-title="SUSPENSO",The Vast of Night (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mentes peligrosas (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWHWC8fJRp2kLgiFrEa8o3krOH9.jpg" group-title="PELICULAS RETRO",Mentes peligrosas (1995)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Dama y el Vagabundo (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FSvYd6SZBYcqPqn010XXbaXy2j.jpg" group-title="INFANTILES",La Dama y el Vagabundo (1955)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los tortolitos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxmKUiQef4E2K11kEnocQVpnEOF.jpg" group-title="COMEDIA",Los tortolitos (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sobrevive esta noche (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAzG8J0M5qNF8EQhzYqNZaJUqcs.jpg" group-title="ACCION",Sobrevive esta noche (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/211.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La vida es bella (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfRQ4X9z5eOXD1NbYR0JqlOlidJ.jpg" group-title="PELICULAS RETRO",La vida es bella (1997)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/212.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La isla de las mentiras (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UQcLwX1i9teXkuSBfX6E3TAWYF.jpg" group-title="ESTRENOS",La isla de las mentiras (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/213.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hannah Montana: La Película (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xywrlinKKOhdEHeaOkLNE38Vetw.jpg" group-title="ESTRENOS INFANTIL",Hannah Montana: La Película (2009)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dark City (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZiUwgdXMUMY8vEpMylOahUIDzL.jpg" group-title="PELICULAS RETRO",Dark City (1998)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rompiendo las reglas 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQkYieCKVzRglLvJADSEHMm12Fm.jpg" group-title="ACCION",Rompiendo las reglas 2 (2011)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La ruta hacia El Dorado (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9v66AdqXSmphnKPEcHqlKqxhA8.jpg" group-title="INFANTILES",La ruta hacia El Dorado (2000)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lecciones inolvidables (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xy5tWhdcy2cba5w8bQfCJsYdmpQ.jpg" group-title="PELICULAS RETRO",Lecciones inolvidables (1988)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/218.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" Scooby-Doo alcon man " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tL7lmAIA6jOf43XNDIdgKGKUfaI.jpg" group-title="ESTRENOS INFANTIL", Scooby-Doo alcon man 
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Niño rico (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGou0H0Xe3VoRisKgcMbka57CGu.jpg" group-title="INFANTILES",Niño rico (1994)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="StarDog and TurboCat (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM0Ksnnuc7NtRibMUhXGmAYAMrx.jpg" group-title="INFANTILES",StarDog and TurboCat (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spycies (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvv313GJcCYbPbRDqKt2Vi3BDzt.jpg" group-title="INFANTILES",Spycies (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rencor Tatuado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFFRB1Jt8Sr7EOAj6ML3HN1vWIN.jpg" group-title="DRAMA",Rencor Tatuado (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La llamada de lo salvaje (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jngNKSF4NlRB7LnOgnq1tnvKfu.jpg" group-title="DRAMA",La llamada de lo salvaje (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Insidious: La última llave (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtLB9IRTC9GwbktR3EBFu2Pux8z.jpg" group-title="TERROR",Insidious: La última llave (2018)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El leñador (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fDgLcc35A0IpxhMyJMP33bSDXj.jpg" group-title="PELICULAS RETRO",El leñador (2004)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Conquista a medias (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gReRqOnhWEKOrRj6dW7wE1qfbzd.jpg" group-title="ROMANCE",Conquista a medias (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lego DC: ¡Shazam!: Magia y monstruos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6jSpfFY9jclbl9pE0vf00XHXrh.jpg" group-title="INFANTILES",Lego DC: ¡Shazam!: Magia y monstruos (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia Oscura - Guerra Apokolips (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg" group-title="INFANTILES",Liga de la Justicia Oscura - Guerra Apokolips (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dino King 3D: Journey to Fire Mountain (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHqgeCXnPOcVpaU56AZZwJNHZt4.jpg" group-title="INFANTILES",Dino King 3D: Journey to Fire Mountain (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Take Shelter (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLZQv7cN8ckBEa7HvjYkm2wx7F9.jpg" group-title="DRAMA",Take Shelter (2011)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Promesa sangrienta (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6p1ngaeYCDW25sBaSmb1HKoQEHq.jpg" group-title="COMEDIA",Promesa sangrienta (2009)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Judy y Punch (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/907CTQB72oca77tbWhDhg22yTsX.jpg" group-title="DRAMA",Judy y Punch (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ciudadano X (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZq3c8rJEfctZof4VY6JCrvRost.jpg" group-title="PELICULAS RETRO",Ciudadano X (1995)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Paranormal Activity: Dimensión fantasma (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vtmCckiI4fsYZkjmHJc1CZmVqH.jpg" group-title="TERROR",Paranormal Activity: Dimensión fantasma (2015)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gretel y Hansel: Un oscuro cuento de hadas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LB4oRyWWwv08C2xxmbx1wTj7CU.jpg" group-title="TERROR",Gretel y Hansel: Un oscuro cuento de hadas (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tyler Rake (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJsIn1YJw4fVnxD19vP43MJWYW5.jpg" group-title="ACCION",Tyler Rake (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Enemigo público (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHLraZnPPAchPFQqbdZcNcNudKz.jpg" group-title="ACCION",Enemigo público (1998)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/239.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los hermanos Willoughby (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TRsvYMjJFHKi43g9MSPYU3Epzu.jpg" group-title="INFANTILES",Los hermanos Willoughby (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sergio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tABtj9BwYVDCM69h7AK38MDgw64.jpg" group-title="DRAMA",Sergio (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/241.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Tierra y la Sangre (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBUTDhbocUuMgPCQxNaA90IpKRS.jpg" group-title="ACCION",La Tierra y la Sangre (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Proxima (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1cQbAGv4tBSLXctjOLNOwKdfUo.jpg" group-title="DRAMA",Proxima (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cuestión de justicia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vz4biYDRFWlWn7aAdOzpQzmVkA.jpg" group-title="ACCION",Cuestión de justicia (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/245.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" madre problemática " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh7Lr066W3wC7ksYnJDgN5Hhc6S.jpg" group-title="SUSPENSO", madre problemática 
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="el despertar del diablo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh7Lr066W3wC7ksYnJDgN5Hhc6S.jpg" group-title="TERROR",el despertar del diablo
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El día de la boda (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XWauGcWfx3o2KJW7saIg8SAC6z.jpg" group-title="ROMANCE",El día de la boda (2005)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El imperio del fuego (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKevdQnQxn6Z9qHVSiCxhMdmO9J.jpg" group-title="ACCION",El imperio del fuego (2002)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mi primer gran combate (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWTh9XfbDSOZiafEbtaCfyp75s4.jpg" group-title="INFANTILES",Mi primer gran combate (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Crossroads of Hunter Wilde (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykwUc1b7bkKcpxT7MTxrv5s4JOv.jpg" group-title="ACCION",The Crossroads of Hunter Wilde (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Junglee (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Jwof1qQ6U99TZFkBCngBdfW8J2.jpg" group-title="DRAMA",Junglee (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Trolls 2 Gira mundial (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkiYPIuh314llJOHJokvjCPztRb.jpg" group-title="INFANTILES",Trolls 2 Gira mundial (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/253.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sonic: La película (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYbANSoj6qGTbDkstq9J5Vy8fRF.jpg" group-title="ESTRENOS INFANTIL",Sonic: La película (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/254.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La liga de los 5 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oG8ZMvXbR595Y21YCeUwbcori73.jpg" group-title="INFANTILES",La liga de los 5 (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/255.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alicia en el País de las Maravillas (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOJKtTdToc8FcjmmbavkjUxv2Ue.jpg" group-title="INFANTILES",Alicia en el País de las Maravillas (1951)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/256.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ciudad del silencio (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zr1lpFnYw7z2YEASVWleouGpKY.jpg" group-title="DRAMA",Ciudad del silencio (2007)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/257.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La morada del miedo (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Io6R7kDqO8nkj7VE0DSbbVNWuK.jpg" group-title="TERROR",La morada del miedo (2005)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/258.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El hombre invisible (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xk4RpcvVQ7JmnrkQtZ479EwWieT.jpg" group-title="TERROR",El hombre invisible (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/259.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXYARspjKpwN9vAOp2F9MF3NWa1.jpg" group-title="ESTRENOS",Bad Boys for Life (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/260.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bloodshot (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdwpe2rk2xJ0MwO64ouVTNOyTzD.jpg" group-title="ESTRENOS",Bloodshot (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aves de Presa (y la Fantabulosa Emancipación de Harley Quinn) (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dicP4RZkcgJi9udelg6QuYxf4K7.jpg" group-title="ACCION",Aves de Presa (y la Fantabulosa Emancipación de Harley Quinn) (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Stargirl (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKt6sDEGVGbQWkaBuVZxJcLmQXj.jpg" group-title="INFANTILES",Stargirl (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="All Cars Go To Heaven - Volume 2: Better Than A Horse (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6eTFck3BufqgomtO4lfBqnfSa2.jpg" group-title="INFANTILES",All Cars Go To Heaven - Volume 2: Better Than A Horse (2015)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La marca del demonio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RcauukLfwBtB7bAKzFhxAnlSKb.jpg" group-title="TERROR",La marca del demonio (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/267.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guilty (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9Yx7tnb1d5vwrMH7Rxki1e4zp4.jpg" group-title="DRAMA",Guilty (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/268.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pokémon: Mewtwo contraataca - Evolución (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioh4pSEaXWof5P9tLbkUivYpVlK.jpg" group-title="INFANTILES",Pokémon: Mewtwo contraataca - Evolución (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/269.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El escándalo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/560YqKXG0eyRGXh2rI3ve9uovb9.jpg" group-title="DRAMA",El escándalo (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/270.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DeSastre & Total. Agencia de detectives nº 1 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bN7aRB5wrxKklCZZKSJKeb6LCFo.jpg" group-title="INFANTILES",DeSastre & Total. Agencia de detectives nº 1 (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/271.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Horse Girl (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNQ7st9dFXUXENMcsAuVxcrIBfA.jpg" group-title="COMEDIA",Horse Girl (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/272.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jojo Rabbit (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5S9XtXSfSZg0G6ulZHQuzSF6DH.jpg" group-title="INFANTILES",Jojo Rabbit (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/273.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Manhattan sin salida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvd6UqDqoYv0gMSqzFyiZkC8eny.jpg" group-title="ACCION",Manhattan sin salida (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/274.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Modo avión (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDZBhyl83F07syVhQ0q21NBZSCC.jpg" group-title="COMEDIA",Modo avión (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/275.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Troop Zero (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEMkHQyfCXuZLP69UqAImW5Rbot.jpg" group-title="INFANTILES",Troop Zero (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/276.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A traición (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h47JJZ015VF4neia33AFwTU37Yb.jpg" group-title="DRAMA",A traición (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/277.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jugando con fuego (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMNiuu6Qcx7YdCRIdmia164AmV1.jpg" group-title="COMEDIA",Jugando con fuego (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/278.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La boda de la abuela (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eA0QVLSymgfTgqAtB6AdWAU5t6Q.jpg" group-title="COMEDIA",La boda de la abuela (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/279.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Placa de Acero (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/deiJ0Z1Jzu0octbBp07y8Ku7cSx.jpg" group-title="COMEDIA",Placa de Acero (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/280.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historia de un matrimonio (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opePIU8Qt1jayldYY3GzuxqSy2J.jpg" group-title="DRAMA",Historia de un matrimonio (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/281.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Terminator: Destino oscuro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7PuHoj2oE7nEHExwliF2FSXFnr.jpg" group-title="ACCION",Terminator: Destino oscuro (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/282.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maléfica: Dueña del Mal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZOkXqHXWCKytd78TggAtJ0M3gU.jpg" group-title="INFANTILES",Maléfica: Dueña del Mal (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/283.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Historias de fantasmas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuTwPYFoEGQG3EntpdZA8LlBBdx.jpg" group-title="TERROR",Historias de fantasmas (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/284.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Downton Abbey (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSZ3S6mCN4gsTQoJztBdHEbDSuD.jpg" group-title="DRAMA",Downton Abbey (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/285.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Elliot the Littlest Reindeer (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYq809WTep01HO5oJR9o9VbEDJv.jpg" group-title="INFANTILES",Elliot the Littlest Reindeer (2018)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/286.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La familia Addams (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/307Y96L1iJ6gujCfuGPWNTqgbBd.jpg" group-title="INFANTILES",La familia Addams (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/287.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Como caído del cielo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xg6QZdlHrq2dtSK8cfnQQMnmpeY.jpg" group-title="COMEDIA",Como caído del cielo (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/288.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Joker (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0eQLbzT6sWelfApuYsEkYpzufl.jpg" group-title="DRAMA",Joker (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/289.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Un príncipe de Navidad: Bebé real (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBI8CcMVaiTSS28n34uAx7ZVit2.jpg" group-title="COMEDIA",Un príncipe de Navidad: Bebé real (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/290.mp4
-#EXTINF:-1 tvg-id="" tvg-name="6 en la sombra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49z88ri8gToqfVodW3GYQJCDmPx.jpg" group-title="ACCION",6 en la sombra (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/291.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los Picapiedra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3NM5Lk7iIUI03ImIbH7Ihn8J7w.jpg" group-title="COMEDIA",Los Picapiedra (1994)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/3/34/Telemundo_Internacional_2012.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/294.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIMPSONS TEMP 1- 5" tvg-logo="https://pngriver.com/wp-content/uploads/2018/03/Download-The-Simpsons-PNG-Photos-396.png" group-title="CANALES 24/7",SIMPSONS TEMP 1- 5
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIMPSONS TEMP 6-11" tvg-logo="https://pngriver.com/wp-content/uploads/2018/03/Download-The-Simpsons-PNG-Photos-396.png" group-title="CANALES 24/7",SIMPSONS TEMP 6-11
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/305.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIMPSONS 12-17" tvg-logo="https://pngriver.com/wp-content/uploads/2018/03/Download-The-Simpsons-PNG-Photos-396.png" group-title="CANALES 24/7",SIMPSONS 12-17
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/308.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIMPSONS TEMP 18-21" tvg-logo="https://pngriver.com/wp-content/uploads/2018/03/Download-The-Simpsons-PNG-Photos-396.png" group-title="CANALES 24/7",SIMPSONS TEMP 18-21
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIMPSONS TEMP 22-26" tvg-logo="https://pngriver.com/wp-content/uploads/2018/03/Download-The-Simpsons-PNG-Photos-396.png" group-title="CANALES 24/7",SIMPSONS TEMP 22-26
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/310.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MÉXICO",LAS ESTRELLAS 
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/336.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="MÉXICO",TELENOVELAS
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/337.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Televisa_logo.svg/1264px-Televisa_logo.svg.png" group-title="MÉXICO",TELEVISA
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELERITMO" tvg-logo="https://image.multimedios.com/sites/default/files/video_embed_field_thumbnails/mediastream/57b4dc126338448314449d0c.png" group-title="MUSICALES",TELERITMO
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/341.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mulán (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd7ElSRYhN2CFqMcyH8rqrwLbd6.jpg" group-title="ESTRENOS INFANTIL",Mulán (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/348.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Natasha White xxx" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd7ElSRYhN2CFqMcyH8rqrwLbd6.jpg" group-title="ADULTOS",Natasha White xxx
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/349.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Harmony xxx" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd7ElSRYhN2CFqMcyH8rqrwLbd6.jpg" group-title="ADULTOS",Harmony xxx
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/352.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS TEM 27-30" tvg-logo="https://pngriver.com/wp-content/uploads/2018/03/Download-The-Simpsons-PNG-Photos-396.png" group-title="CANALES 24/7",LOS SIMPSONS TEM 27-30
-http://experiencetv.zapto.org:25468/live/expertconxxx1/expertvcon1/353.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CJ7 (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AShAnuRCjCvSAXQWtcWUJviz37.jpg" group-title="INFANTILES",CJ7 (2008)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/354.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sex Love & Theater (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AShAnuRCjCvSAXQWtcWUJviz37.jpg" group-title="ADULTOS",Sex Love & Theater (2005)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/355.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La vieja guardia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzYP4eiDmBoVztMUmWtKqMZcUGN.jpg" group-title="ESTRENOS",La vieja guardia (2020)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/356.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ad astra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK6Oq4JywUNXmJ299efUkv1h6Mn.jpg" group-title="ACCION",Ad astra (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/357.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alita: Ángel de combate (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quWP5VIzTUf0Hr8AJZLloM6js8I.jpg" group-title="ACCION",Alita: Ángel de combate (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/358.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Objetivo: Washington D.C. (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zC8HSq4xWsPgPDjgmlFix4VMtaD.jpg" group-title="ACCION",Objetivo: Washington D.C. (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/359.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anna (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLBq1ANzAHgVfQSK6urU0HaTGPS.jpg" group-title="ACCION",Anna (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/360.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avengement (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOLx1pYvZSXZSo4B22x7wgefw4G.jpg" group-title="ESTRENOS",Avengement (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/361.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Baby Driver (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FFkWMuLntzxqdpLT12avTxRpPE.jpg" group-title="ACCION",Baby Driver (2017)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/362.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Black and Blue (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkConpJqAQ15Z7hbfNgUoowEnTB.jpg" group-title="ACCION",Black and Blue (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/363.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bumblebee (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOW8vBMJqWHWcMxHbigVAytqiBn.jpg" group-title="ACCION",Bumblebee (2018)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/364.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Capitana Marvel (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3p5JuwN7dG0TvrN5h4ZY4tMOEX.jpg" group-title="ACCION",Capitana Marvel (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/365.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cold Blood Legacy (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a17PQiWS1kzILONsmhdyPDhaOZL.jpg" group-title="ACCION",Cold Blood Legacy (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/366.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cómo entrenar a tu dragón (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUF9bN3pT99IgdRMSInG0YSqPCN.jpg" group-title="INFANTILES",Cómo entrenar a tu dragón (2010)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/367.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deep Blue Sea (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNa8pcnF1oQUav6h3Sh6jEClmD0.jpg" group-title="ESTRENOS",Deep Blue Sea (1999)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/368.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deep Blue Sea 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqjAHXMJLORx9vVsCTJ6ZPJcr3D.jpg" group-title="ACCION",Deep Blue Sea 2 (2018)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/369.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Divergente (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZDt8XCZtiEYo9kG09fkXRTKDVv.jpg" group-title="ACCION",Divergente (2014)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/370.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doom: aniquilación (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g78vTiPcIGgpLHG7gktEg0rqF0D.jpg" group-title="ACCION",Doom: aniquilación (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/371.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Escuadrón del Diablo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvs2ZLlqzF0wyzC8pZBDCSfrDBV.jpg" group-title="ACCION",El Escuadrón del Diablo (2018)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/372.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Rey León (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yysmQpv26DdP79XtR3zsL3nVFbN.jpg" group-title="INFANTILES",El Rey León (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/373.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Le Mans '66 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFkZFPBU7vnDDu4m9eOgk7w9W7O.jpg" group-title="ACCION",Le Mans '66 (2019)
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/375.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nice And Tight" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFkZFPBU7vnDDu4m9eOgk7w9W7O.jpg" group-title="ADULTOS",Nice And Tight
-http://experiencetv.zapto.org:25468/movie/expertconxxx1/expertvcon1/377.mp4
-
-
-
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : A&E
-http://mains.vip:2086/craigg/1Lurn7m3F1/98773
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ADN 40
-http://mains.vip:2086/craigg/1Lurn7m3F1/92629
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AMC
-http://mains.vip:2086/craigg/1Lurn7m3F1/98772
-
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO
-http://mains.vip:2086/craigg/1Lurn7m3F1/67176
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/67177
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO FAMILY
-http://mains.vip:2086/craigg/1Lurn7m3F1/67178
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO PLUS
-http://mains.vip:2086/craigg/1Lurn7m3F1/67179
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HBO SIGNATURE
-http://mains.vip:2086/craigg/1Lurn7m3F1/67180
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : HOLA TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/67193
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : MEGA
-http://mains.vip:2086/craigg/1Lurn7m3F1/67186
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : NAT GEO
-http://mains.vip:2086/craigg/1Lurn7m3F1/67187
-
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : STUDIO UNIVERSAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/67208
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : TNT
-http://mains.vip:2086/craigg/1Lurn7m3F1/67203
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : TV CHILE
-http://mains.vip:2086/craigg/1Lurn7m3F1/67199
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : TYC SPORTS
-http://mains.vip:2086/craigg/1Lurn7m3F1/67173
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : WARNER CHANNEL
-http://mains.vip:2086/craigg/1Lurn7m3F1/67210
-
-
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AMERICA TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92628
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ANIMAL PLANET
-http://mains.vip:2086/craigg/1Lurn7m3F1/98774
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ANTENA 3
-http://mains.vip:2086/craigg/1Lurn7m3F1/66548
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ASPIRE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66549
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AXN
-http://mains.vip:2086/craigg/1Lurn7m3F1/92627
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AYM SPORTS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92626
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AZ CORAZON
-http://mains.vip:2086/craigg/1Lurn7m3F1/92625
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AZTECA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66551
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : AZTECA UNO
-http://mains.vip:2086/craigg/1Lurn7m3F1/92623
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : BABY TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92622
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : BANDAMAX
-http://mains.vip:2086/craigg/1Lurn7m3F1/66552
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : BLOOMBERG
-http://mains.vip:2086/craigg/1Lurn7m3F1/92620
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : BOOMERANG
-http://mains.vip:2086/craigg/1Lurn7m3F1/92619
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CANAL 22 INTERNACIONAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/66554
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CANAL ANTIGUA
-http://mains.vip:2086/craigg/1Lurn7m3F1/92618
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CANAL DE LAS ESTRELLAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92617
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CARACOL TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66556
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CARTOON NETWORK
-http://mains.vip:2086/craigg/1Lurn7m3F1/98775
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CENTRO AMERICA TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66557
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CGTN
-http://mains.vip:2086/craigg/1Lurn7m3F1/92614
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINE ESTELAR
-http://mains.vip:2086/craigg/1Lurn7m3F1/66558
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINE MEXICANO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66559
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINE NOSTALGIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66560
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINE SONY
-http://mains.vip:2086/craigg/1Lurn7m3F1/66561
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CINEMAX
-http://mains.vip:2086/craigg/1Lurn7m3F1/92613
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CNN EN ESPANOL
-http://mains.vip:2086/craigg/1Lurn7m3F1/66553
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : CNN INTERNACIONAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92611
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : COMEDY CENTRAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/98776
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DE PELICULA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66563
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DE PELICULA CLASICO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66564
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DESTINATION AMERICA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66565
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DIGITAL QUINCE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92609
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DIRECTTV SPORT
-http://mains.vip:2086/craigg/1Lurn7m3F1/92608
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DIRECTTV SPORT 1
-http://mains.vip:2086/craigg/1Lurn7m3F1/92607
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DIRECTTV SPORT 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/92606
-
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",AR : FOX SPORTS PREMIUM
-http://mains.vip:2086/craigg/1Lurn7m3F1/67126
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",AR : GOL TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/67124
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : COMEDY CENTRAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/67194
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : DISNEY JR
-http://mains.vip:2086/craigg/1Lurn7m3F1/67154
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : FOROTV
-http://mains.vip:2086/craigg/1Lurn7m3F1/67202
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",CL : FOX SPORTS 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/67169
-
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY CHANNEL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92605
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY EN ESPANOL
-http://mains.vip:2086/craigg/1Lurn7m3F1/66567
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY FAMILIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66566
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY HOME & HEALTH
-http://mains.vip:2086/craigg/1Lurn7m3F1/92603
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY ID
-http://mains.vip:2086/craigg/1Lurn7m3F1/98777
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY KIDS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92602
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY SCIENCE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92601
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY THEATER
-http://mains.vip:2086/craigg/1Lurn7m3F1/92600
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY TURBO
-http://mains.vip:2086/craigg/1Lurn7m3F1/92599
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISCOVERY WORLD
-http://mains.vip:2086/craigg/1Lurn7m3F1/66651
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISNEY CHANNEL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92597
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISNEY JUNIOR
-http://mains.vip:2086/craigg/1Lurn7m3F1/92596
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISNEY XD
-http://mains.vip:2086/craigg/1Lurn7m3F1/98778
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : DISTRITO COMEDIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/92595
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : E!
-http://mains.vip:2086/craigg/1Lurn7m3F1/98779
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ECUADOR TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66569
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ECUAVISA INTERNACIONAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/66570
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : EL GOURMET
-http://mains.vip:2086/craigg/1Lurn7m3F1/92594
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ENLACE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66571
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESPN
-http://mains.vip:2086/craigg/1Lurn7m3F1/98780
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESPN 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/98781
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESPN 3
-http://mains.vip:2086/craigg/1Lurn7m3F1/98782
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESPN DEPORTES
-http://mains.vip:2086/craigg/1Lurn7m3F1/66568
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ESTRELLA TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66572
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FM
-http://mains.vip:2086/craigg/1Lurn7m3F1/66573
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOOD NETWORK
-http://mains.vip:2086/craigg/1Lurn7m3F1/98783
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FORO TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66574
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX
-http://mains.vip:2086/craigg/1Lurn7m3F1/98784
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX ACTION
-http://mains.vip:2086/craigg/1Lurn7m3F1/92591
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX CINEMA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66661
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX CLASSICS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92589
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX COMEDY
-http://mains.vip:2086/craigg/1Lurn7m3F1/92588
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX DEPORTES
-http://mains.vip:2086/craigg/1Lurn7m3F1/92587
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX FAMILY
-http://mains.vip:2086/craigg/1Lurn7m3F1/98785
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX MOVIES
-http://mains.vip:2086/craigg/1Lurn7m3F1/92586
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SERIES
-http://mains.vip:2086/craigg/1Lurn7m3F1/92585
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SPORTS 1
-http://mains.vip:2086/craigg/1Lurn7m3F1/92584
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SPORTS 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/92583
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SPORTS 3
-http://mains.vip:2086/craigg/1Lurn7m3F1/92582
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FOX SPORTS PREMIUM
-http://mains.vip:2086/craigg/1Lurn7m3F1/92581
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FX
-http://mains.vip:2086/craigg/1Lurn7m3F1/98786
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : FXM
-http://mains.vip:2086/craigg/1Lurn7m3F1/98787
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GALAVISION
-http://mains.vip:2086/craigg/1Lurn7m3F1/66578
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GARAGE TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92579
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GLITZ
-http://mains.vip:2086/craigg/1Lurn7m3F1/92578
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GOL TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66576
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GOLDEN
-http://mains.vip:2086/craigg/1Lurn7m3F1/66670
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GOLDEN EDGE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92575
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GSN
-http://mains.vip:2086/craigg/1Lurn7m3F1/66577
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : GUATEVISION
-http://mains.vip:2086/craigg/1Lurn7m3F1/92574
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO
-http://mains.vip:2086/craigg/1Lurn7m3F1/92572
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/92571
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO FAMILY
-http://mains.vip:2086/craigg/1Lurn7m3F1/92570
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO LATINO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66579
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO PLUS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92569
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HBO SIGNATURE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66678
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HISTORY
-http://mains.vip:2086/craigg/1Lurn7m3F1/92567
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HISTORY 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/92566
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HISTORY EN ESPANOL
-http://mains.vip:2086/craigg/1Lurn7m3F1/66582
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HITN
-http://mains.vip:2086/craigg/1Lurn7m3F1/66580
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HLN
-http://mains.vip:2086/craigg/1Lurn7m3F1/66581
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : HOLA TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66583
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : LAS ESTRELLAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/66619
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : LIFETIME
-http://mains.vip:2086/craigg/1Lurn7m3F1/92563
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MAS CHIC
-http://mains.vip:2086/craigg/1Lurn7m3F1/92562
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MAX PRIME
-http://mains.vip:2086/craigg/1Lurn7m3F1/92560
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MAX UP
-http://mains.vip:2086/craigg/1Lurn7m3F1/92559
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MILENIO TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92558
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MOVIEMAX
-http://mains.vip:2086/craigg/1Lurn7m3F1/92556
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MOVIEPLEX
-http://mains.vip:2086/craigg/1Lurn7m3F1/92555
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MTV HITS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92554
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : MULTIMEDIOS
-http://mains.vip:2086/craigg/1Lurn7m3F1/66586
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NAT GEO
-http://mains.vip:2086/craigg/1Lurn7m3F1/92553
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NAT GEO MUNDO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66588
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NAT GEO WILD
-http://mains.vip:2086/craigg/1Lurn7m3F1/98788
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NBC UNIVERSO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66685
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NEXT TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92550
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NICK 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/92549
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NICK JR
-http://mains.vip:2086/craigg/1Lurn7m3F1/92548
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NICK TOONS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92547
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NICKELODEON
-http://mains.vip:2086/craigg/1Lurn7m3F1/92546
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NOS PAIS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92545
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NTN24
-http://mains.vip:2086/craigg/1Lurn7m3F1/66587
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : NUESTRA TELE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66589
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : OUTERMAX
-http://mains.vip:2086/craigg/1Lurn7m3F1/92543
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : PARAMOUNT CHANNEL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92542
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : PASIONES
-http://mains.vip:2086/craigg/1Lurn7m3F1/66590
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : PERU MAGICO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66591
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : PROMAR
-http://mains.vip:2086/craigg/1Lurn7m3F1/92540
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : RCN NOVELAS CO
-http://mains.vip:2086/craigg/1Lurn7m3F1/86839
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : RITMOSON
-http://mains.vip:2086/craigg/1Lurn7m3F1/92539
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : RTV 7
-http://mains.vip:2086/craigg/1Lurn7m3F1/92538
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SHOWTIME
-http://mains.vip:2086/craigg/1Lurn7m3F1/92537
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SHOWTIME BEYOND
-http://mains.vip:2086/craigg/1Lurn7m3F1/92536
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SHOWTIME EAST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92535
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SHOWTIME WEST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92534
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SONY CHANNEL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92533
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SPACE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92532
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ
-http://mains.vip:2086/craigg/1Lurn7m3F1/92531
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ COMEDY
-http://mains.vip:2086/craigg/1Lurn7m3F1/92528
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ EAST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92527
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92525
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE ACTION
-http://mains.vip:2086/craigg/1Lurn7m3F1/92524
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE CLASSIC
-http://mains.vip:2086/craigg/1Lurn7m3F1/92522
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE ESPAÑOL
-http://mains.vip:2086/craigg/1Lurn7m3F1/56141
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE FAMILY
-http://mains.vip:2086/craigg/1Lurn7m3F1/92521
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE SUSPENSE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92520
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ ENCORE WESTERN
-http://mains.vip:2086/craigg/1Lurn7m3F1/92519
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STARZ WEST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92516
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : STUDIO UNIVERSAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92515
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SUR PERU
-http://mains.vip:2086/craigg/1Lurn7m3F1/66592
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : SYFY
-http://mains.vip:2086/craigg/1Lurn7m3F1/92514
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TBS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92513
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TCM
-http://mains.vip:2086/craigg/1Lurn7m3F1/92512
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEAMAZONAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92510
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELECENTRO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66597
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEFE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66598
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEMUNDO
-http://mains.vip:2086/craigg/1Lurn7m3F1/92508
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEMUNDO INTERNATIONAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92500
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEMUNDO WEST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92492
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELENOVELAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92491
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELEPACIFICO
-http://mains.vip:2086/craigg/1Lurn7m3F1/92490
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELESISTEMA
-http://mains.vip:2086/craigg/1Lurn7m3F1/92489
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELESUR
-http://mains.vip:2086/craigg/1Lurn7m3F1/92488
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TELETICA 7
-http://mains.vip:2086/craigg/1Lurn7m3F1/92487
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TLC
-http://mains.vip:2086/craigg/1Lurn7m3F1/92486
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TNT
-http://mains.vip:2086/craigg/1Lurn7m3F1/92485
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TNT SERIES
-http://mains.vip:2086/craigg/1Lurn7m3F1/92484
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TOONCAST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92482
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TR3S
-http://mains.vip:2086/craigg/1Lurn7m3F1/66600
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TRU TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92480
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TUDN
-http://mains.vip:2086/craigg/1Lurn7m3F1/66593
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TV CHILE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66594
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TV ONE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66595
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TVE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66596
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TVN
-http://mains.vip:2086/craigg/1Lurn7m3F1/92478
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : TYC SPORTS
-http://mains.vip:2086/craigg/1Lurn7m3F1/66601
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA CINE
-http://mains.vip:2086/craigg/1Lurn7m3F1/98789
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA CLASICO
-http://mains.vip:2086/craigg/1Lurn7m3F1/98790
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA FAMILIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/98791
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA FIESTA
-http://mains.vip:2086/craigg/1Lurn7m3F1/98792
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA FILM
-http://mains.vip:2086/craigg/1Lurn7m3F1/98793
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA MACHO
-http://mains.vip:2086/craigg/1Lurn7m3F1/98794
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA MEX
-http://mains.vip:2086/craigg/1Lurn7m3F1/98795
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ULTRA TAINMENT
-http://mains.vip:2086/craigg/1Lurn7m3F1/98796
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIMAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/66719
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIMAS EAST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92475
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIMAS WEST
-http://mains.vip:2086/craigg/1Lurn7m3F1/66602
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVERSAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/66720
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVERSO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66603
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION
-http://mains.vip:2086/craigg/1Lurn7m3F1/66722
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION (KUVN) DALLAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92468
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION (WLTV) FORT LAUDERDALE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92465
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION DEPORTES
-http://mains.vip:2086/craigg/1Lurn7m3F1/21595
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION EAST
-http://mains.vip:2086/craigg/1Lurn7m3F1/66604
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION TDN
-http://mains.vip:2086/craigg/1Lurn7m3F1/66723
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION TLNOVELAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/66605
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : UNIVISION WEST
-http://mains.vip:2086/craigg/1Lurn7m3F1/82066
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VENEVISION PLUS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92462
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VEPLUS
-http://mains.vip:2086/craigg/1Lurn7m3F1/66606
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VH1
-http://mains.vip:2086/craigg/1Lurn7m3F1/92461
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VH1 CLASSIC
-http://mains.vip:2086/craigg/1Lurn7m3F1/92460
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VIDEOROLA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66607
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VIENDOMOVIES
-http://mains.vip:2086/craigg/1Lurn7m3F1/66608
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VME
-http://mains.vip:2086/craigg/1Lurn7m3F1/66609
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : VTV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92459
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : WAPA AMERICA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66610
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : WARNER
-http://mains.vip:2086/craigg/1Lurn7m3F1/92458
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : WE TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66611
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : WIN SPORTS
-http://mains.vip:2086/craigg/1Lurn7m3F1/98797
-#EXTINF:0 tvg-id="ext" group-title="LATINO TV",LATINO : ZOOMOO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66612
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay vs Chile" tvg-logo="" group-title="DP Y EVENTOS",Uruguay vs Chile
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/2120
+#EXTINF:-1 tvg-id="" tvg-name="Paraguay vs PerÃº" tvg-logo="" group-title="DP Y EVENTOS",Paraguay vs PerÃº
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/2121
+#EXTINF:-1 tvg-id="" tvg-name="Argentina vs Ecuador" tvg-logo="" group-title="DP Y EVENTOS",Argentina vs Ecuador
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/2122
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CAILLOU" tvg-logo="" group-title="24/7",24/7  CAILLOU
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/872
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CORAJE EL PERRO COBARDE" tvg-logo="" group-title="24/7",24/7  CORAJE EL PERRO COBARDE
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/873
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CUENTOS GREEM" tvg-logo="" group-title="24/7",24/7  CUENTOS GREEM
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/874
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS 1991" tvg-logo="" group-title="24/7",24/7  DINOSAURIOS 1991
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/875
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DRAGON BALL 1984" tvg-logo="" group-title="24/7",24/7  DRAGON BALL 1984
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/876
+#EXTINF:-1 tvg-id="" tvg-name="24/7  LOS SIMPSON" tvg-logo="" group-title="24/7",24/7  LOS SIMPSON
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/877
+#EXTINF:-1 tvg-id="" tvg-name="24/7  SOUTH PARK" tvg-logo="" group-title="24/7",24/7  SOUTH PARK
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/878
+#EXTINF:-1 tvg-id="" tvg-name="24/7  THE WALKING DEAD" tvg-logo="" group-title="24/7",24/7  THE WALKING DEAD
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/879
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/880
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AÃ‘OS MARAVILLOSOS 1988" tvg-logo="" group-title="24/7",24/7 AÃ‘OS MARAVILLOSOS 1988
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/881
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BARNY Y SUS AMIGOS" tvg-logo="" group-title="24/7",24/7 BARNY Y SUS AMIGOS
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/882
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BATMAN 1966 RETRO" tvg-logo="" group-title="24/7",24/7 BATMAN 1966 RETRO
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/883
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="" group-title="24/7",24/7 BOB ESPONJA
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/884
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BREAKING  BAD" tvg-logo="" group-title="24/7",24/7 BREAKING  BAD
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/885
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CABALLEROS DEL ZODIACO" tvg-logo="" group-title="24/7",24/7 CABALLEROS DEL ZODIACO
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/886
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="" group-title="24/7",24/7 CANTINFLAS
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/887
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CASO CERRADO "SEXUALIDAD"" tvg-logo="" group-title="24/7",24/7 CASO CERRADO "SEXUALIDAD"
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/888
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI: MIAMI" tvg-logo="" group-title="24/7",24/7 CSI: MIAMI
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/889
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death note" tvg-logo="" group-title="24/7",24/7 Death note
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/890
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DESAFIO SOBRE FUEGO LATIN AMERICA" tvg-logo="" group-title="24/7",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/891
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON  BALL SUPER" tvg-logo="" group-title="24/7",24/7 DRAGON  BALL SUPER
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/892
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL GT 1996" tvg-logo="" group-title="24/7",24/7 DRAGON BALL GT 1996
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/893
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL Z 1989" tvg-logo="" group-title="24/7",24/7 DRAGON BALL Z 1989
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/894
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El AvispÃ³n Verde" tvg-logo="" group-title="24/7",24/7 El AvispÃ³n Verde
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/895
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="" group-title="24/7",24/7 EL CHAPULIN COLORADO
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/896
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAVO DEL 8" tvg-logo="" group-title="24/7",24/7 EL CHAVO DEL 8
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/897
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHEMA" tvg-logo="" group-title="24/7",24/7 EL CHEMA
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/898
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL COYOTE Y CORRE CAMINOS" tvg-logo="" group-title="24/7",24/7 EL COYOTE Y CORRE CAMINOS
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/899
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL PATON DEL MAL" tvg-logo="" group-title="24/7",24/7 EL PATON DEL MAL
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/900
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL SEÃ‘OR DE LOS CIELOS" tvg-logo="" group-title="24/7",24/7 EL SEÃ‘OR DE LOS CIELOS
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/901
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA 1999" tvg-logo="" group-title="24/7",24/7 FUTURAMA 1999
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/902
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HAPPY TREE FRIENDS" tvg-logo="" group-title="24/7",24/7 HAPPY TREE FRIENDS
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/903
+#EXTINF:-1 tvg-id="" tvg-name="24/7 He-Man" tvg-logo="" group-title="24/7",24/7 He-Man
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/904
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HÃ‰ROES EN PIJAMAS" tvg-logo="" group-title="24/7",24/7 HÃ‰ROES EN PIJAMAS
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/905
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JUEGO DE TRONOS" tvg-logo="" group-title="24/7",24/7 JUEGO DE TRONOS
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/906
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE PAPEL" tvg-logo="" group-title="24/7",24/7 LA CASA DE PAPEL
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/907
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA FAMILIA MONSTERS 1964" tvg-logo="" group-title="24/7",24/7 LA FAMILIA MONSTERS 1964
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/908
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA HORA PICO" tvg-logo="" group-title="24/7",24/7 LA HORA PICO
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/909
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA PANTERA ROSA" tvg-logo="" group-title="24/7",24/7 LA PANTERA ROSA
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/910
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA RISA EN VACIONES" tvg-logo="" group-title="24/7",24/7 LA RISA EN VACIONES
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/911
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA ROSA DE GUADALUPE" tvg-logo="" group-title="24/7",24/7 LA ROSA DE GUADALUPE
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/912
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LAZY TOWN" tvg-logo="" group-title="24/7",24/7 LAZY TOWN
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/913
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LE TEMES ALA OSCURIDAD" tvg-logo="" group-title="24/7",24/7 LE TEMES ALA OSCURIDAD
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/914
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS LOCOS ADDAMS" tvg-logo="" group-title="24/7",24/7 LOS LOCOS ADDAMS
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/915
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LUIS MIGUEL LA SERIE 2018" tvg-logo="" group-title="24/7",24/7 LUIS MIGUEL LA SERIE 2018
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/916
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the middle 2000" tvg-logo="" group-title="24/7",24/7 Malcolm in the middle 2000
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/917
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mazinger Z" tvg-logo="" group-title="24/7",24/7 Mazinger Z
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/918
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto" tvg-logo="" group-title="24/7",24/7 Naruto
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/919
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas de terror" tvg-logo="" group-title="24/7",24/7 Peliculas de terror
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/920
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PELICULAS ESTRENOS 2018" tvg-logo="" group-title="24/7",24/7 PELICULAS ESTRENOS 2018
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/921
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PEPPA PIG" tvg-logo="" group-title="24/7",24/7 PEPPA PIG
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/922
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PINKY y CEREBRO" tvg-logo="" group-title="24/7",24/7 PINKY y CEREBRO
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/923
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PokÃ©mon" tvg-logo="" group-title="24/7",24/7 PokÃ©mon
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/924
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POWER RANGERS" tvg-logo="" group-title="24/7",24/7 POWER RANGERS
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/925
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROBOTECH" tvg-logo="" group-title="24/7",24/7 ROBOTECH
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/926
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SAILOR MOON" tvg-logo="" group-title="24/7",24/7 SAILOR MOON
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/927
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank MÃ©xico TEP 1" tvg-logo="" group-title="24/7",24/7 Shark Tank MÃ©xico TEP 1
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/928
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank MÃ©xico TEP 2" tvg-logo="" group-title="24/7",24/7 Shark Tank MÃ©xico TEP 2
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/929
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SHERA" tvg-logo="" group-title="24/7",24/7 SHERA
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/930
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SMALLVILLE" tvg-logo="" group-title="24/7",24/7 SMALLVILLE
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/931
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SPIDER-MAN" tvg-logo="" group-title="24/7",24/7 SPIDER-MAN
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/932
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STRANGER THINGS" tvg-logo="" group-title="24/7",24/7 STRANGER THINGS
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/933
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPER CAMPEONES" tvg-logo="" group-title="24/7",24/7 SUPER CAMPEONES
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/934
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THUNDERCAST" tvg-logo="" group-title="24/7",24/7 THUNDERCAST
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/935
+#EXTINF:-1 tvg-id="" tvg-name="24/7 XMEN ANIME" tvg-logo="" group-title="24/7",24/7 XMEN ANIME
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/936
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA:  DINAMITA SD*" tvg-logo="" group-title="CINEMA",CINEMA:  DINAMITA SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/1
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA:  TCM SD*" tvg-logo="" group-title="CINEMA",CINEMA:  TCM SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/2
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: AMC SD*" tvg-logo="" group-title="CINEMA",CINEMA: AMC SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/3
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: AZTECA CINEMA" tvg-logo="" group-title="CINEMA",CINEMA: AZTECA CINEMA
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/4
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CINE CANAL SD*" tvg-logo="" group-title="CINEMA",CINEMA: CINE CANAL SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/5
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CINE LATINO SD*" tvg-logo="" group-title="CINEMA",CINEMA: CINE LATINO SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/6
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CINEMAX SD*" tvg-logo="" group-title="CINEMA",CINEMA: CINEMAX SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/7
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CLARO CINEMA SD*" tvg-logo="" group-title="CINEMA",CINEMA: CLARO CINEMA SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: DE PELICULA PLUS" tvg-logo="" group-title="CINEMA",CINEMA: DE PELICULA PLUS
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/9
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: DE PELICULA TP MX" tvg-logo="" group-title="CINEMA",CINEMA: DE PELICULA TP MX
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/10
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX ACTION SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX ACTION SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/11
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX CLASICO SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX CLASICO SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/14
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX COMEDY SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX COMEDY SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/15
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX FAMYLY SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX FAMYLY SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/16
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX MOVIES SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX MOVIES SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/17
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX SERIES SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX SERIES SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/18
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: GOLDEN PREMIER 1" tvg-logo="" group-title="CINEMA",CINEMA: GOLDEN PREMIER 1
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/19
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: GOLDEN SD*" tvg-logo="" group-title="CINEMA",CINEMA: GOLDEN SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/20
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 1 SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO 1 SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/21
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 2 SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO 2 SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/22
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO Family SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO Family SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/23
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO MUNDI" tvg-logo="" group-title="CINEMA",CINEMA: HBO MUNDI
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/24
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO Plus SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO Plus SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/25
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO XTREAME SD *" tvg-logo="" group-title="CINEMA",CINEMA: HBO XTREAME SD *
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/26
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: MULTICINEMA SD*" tvg-logo="" group-title="CINEMA",CINEMA: MULTICINEMA SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/27
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: MULTIPREMIER SD*" tvg-logo="" group-title="CINEMA",CINEMA: MULTIPREMIER SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/28
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: PARAMOUNT SD*" tvg-logo="" group-title="CINEMA",CINEMA: PARAMOUNT SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/29
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: SPACE SD*" tvg-logo="" group-title="CINEMA",CINEMA: SPACE SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/30
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: STUDIO UNIVERSAL SD*" tvg-logo="" group-title="CINEMA",CINEMA: STUDIO UNIVERSAL SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/31
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: SYFY*" tvg-logo="" group-title="CINEMA",CINEMA: SYFY*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/32
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: TNT SD*" tvg-logo="" group-title="CINEMA",CINEMA: TNT SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/33
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: ANIMAL PLANET SD*" tvg-logo="" group-title="CULTURA",CULTURA: ANIMAL PLANET SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/34
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY CHANNEL SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY CHANNEL SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/35
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY CIVILIZATION SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY CIVILIZATION SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/36
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY H&H SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY H&H SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/37
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY SCIENCE SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY SCIENCE SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/38
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY THEATHER HD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY THEATHER HD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/39
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY TURBO SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY TURBO SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/40
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: H2 SD*" tvg-logo="" group-title="CULTURA",CULTURA: H2 SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/41
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: HISTORY SD*" tvg-logo="" group-title="CULTURA",CULTURA: HISTORY SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/42
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: ID SD*" tvg-logo="" group-title="CULTURA",CULTURA: ID SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/43
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: NAT GEO SD*" tvg-logo="" group-title="CULTURA",CULTURA: NAT GEO SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/44
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: NATGEO WILD  SD*" tvg-logo="" group-title="CULTURA",CULTURA: NATGEO WILD  SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/45
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: TLC SD*" tvg-logo="" group-title="CULTURA",CULTURA: TLC SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/46
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE GALAVISION" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE GALAVISION
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/48
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: ANTENA3 SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: ANTENA3 SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/49
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: AZ MUNDO SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: AZ MUNDO SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/50
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: COMEDY CENTRAL HD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: COMEDY CENTRAL HD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/51
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: DHE SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: DHE SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/52
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: DISTRITO COMEDIA TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: DISTRITO COMEDIA TP MX
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/53
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: E! SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: E! SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/54
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: EL GOURMET SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: EL GOURMET SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/55
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: ESTRELLATV" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: ESTRELLATV
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/65
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: FASHION ONE SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: FASHION ONE SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/56
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: FILM & ARTS SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: FILM & ARTS SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/57
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: FOOD NETWORK TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: FOOD NETWORK TP MX
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/58
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: HOLA !TV SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: HOLA !TV SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/59
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: LIFE TIME SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: LIFE TIME SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/60
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: MAS CHIC SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: MAS CHIC SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/61
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: TL NOVELAS TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: TL NOVELAS TP MX
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/62
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: UNICABLE TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: UNICABLE TP MX
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/63
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO: FOX LIFE TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: FOX LIFE TP MX
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/64
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" group-title="ENTRETENIMIENTO",FOX LIFE
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/66
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Baby TV*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Baby TV*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/80
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: BIT ME TP MX" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: BIT ME TP MX
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/89
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Boomerang*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Boomerang*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/81
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Discovery Kids SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Discovery Kids SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/82
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney JR SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney JR SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/84
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/83
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney XD SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney XD SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/85
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Nat Geo Kids SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Nat Geo Kids SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/86
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Nick Jr SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Nick Jr SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/87
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Nickelodeon SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Nickelodeon SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/88
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: TOONCAST TP MX" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: TOONCAST TP MX
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/90
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: A&E SD*" tvg-logo="" group-title="SERIES",SERIE: A&E SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/67
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: A3SERIES" tvg-logo="" group-title="SERIES",SERIE: A3SERIES
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/68
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: AXN SD*" tvg-logo="" group-title="SERIES",SERIE: AXN SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/69
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: EURO Channel SD*" tvg-logo="" group-title="SERIES",SERIE: EURO Channel SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/70
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FOX SD *" tvg-logo="" group-title="SERIES",SERIE: FOX SD *
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/71
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FX Movies SD*" tvg-logo="" group-title="SERIES",SERIE: FX Movies SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/72
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FX SD*" tvg-logo="" group-title="SERIES",SERIE: FX SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/73
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FXM TP MX" tvg-logo="" group-title="SERIES",SERIE: FXM TP MX
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/74
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: SONY SD*" tvg-logo="" group-title="SERIES",SERIE: SONY SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/76
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: TNT SERIES*" tvg-logo="" group-title="SERIES",SERIE: TNT SERIES*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/77
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: UNIVERSAL TV SD*" tvg-logo="" group-title="SERIES",SERIE: UNIVERSAL TV SD*
+http://zufreelist.net:8080/partidodepartidodepartidodepartidodepartidodepartidodepartidode/partidodepartidodepartidodepartidodepartidodepartidodepartidodepartidode/78
+#EXTINF:-1 tvg-id="" tvg-name="SERIES: WARNER SD*" tvg-logo="" group-title="SERIES",SERIES: WARNER SD*
 
 
 

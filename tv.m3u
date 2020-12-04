@@ -1,0 +1,1231 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="Action Max FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/ActionMax_2011.svg/revision/latest/scale-to-width-down/340?cb=20160721192021" group-title="PPV CINE",Action Max FHD
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54862
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="AMC ⁽ᴴᴰ⁾" tvg-logo="https://img2.freepng.es/20180707/jpa/kisspng-amc-television-show-television-channel-satellite-t-capri-sun-logo-5b41563d260ac7.8445182315310085731558.jpg" group-title="CINE",AMC ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/40116
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET ⁽ᴴᴰ⁾" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="ENTRETENCIÓN",ANIMAL PLANET ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/5406
+#EXTINF:-1 tvg-id="" tvg-name="AR: 13 Max HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Canal13cteslogo2018.png/revision/latest/scale-to-width-down/340?cb=20190831162351&path-prefix=es" group-title="ARGENTINA",AR: 13 Max HD
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54955
+#EXTINF:-1 tvg-id="america.ar" tvg-name="AR: America FHD" tvg-logo="https://yt3.ggpht.com/a/AATXAJzXVm64zyORjNlL_yNrdeenYRqSlKpcc3jvIiOwBQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="ARGENTINA",AR: America FHD
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54957
+#EXTINF:-1 tvg-id="" tvg-name="AR: AMERICA TV" tvg-logo="https://argentina.mom-rsf.org/typo3temp/_processed_/5/7/csm_16023-1639_import_7d2ded6aa2.png" group-title="ARGENTINA",AR: AMERICA TV
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/16184
+#EXTINF:-1 tvg-id="" tvg-name="AR: TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",AR: TELEFE
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3744
+#EXTINF:-1 tvg-id="" tvg-name="AXN LATINO ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CINE",AXN LATINO ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1725
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="CINE",AXN WHITE ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/39835
+#EXTINF:-1 tvg-id="axn.co" tvg-name="AXN ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="CINE",AXN ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/42432
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS" tvg-logo="https://i.ya-webdesign.com/images/bbc-world-news-logo-png-11.png" group-title="NOTICIAS",BBC WORLD NEWS
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27706
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CHILENO" tvg-logo="https://www.pesalmanac.com/cdn/competition/emb_0023_l.png" group-title="PPV LIGAS DE FÚTBOL",CAMPEONATO CHILENO
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54021
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Europa Pista Plovdiv 2020" tvg-logo="blob:https://web.telegram.org/8d00902a-27c4-4e71-a302-6bf6facf3957" group-title="PPV CICLISMO",Campeonato Europa Pista Plovdiv 2020
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61662
+#EXTINF:-1 tvg-id="cdf.cl" tvg-name="CDF BASICO (ꜰʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES",CDF BASICO (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/16704
+#EXTINF:-1 tvg-id="cdf.cl" tvg-name="CDF BASICO ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES",CDF BASICO ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/14789
+#EXTINF:-1 tvg-id="cdfhd.cl" tvg-name="CDF HD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES",CDF HD 1080
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/601
+#EXTINF:-1 tvg-id="" tvg-name="CDO PREMIUM ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="DEPORTES",CDO PREMIUM ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15601
+#EXTINF:-1 tvg-id="" tvg-name="CH: 13 DOCU" tvg-logo="http://tv.iptv5latino.cl:8000/images/15b4d204eb67f9c210d41fdeef097b9b.png" group-title="CHILE",CH: 13 DOCU
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/33491
+#EXTINF:-1 tvg-id="13c.cl" tvg-name="CH: 13C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Canal13Chile-13C.png" group-title="CHILE",CH: 13C
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/16175
+#EXTINF:-1 tvg-id="" tvg-name="CH: 24 HORAS (directo)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/24_Horas_TVN_alt.png" group-title="CHILE",CH: 24 HORAS (directo)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/41830
+#EXTINF:-1 tvg-id="13.cl" tvg-name="CH: CANAL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Canal_13_2018.png" group-title="CHILE",CH: CANAL 13
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27155
+#EXTINF:-1 tvg-id="13.cl" tvg-name="CH: CANAL 13 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Canal_13_2018.png" group-title="CHILE",CH: CANAL 13 1080
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/513
+#EXTINF:-1 tvg-id="chv.cl" tvg-name="CH: CHILEVISION 1080" tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20191108/imag/foto_0000000120191108131036/chv_logo.png" group-title="CHILE",CH: CHILEVISION 1080
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1159
+#EXTINF:-1 tvg-id="cnn.cl" tvg-name="CH: CNN CHILE ⁽ᴹ⁾" tvg-logo="https://static1.squarespace.com/static/53daa37ce4b0f890bb843382/57d951299de4bb2ee647248b/5b4a2210575d1fa91f095bb6/1531586114541/Cnn_cl.png?format=1500w" group-title="CHILE",CH: CNN CHILE ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/38249
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="CH: CNN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="CHILE",CH: CNN ESPAÑOL
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15712
+#EXTINF:-1 tvg-id="" tvg-name="CH: HAGALO UD MISMO TV" tvg-logo="http://tv.iptv5latino.cl:8000/images/7ee6bf97ef77f7f7477002b0b2ddbe05.png" group-title="CHILE",CH: HAGALO UD MISMO TV
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/33492
+#EXTINF:-1 tvg-id="" tvg-name="CH: LA RED ⁽ᴴᴰ⁾" tvg-logo="https://aam.cl/wp-content/uploads/2018/08/1200px-La_Red_Logotipo.svg_.png" group-title="CHILE",CH: LA RED ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/53437
+#EXTINF:-1 tvg-id="" tvg-name="CH: MEGA PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png" group-title="CHILE",CH: MEGA PLUS
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15864
+#EXTINF:-1 tvg-id="" tvg-name="CH: MEGANOTICIAS (directo)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png" group-title="CHILE",CH: MEGANOTICIAS (directo)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58409
+#EXTINF:-1 tvg-id="" tvg-name="CH: TVN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/TVN_2016.svg/revision/latest/scale-to-width-down/340?cb=20160811021146" group-title="CHILE",CH: TVN
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27156
+#EXTINF:-1 tvg-id="" tvg-name="CH: ZONA LATINA ⁽ˢᵈ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR49Z6pFm-M-7ejQ5cKHl-8boA4n6rflg6Njg&usqp=CAU" group-title="CHILE",CH: ZONA LATINA ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60879
+#EXTINF:-1 tvg-id="" tvg-name="Chespirito TV" tvg-logo="http://tv.iptv5latino.cl:8000/images/ee8406b40b0d49cdffe3e9f6e6634fe9.png" group-title="24/7 PREMIUM",Chespirito TV
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60615
+#EXTINF:-1 tvg-id="" tvg-name="Chicas Superpoderosas" tvg-logo="http://tv.iptv5latino.cl:8000/images/54b883bb93cec3f6fda1dd9692187236.png" group-title="24/7 PREMIUM",Chicas Superpoderosas
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60529
+
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="CINE AR ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE",CINE AR ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55009
+
+
+#EXTINF:-1 tvg-id="cinecanal.co" tvg-name="CINECANAL ⁽ᴴᴰ⁾" tvg-logo="https://fotos.subefotos.com/014da2aa35f7f21d8815dd856f9c6298o.png" group-title="CINE",CINECANAL ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1726
+
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL ⁽ᴴᴰ⁾" tvg-logo="https://fotos.subefotos.com/014da2aa35f7f21d8815dd856f9c6298o.png" group-title="CINE",CINECANAL ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/17334
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA ACCION CLASSICS ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/b4a73802169b63f34f28a2310e7a9786.png" group-title="PPV CINE",CINEMA ACCION CLASSICS ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57651
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Accion Classics ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/b4a73802169b63f34f28a2310e7a9786.png" group-title="24/7 PREMIUM",Cinema Accion Classics ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60468
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Anime [test]" tvg-logo="https://dl.dropboxusercontent.com/s/bc2ib5ne7ve6zd0/cinemaanime128x128.png?dl=0" group-title="24/7 PREMIUM",Cinema Anime [test]
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60469
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Ciencia Ficcion ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/59c8cade091e267c32228b1d7e06de93.png" group-title="24/7 PREMIUM",Cinema Ciencia Ficcion ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60470
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Comedia ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/eb73d0021058f67c06d82115b293ca62.png" group-title="24/7 PREMIUM",Cinema Comedia ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60471
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA DC COMICS ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/9dfa95a83f4ae365cdaa575dbd3a3f3d.png" group-title="PPV CINE",CINEMA DC COMICS ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57653
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA DC UNIVERSE ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/49c67912badc983d57a4d5593340fca6.png" group-title="PPV CINE",CINEMA DC UNIVERSE ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57654
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA DISNEY FAMILY ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/4d9e5e65620d07c1fc4edfd06560c7a1.png" group-title="PPV CINE",CINEMA DISNEY FAMILY ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57655
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/4d9e5e65620d07c1fc4edfd06560c7a1.png" group-title="24/7 PREMIUM",Cinema Disney Family ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60475
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/b37d9490e868558b23928e9ad7967725.png" group-title="24/7 PREMIUM",Cinema Disney Pixar ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60476
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Dreamworks ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/7c3f95384c4edcaa73a03555e5dbb896.png" group-title="24/7 PREMIUM",Cinema Dreamworks ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60477
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA FAMILIA ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/f74fd6b43a1a199bd726f0cc42d0a354.png" group-title="PPV CINE",CINEMA FAMILIA ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57657
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Familia ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/f74fd6b43a1a199bd726f0cc42d0a354.png" group-title="24/7 PREMIUM",Cinema Familia ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60478
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Happy Madison ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/2d0b50df4958fa8751e085155a25a05a.png" group-title="24/7 PREMIUM",Cinema Happy Madison ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60479
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror Classics ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/5e890fc0df7e071483838d5fbd602825.png" group-title="24/7 PREMIUM",Cinema Horror Classics ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60480
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Lego Movies ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/ec630b8df2f8628633579f1e41c01aa5.png" group-title="24/7 PREMIUM",Cinema Lego Movies ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60482
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA MARVEL ANIMADO ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/30ce813efad37b16f186b7fdd81e9efa.png" group-title="PPV CINE",CINEMA MARVEL ANIMADO ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57661
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Animated ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/30ce813efad37b16f186b7fdd81e9efa.png" group-title="24/7 PREMIUM",Cinema Marvel Animated ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60483
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Studios Este ⁽ᴴᴰ⁾" tvg-logo="http://c24premium.com:8080/images/739c45f8a7e55d7a52f83495323f662c.png" group-title="24/7 PREMIUM",Cinema Marvel Studios Este ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60485
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Studios Oeste ⁽ᴴᴰ⁾" tvg-logo="http://c24premium.com:8080/images/08d64e6263c1407b242a79fe20854168.png" group-title="24/7 PREMIUM",Cinema Marvel Studios Oeste ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60486
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA MARVEL STUDIOS ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/9529a5bd8a94215beafc08591339b160.png" group-title="PPV CINE",CINEMA MARVEL STUDIOS ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57662
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Studios ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/9529a5bd8a94215beafc08591339b160.png" group-title="24/7 PREMIUM",Cinema Marvel Studios ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60484
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Navidad ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/b77eb4fc9fc44f0b55f46433ced5c4e9.png" group-title="24/7 PREMIUM",Cinema Navidad ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60487
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax Action FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/ActionMax_2011.svg/revision/latest/scale-to-width-down/340?cb=20160721192021" group-title="PPV CINE",Cinemax Action FHD
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54863
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CINE",CINEMAX ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/17335
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CINE",CINEMAX ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1727
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN CHILE*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS",CNN CHILE*
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27710
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_de_CNN_en_Espa%C3%B1ol.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol.svg.png" group-title="NOTICIAS",CNN ESPAÑOL
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27716
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL" tvg-logo="https://images.radio.com/aiu-media/CNN-Logo-CNNInt.png" group-title="NOTICIAS",CNN INTERNACIONAL
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27708
+
+#EXTINF:-1 tvg-id="" tvg-name="Cocina Abierta ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/3ba20938d83626f10b8f03322e26ddf6.png" group-title="24/7 PREMIUM",Cocina Abierta ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60503
+#EXTINF:-1 tvg-id="" tvg-name="Cocina Real ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/5025095b7a3b145ef78246c2b6714fd8.png" group-title="24/7 PREMIUM",Cocina Real ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60505
+
+#EXTINF:-1 tvg-id="" tvg-name="COL: TELEMEDELLIN" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/5284/brand.gif?itok=SHZ9Qjq4" group-title="COLOMBIA",COL: TELEMEDELLIN
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/17775
+#EXTINF:-1 tvg-id="" tvg-name="COL: TELEMEDELLIN " tvg-logo="https://i.vimeocdn.com/channel/168872_980?mh=250" group-title="COLOMBIA",COL: TELEMEDELLIN 
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3977
+
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINE",DE PELICULA ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1728
+
+#EXTINF:-1 tvg-id="" tvg-name="Death Note" tvg-logo="http://tv.iptv5latino.cl:8000/images/e03e5b77f64a3da4451c096d0c5c7b58.png" group-title="24/7 PREMIUM",Death Note
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60532
+#EXTINF:-1 tvg-id="" tvg-name="Delicioso HD" tvg-logo="" group-title="PPV CINE",Delicioso HD
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54864
+#EXTINF:-1 tvg-id="" tvg-name="Detective Conan" tvg-logo="http://tv.iptv5latino.cl:8000/images/e680f620bbe8af006522fdc9abffd528.png" group-title="24/7 PREMIUM",Detective Conan
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60533
+
+
+#EXTINF:-1 tvg-id="discoverychannel.co" tvg-name="DISCOVERY CHANNEL ⁽ˢᵈ⁾" tvg-logo="https://img.favpng.com/3/0/4/discovery-channel-television-channel-logo-television-show-png-favpng-DJEGtsbP1wJr4hS5MBRQ3Z7jf.jpg" group-title="ENTRETENCIÓN",DISCOVERY CHANNEL ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/17326
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL ⁽ᴴᴰ⁾" tvg-logo="https://img.favpng.com/3/0/4/discovery-channel-television-channel-logo-television-show-png-favpng-DJEGtsbP1wJr4hS5MBRQ3Z7jf.jpg" group-title="ENTRETENCIÓN",DISCOVERY CHANNEL ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/781
+#EXTINF:-1 tvg-id="dcivilization.cl" tvg-name="DISCOVERY CIVILIZATION (ꜰʜᴅ)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/38/Discovery_Civilization_1998.png/revision/latest?cb=20190925150447&path-prefix=es" group-title="ENTRETENCIÓN",DISCOVERY CIVILIZATION (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/5407
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H (ꜰʜᴅ)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png" group-title="ENTRETENCIÓN",DISCOVERY H&H (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/782
+#EXTINF:-1 tvg-id="discoveryhomehealth.co" tvg-name="DISCOVERY H&H ⁽ᴴᴰ⁾" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png" group-title="ENTRETENCIÓN",DISCOVERY H&H ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/5408
+#EXTINF:-1 tvg-id="discoveryhomehealth.co" tvg-name="Discovery Home & Healt ⁽ˢᵈ⁾" tvg-logo="https://lh3.googleusercontent.com/proxy/TiT-88Wa1rj7j8qsX3JmPDoZJAkuT0ByRS4P8DmTmtGnugfWKExFG14W9ypFmueTSZ6BDNTv0rnoLlFfmBWVTZCdabLl7usoELkOjDSvGNW947jx3-ncS3H18Mfib5GpRuaIFz1poA" group-title="LATINOS SD",Discovery Home & Healt ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55406
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGATION (ꜰʜᴅ) (méxico)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="ENTRETENCIÓN",DISCOVERY INVESTIGATION (ꜰʜᴅ) (méxico)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/17320
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGATION ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="ENTRETENCIÓN",DISCOVERY INVESTIGATION ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/17312
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE (ꜰʜᴅ)" tvg-logo="https://toppng.com/uploads/preview/discovery-science-hd-discovery-science-channel-logo-11563265312wbidfsxg71.png" group-title="ENTRETENCIÓN",DISCOVERY SCIENCE (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/5409
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE ⁽ᴴᴰ⁾" tvg-logo="https://toppng.com/uploads/preview/discovery-science-hd-discovery-science-channel-logo-11563265312wbidfsxg71.png" group-title="ENTRETENCIÓN",DISCOVERY SCIENCE ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/17329
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="ENTRETENCIÓN",DISCOVERY TURBO 
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/5410
+#EXTINF:-1 tvg-id="discoveryturbo.la" tvg-name="Discovery Turbo ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="LATINOS SD",Discovery Turbo ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55407
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="ENTRETENCIÓN",DISCOVERY TURBO ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1161
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD ⁽ᴴᴰ⁾" tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png" group-title="ENTRETENCIÓN",DISCOVERY WORLD ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/17331
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball" tvg-logo="http://tv.iptv5latino.cl:8000/images/d77d5e503ad1439f585ac494268b351b.png" group-title="24/7 PREMIUM",Dragon Ball
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60537
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball 2" tvg-logo="http://tv.iptv5latino.cl:8000/images/ea95a7d80f83fc61f9f153f2638ea853.png" group-title="24/7 PREMIUM",Dragon Ball 2
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60538
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="http://tv.iptv5latino.cl:8000/images/40ee942d4e7df005e21c077152791ede.png" group-title="24/7 PREMIUM",Dragon Ball GT
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60539
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer" tvg-logo="http://tv.iptv5latino.cl:8000/images/85afaab5f3b6a638269e33d12da2fedf.png" group-title="24/7 PREMIUM",Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60540
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super 2 Saga Universo 6 y Goku Black" tvg-logo="http://c24premium.com:8080/images/d12d9c1b03284224a068a008521ab8ff.png" group-title="24/7 PREMIUM",Dragon Ball Super 2 Saga Universo 6 y Goku Black
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60541
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super 3 Saga de la Supervivencia Universal" tvg-logo="http://c24premium.com:8080/images/4d7b91be04b05c16e704e14a204976ab.png" group-title="24/7 PREMIUM",Dragon Ball Super 3 Saga de la Supervivencia Universal
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60542
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Movies" tvg-logo="http://tv.iptv5latino.cl:8000/images/744a0c1702a65fdec67751ba64b6e23b.png" group-title="24/7 PREMIUM",Dragon Ball Z Movies
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60543
+
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="E!" tvg-logo="https://i.ya-webdesign.com/images/e-transparent-logo-12.png" group-title="ENTRETENCIÓN",E!
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/53536
+
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo" tvg-logo="http://tv.iptv5latino.cl:8000/images/b73e2e4bb510eb32d8dcad1794ad5fb8.png" group-title="24/7 PREMIUM",El Chavo
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60614
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="ENTRETENCIÓN",EL GOURMET ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/787
+#EXTINF:-1 tvg-id="" tvg-name="El Laboratorio de Dexter" tvg-logo="http://tv.iptv5latino.cl:8000/images/a125a6b2a71e23adc002ac7fbe1a1042.png" group-title="24/7 PREMIUM",El Laboratorio de Dexter
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60545
+#EXTINF:-1 tvg-id="" tvg-name="El Pajaro Loco" tvg-logo="http://tv.iptv5latino.cl:8000/images/24c03960cf77ab820299768c4f39db64.png" group-title="24/7 PREMIUM",El Pajaro Loco
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60546
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGATV BAR " tvg-logo="https://pbs.twimg.com/profile_images/1230800723983716362/3rSTieSJ_400x400.jpg" group-title="ESPAÑA",ES: LALIGATV BAR 
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27592
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGATV BAR " tvg-logo="https://pbs.twimg.com/profile_images/1230800723983716362/3rSTieSJ_400x400.jpg" group-title="ESPAÑA",ES: LALIGATV BAR 
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27593
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Canal_plus_liga_campeones.png" group-title="ESPAÑA",ES: LIGA DE CAMPEONES
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/25653
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movistar_Acci%C3%B3n.svg" group-title="ESPAÑA",ES: MOVISTAR ACCION
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3659
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Movistar_Comedia.svg" group-title="ESPAÑA",ES: MOVISTAR COMEDIA
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3658
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="ESPAÑA",ES: MOVISTAR DEPORTES 1
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3657
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DRAMA" tvg-logo="http://144.217.91.146/Logos/Spain/movistar-drama-es.png" group-title="ESPAÑA",ES: MOVISTAR DRAMA
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27459
+#EXTINF:-1 tvg-id="movistarestrenos.sp" tvg-name="ES: MOVISTAR ESTRENOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Movistar_Estrenos.svg" group-title="ESPAÑA",ES: MOVISTAR ESTRENOS
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/43354
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LA LIGA TV BAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="ESPAÑA",ES: MOVISTAR LA LIGA TV BAR
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/45691
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Movistar_Series.svg" group-title="ESPAÑA",ES: MOVISTAR SERIES
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27462
+
+
+
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN" tvg-logo="https://jmsearch.com/wp-content/uploads/2016/03/ESPN.png" group-title="DEPORTES",ESPN
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54125
+
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 1 (méxico)" tvg-logo="https://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="DEPORTES",ESPN 1 (méxico)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/32979
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 SUR ⁽ᵃ⁾ chile" tvg-logo="https://www.gador.com.ar/wp-content/uploads/2017/04/espn-logo-red.png" group-title="DEPORTES",ESPN 1 SUR ⁽ᵃ⁾ chile
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58049
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (argentina)" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="DEPORTES",ESPN 2 (argentina)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58092
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 (argentina) ⁽ᵃ⁾" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 (argentina) ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/53991
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (colombia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 (colombia)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58064
+
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 2 (méxico)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 (méxico)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27553
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (usa)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 (usa)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57818
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 CHILE 1080" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="DEPORTES",ESPN 2 CHILE 1080
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57325
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 CHILE 720 ⁽ᴹ⁾" tvg-logo="https://logodix.com/logo/313657.png" group-title="DEPORTES",ESPN 2 CHILE 720 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/16686
+
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 CHILE ⁽ˢᵈ⁾" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 CHILE ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61849
+
+
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 NORTE ⁽ˢᵈ⁾" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 NORTE ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54399
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 NORTE ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 NORTE ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61490
+
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 SUR" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 SUR
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/14869
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 SUR ⁽ᴴᴰ⁾" tvg-logo="https://logodix.com/logo/313657.png" group-title="DEPORTES",ESPN 2 SUR ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/609
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ESPN 3" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="LATINOS SD",ESPN 3
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55414
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 (méxico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 (méxico)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15766
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ESPN 3 SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 SUR
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/608
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SUR ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES",ESPN 3 SUR ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/26135
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54124
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EUROPA EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA EUROPA
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/51475
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="https://f0.pngfuel.com/png/706/926/eurosport-2-logo-television-eurosport-1-eurosport-hd-png-clip-art.png" group-title="DEPORTES",EUROSPORT 1
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/25039
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Eurosport_2.svg/640px-Eurosport_2.svg.png" group-title="DEPORTES",EUROSPORT 2 ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57584
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="ENTRETENCIÓN",FOOD NETWORK ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/789
+
+#EXTINF:-1 tvg-id="foxaction.la" tvg-name="Fox Action ⁽ˢᵈ⁾" tvg-logo="https://lh3.googleusercontent.com/proxy/W_A_l4RrwQr5kxRaVHyue-Kk4ibAwU5F5D3jv-74Bx7SDmrd2H2mO1QR4kSZC9I06pgMXGoDRm-njPh0KzoUUiXX3L4IWVIfNUbyMGEiXYkGSM3Ols6BWopqF8VQ_OJlDbl08_HPWcyTk7xyP6sRl26o" group-title="LATINOS SD",Fox Action ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55415
+#EXTINF:-1 tvg-id="" tvg-name="FOX CHANNEL" tvg-logo="https://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="CINE",FOX CHANNEL
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15925
+#EXTINF:-1 tvg-id="foxchannel.mx" tvg-name="FOX CHANNEL (ᴍᴇxɪᴄᴏ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1280px-FOX-Channel-Germany.svg.png" group-title="CINE",FOX CHANNEL (ᴍᴇxɪᴄᴏ)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/53539
+
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="Fox Cinema ⁽ˢᵈ⁾" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/85/Fox_Premium_Cinema_1.png/revision/latest/scale-to-width-down/340?cb=20200109143105&path-prefix=es" group-title="LATINOS SD",Fox Cinema ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55417
+
+#EXTINF:-1 tvg-id="foxclassics.la" tvg-name="Fox Classics ⁽ˢᵈ⁾" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Classics-300x98-167538583.png" group-title="LATINOS SD",Fox Classics ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55418
+#EXTINF:-1 tvg-id="foxfamily.la" tvg-name="Fox Family ⁽ˢᵈ⁾" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9a/Fox_Premium_Family_2017.svg/revision/latest/scale-to-width-down/340?cb=20200510184117&path-prefix=es" group-title="LATINOS SD",Fox Family ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55419
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FOX LIFE (ᴍᴇxɪᴄᴏ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="CINE",FOX LIFE (ᴍᴇxɪᴄᴏ)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1730
+
+#EXTINF:-1 tvg-id="foxlife.la" tvg-name="FOX LIFE HD ⁽ᶜᵒˡᵒᵐᵇⁱᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="CINE",FOX LIFE HD ⁽ᶜᵒˡᵒᵐᵇⁱᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55015
+
+
+#EXTINF:-1 tvg-id="foxmovies.la" tvg-name="Fox Movies ⁽ˢᵈ⁾" tvg-logo="https://lh3.googleusercontent.com/proxy/LLzdVwulEgEhLA6y2TgLpw7gPsdffx-K0T-RR_wr3RCtx6-VkbRzJDtjIJOsrIMv8E_mUYA4aB3jP0eL33gYDdnTuZJn6AZOXDVVSUT7hTkZnYgBvAaI6nsXshTdgWdsrOUizUg2n-W8kUdKyCD7JLFc" group-title="LATINOS SD",Fox Movies ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55421
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM ACTION (col)" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_ACTIONHD.png" group-title="CINE",FOX PREMIUM ACTION (col)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/33356
+
+
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="FOX PREMIUM CINEMA ⁽ᴴᴰ⁾" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="CINE",FOX PREMIUM CINEMA ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/33357
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM COMEDY ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="CINE",FOX PREMIUM COMEDY ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/33359
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM FAMILY" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_FAMILY.png" group-title="CINE",FOX PREMIUM FAMILY
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1735
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM MOVIES" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_MOVIES.png" group-title="CINE",FOX PREMIUM MOVIES
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/33361
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM SERIES " tvg-logo="https://i.pinimg.com/originals/f2/7b/3f/f27b3fc1e773fd94e247b844f174b2f7.png" group-title="CINE",FOX PREMIUM SERIES 
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1737
+#EXTINF:-1 tvg-id="" tvg-name="FOX SOCCER PLUS" tvg-logo="https://www.verizon.com/content/dam/verizon/personal/learn-images/MLP/ec/sports/foxsoc/img-fsp-logo-sm.png" group-title="DEPORTES",FOX SOCCER PLUS
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/43357
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS (argentina) ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS (argentina) ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58065
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FOX SPORTS (méxico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS (méxico)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/32993
+#EXTINF:-1 tvg-id="foxsports.la" tvg-name="FOX SPORTS 1 CHILE (ʙ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 1 CHILE (ʙ)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55004
+
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2 ⁽ᴴᴰ⁾ (méxico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 ⁽ᴴᴰ⁾ (méxico)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/613
+
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3 (méxico) ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 (méxico) ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/18218
+
+#EXTINF:-1 tvg-id="foxsports.las" tvg-name="FOX SPORTS PREMIUM ⁽ᴴᴰ⁾" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/340?cb=20190602030108&path-prefix=es" group-title="DEPORTES",FOX SPORTS PREMIUM ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54122
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM ⁽ᴹ⁾" tvg-logo="V" group-title="DEPORTES",FOX SPORTS PREMIUM ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61489
+
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="http://tv.iptv5latino.cl:8000/images/d09066cfeef4736a5b6f15f8e09205a0.png" group-title="24/7 PREMIUM",Futurama
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60552
+
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="FX MOVIES ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="CINE",FX MOVIES ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15713
+
+#EXTINF:-1 tvg-id="" tvg-name="FXM " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/FXM_Logo.svg" group-title="CINE",FXM 
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1740
+#EXTINF:-1 tvg-id="" tvg-name="Gallo claudio" tvg-logo="http://tv.iptv5latino.cl:8000/images/b8a128c213bb417716f7273b3cc9d127.png" group-title="24/7 PREMIUM",Gallo claudio
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60553
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER " tvg-logo="http://www.mundo-latam.argentina-buenos-aires.arrecifesciudad.com/onewin/origen/baypro/imagenes/logos-tv/golden-premier.png" group-title="CINE",GOLDEN PREMIER 
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/10870
+
+#EXTINF:-1 tvg-id="hbo2.cl" tvg-name="HBO 2 ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="LATINOS SD",HBO 2 ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55431
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO FAMILY 
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1746
+
+#EXTINF:-1 tvg-id="hbo.la" tvg-name="HBO latino" tvg-logo="http://www.arrecifesciudad.com/muluni/imagenes/logos-tv/hbo.png" group-title="CINE",HBO latino
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1744
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4NukklEvA5Ji9lye0kxChfkecsn-qg_Oqt6d9Co2OUEZ5xsQN" group-title="CINE",HBO MUNDI
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1750
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="data:image/png;base64,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" group-title="CINE",HBO POP
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1751
+
+#EXTINF:-1 tvg-id="hboplus.la" tvg-name="HBO West HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSevizFLo2_TLXSE55-KFW7Qsg9UqhNxxqVVA&usqp=CAU" group-title="PPV CINE",HBO West HD
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54865
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CINE",HBO XTREAM
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1749
+
+
+#EXTINF:-1 tvg-id="history.co" tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="ENTRETENCIÓN",HISTORY
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/791
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="ENTRETENCIÓN",HISTORY ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15565
+
+
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="Investigation Discovery ⁽ˢᵈ⁾" tvg-logo="https://dcom-prod.imgix.net/files/2018-12/ID-Logo-white.png" group-title="LATINOS SD",Investigation Discovery ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55433
+
+#EXTINF:-1 tvg-id="" tvg-name="Johnny Bravo" tvg-logo="http://tv.iptv5latino.cl:8000/images/732cd37963c94b5aabc5fd5c92cb39c9.png" group-title="24/7 PREMIUM",Johnny Bravo
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60559
+
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="LALIGA TV" tvg-logo="https://lh3.googleusercontent.com/proxy/NggWEvCDqCK2wywmQhXCDEmuAVTxEmZ3Ar4ThNVhluYdWBIJqlFqBzonbfRXNTlMG_a3Z96ASt0as7Xcg9RZDAIWvyHdx00Uf9xT7ASqzloHMbCkqnag" group-title="DEPORTES",LALIGA TV
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/46186
+
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1024px-Lifetime_logo17.svg.png" group-title="ENTRETENCIÓN",LIFETIME 
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/16160
+
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tunes" tvg-logo="http://tv.iptv5latino.cl:8000/images/5f5e289ed3dce31dbafef439a08000bf.png" group-title="24/7 PREMIUM",Looney Tunes
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60572
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tunes Show" tvg-logo="http://tv.iptv5latino.cl:8000/images/acb1883076c6e20f9c26b6288776b48e.png" group-title="24/7 PREMIUM",Looney Tunes Show
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60573
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Autos Locos" tvg-logo="http://tv.iptv5latino.cl:8000/images/631f1c3d22415d37321a2ee39f118f18.png" group-title="24/7 PREMIUM",Los Autos Locos
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60574
+#EXTINF:-1 tvg-id="" tvg-name="Los Cazafantasmas" tvg-logo="http://tv.iptv5latino.cl:8000/images/18f08aa9ec1d5a915a9bd39cbb4bf27a.png" group-title="24/7 PREMIUM",Los Cazafantasmas
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60575
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Gatos Samurai" tvg-logo="http://tv.iptv5latino.cl:8000/images/b4d8fdad3c88dce6a6bad8879cc17ca9.png" group-title="24/7 PREMIUM",Los Gatos Samurai
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60577
+#EXTINF:-1 tvg-id="" tvg-name="Los Locos Adams" tvg-logo="http://tv.iptv5latino.cl:8000/images/a348ab10d31322c7b810aa052b4a1a6b.png" group-title="24/7 PREMIUM",Los Locos Adams
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60578
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson Retro." tvg-logo="http://tv.iptv5latino.cl:8000/images/9dbaa2bcaf111bc995677997e331abe2.png" group-title="24/7 PREMIUM",Los Simpson Retro.
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60580
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons Horror ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/6031a18e593a6d8b51e408c24498a977.png" group-title="24/7 PREMIUM",Los Simpsons Horror ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60581
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons Latinos ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/33ebdf44d2e2d316e57d9cf360da8835.png" group-title="24/7 PREMIUM",Los Simpsons Latinos ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60582
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons Retro" tvg-logo="http://tv.iptv5latino.cl:8000/images/08272ffb467de75c95b2bdfe7393c314.png" group-title="24/7 PREMIUM",Los Simpsons Retro
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60583
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Supersonicos" tvg-logo="http://tv.iptv5latino.cl:8000/images/9041850c9fdcf1080566ea0048ba73aa.png" group-title="24/7 PREMIUM",Los Supersonicos
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60585
+#EXTINF:-1 tvg-id="" tvg-name="Mega Gourmet ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/c05462909348f837aa7ca2f60ecf0a29.png" group-title="24/7 PREMIUM",Mega Gourmet ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60506
+
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="MEX: LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="MÉXICO",MEX: LAS ESTRELLAS
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3830
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="MEX: LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="MÉXICO",MEX: LAS ESTRELLAS
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3832
+
+#EXTINF:-1 tvg-id="tlnovelas.mx" tvg-name="MEX: TLENOVELAS " tvg-logo="https://w7.pngwing.com/pngs/598/22/png-transparent-tlnovelas-televisa-telenovela-television-univision-others-miscellaneous-television-text.png" group-title="MÉXICO",MEX: TLENOVELAS 
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3818
+
+#EXTINF:-1 tvg-id="" tvg-name="Moviecenter Premium Este ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/94a38770e9086538fc5efccb1114c4c1.png" group-title="24/7 PREMIUM",Moviecenter Premium Este ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60462
+#EXTINF:-1 tvg-id="" tvg-name="Moviecenter Premium Oeste ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/cda47ec231d7fd59ce78789c58992e81.png" group-title="24/7 PREMIUM",Moviecenter Premium Oeste ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60463
+#EXTINF:-1 tvg-id="" tvg-name="Moviecenter Premium ⁽ᴴᴰ⁾" tvg-logo="http://c24premium.com:8080/images/a9801972ae9083d8291fa521a144be6c.png" group-title="24/7 PREMIUM",Moviecenter Premium ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60461
+#EXTINF:-1 tvg-id="" tvg-name="MovieMax FHD" tvg-logo="https://www.gntnigeria.com/certifications/moviemax/MovieMax_Latin_Atlansia.png" group-title="PPV CINE",MovieMax FHD
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54868
+#EXTINF:-1 tvg-id="" tvg-name="MoviePlex FHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/movieplex.png" group-title="CINE",MoviePlex FHD
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54869
+
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES (ꜰʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61485
+
+#EXTINF:-1 tvg-id="" tvg-name="Mr.Bean" tvg-logo="http://tv.iptv5latino.cl:8000/images/46086bc60bd5c19cc4078727e6dc971b.png" group-title="24/7 PREMIUM",Mr.Bean
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60588
+#EXTINF:-1 tvg-id="" tvg-name="MTV Classics (Test)" tvg-logo="http://c24premium.com:8080/images/bb04c45b8800c5b6d0788f74f6601104.png" group-title="24/7 PREMIUM",MTV Classics (Test)
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/60513
+#EXTINF:-1 tvg-id="mtvlive.la" tvg-name="MTV Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="MÚSICA",MTV Hits HD
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54160
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE " tvg-logo="https://www.google.cl/url?sa=i&source=images&cd=&ved=2ahUKEwiLhN7i7vzlAhVwH7kGHQMFCD8QjRx6BAgBEAQ&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AMTV_Live_HD_2017_logo.svg&psig=AOvVaw2_OAX_oPHiRNlgbhwKZvkj&ust=1574479322810952" group-title="MÚSICA",MTV LIVE 
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="ENTRETENCIÓN",NATGEO WILD ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15536
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC ⁽ᴴᴰ⁾" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="ENTRETENCIÓN",NATIONAL GEOGRAPHIC ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/17336
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="PPV NBA",NBA Channel HD
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/56476
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="DEPORTES",NBA TV
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1165
+
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Paramount_Pictures_2020.svg/1200px-Paramount_Pictures_2020.svg.png" group-title="CINE",PARAMOUNT CHANNEL
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1752
+
+#EXTINF:-1 tvg-id="" tvg-name="Quiero Musica" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/large.57e29c46a43b8_QuieroMsicaTV.png.c8744ad128faccb060fc71fa96ba294e.png" group-title="MÚSICA",Quiero Musica
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57647
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL" tvg-logo="https://www.logopik.com/wp-content/uploads/edd/2018/10/Sport-Vector-Logo-Dewonload-free-226x226.png" group-title="DEPORTES",RED BULL
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/10909
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL ⁽ᵃ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrK-VWX1BdapzWss_w7NiU5IRG3FuEWqbvhmmT4mPVqFKaiYv0-w&s" group-title="CINE",SONY CHANNEL ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1753
+
+#EXTINF:-1 tvg-id="" tvg-name="SPACE CHANNEL" tvg-logo="https://img.favpng.com/19/12/24/space-television-channel-streaming-television-turner-broadcasting-system-png-favpng-1FPC99JnRrFWDQZTt9PMTPPj7.jpg" group-title="CINE",SPACE CHANNEL
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1754
+#EXTINF:-1 tvg-id="space.cl" tvg-name="Space ⁽ˢᵈ⁾" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3f/SPACE_99_1.png/revision/latest/scale-to-width-down/340?cb=20200216172439&path-prefix=es" group-title="LATINOS SD",Space ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55439
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge FHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzedge.png" group-title="PPV CINE",Starz Edge FHD
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54876
+
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Classics FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Starz_Encore_Classic.svg/1280px-Starz_Encore_Classic.svg.png" group-title="PPV CINE",Starz Encore Classics FHD
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54878
+
+
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Studio_Universal.svg/418px-Studio_Universal.svg.png" group-title="CINE",STUDIO UNIVERSAL
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1755
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Studio_Universal.svg/418px-Studio_Universal.svg.png" group-title="CINE",STUDIO UNIVERSAL 
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15714
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV ⁽ᴴᴰ⁾ ⁽ᵃ⁾" tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/7/75/SundanceTVLA.png/revision/latest?cb=20170623191047&path-prefix=es" group-title="CINE",SUNDANCE TV ⁽ᴴᴰ⁾ ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1756
+
+#EXTINF:-1 tvg-id="" tvg-name="SYFY CHANNEL" tvg-logo="https://sarapanacea.files.wordpress.com/2018/05/logo-syfy.png" group-title="CINE",SYFY CHANNEL
+http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1757
+
+
+
+#EXTM3U
+#EXTINF:-1,Mulan (2020)
+http://vod.tuxchannel.tv/peliculas/720/mulan%202020.mkv
+
+#EXTINF:-1,Greyhound (2020)
+https://iptvgratisdark.live/agos2020/08/516486.mp4
+
+#EXTINF:-1,Bad Boys for Life (2020)
+https://dl.dropboxusercontent.com/s/gben3yxir2o6ngw/SalynPM-SPM2u6p.mp4?dl=0
+
+#EXTINF:-1,En la hierba alta (2019)
+https://dl.dropboxusercontent.com/s/1v7gr8m7theixkl/SalynPM-SPM2d9i.mp4?dl=0
+
+#EXTINF:-1,Misterio a bordo (2019)
+https://dl.dropboxusercontent.com/s/4ueh6fa7jn23vbh/SalynPM-SMP2w9b.mp4?dl=0
+
+#EXTINF:-1,Chicuarotes (2019)
+https://dl.dropboxusercontent.com/s/61kpznhvmzzuzq9/SalynPM-SMP4r8n.mp4?dl=0
+
+#EXTINF:-1,A dos metros de ti (2019)
+https://dl.dropboxusercontent.com/s/lhe2a72quh9dp3q/SalynPM-SPM1k4o.mp4?dl=0
+
+#EXTINF:-1,Doom: Aniquilación (2019)
+https://dl.dropboxusercontent.com/s/dbtfsyxr9joo5sn/SalynPM-SPM6g9a.mp4?dl=0
+
+#EXTINF:-1,Los Descendientes 3 (2019)
+https://dl.dropboxusercontent.com/s/pz4av3wob0e8ga2/SalynPM-SPM6p8e.mp4?dl=0
+
+#EXTINF:-1,LEGO DC: Batman - Asuntos familiares (2019)
+https://dl.dropboxusercontent.com/s/uo4u686vb17xe11/SalynPM-SPM9a5o.mp4?dl=0
+
+#EXTINF:-1,Pokémon: Detective Pikachu (2019)
+https://dl.dropboxusercontent.com/s/wlkpmwt9refz7ct/SalynPM-SPM2q8p.mp4?dl=0
+
+#EXTINF:-1,Shazam (2019)
+https://dl.dropboxusercontent.com/s/n6fb53cl8uii1xw/SalynPM-SPM7x3z.mp4?dl=0
+
+#EXTINF:-1,El niño que domó el viento (2019)
+https://dl.dropboxusercontent.com/s/8y1xjdl5mans1u2/SalynPM-E.Q.D.E.V.mp4?dl=0
+
+#EXTINF:-1,Glass (2019)
+https://dl.dropboxusercontent.com/s/xfiqyci3kr6r81v/SalynPM-Glass.mp4
+
+#EXTINF:-1,No manches Frida 2 (2019)
+https://dl.dropboxusercontent.com/s/czsf3sc58ifdhnh/SalynPM-N.M.F.2.mp4?dl=0
+
+#EXTINF:-1,Escape Room: Sin salida (2019)
+https://dl.dropboxusercontent.com/s/5ojipt68na5d6s9/SalynPM-Escape.room.mp4?dl=0
+
+#EXTINF:-1,Traffik (2019)
+https://dl.dropboxusercontent.com/s/7wuj8sgifapq3ex/SalynPM-T.mp4?dl=0
+
+#EXTINF:-1,Snatchers (2019)
+https://dl.dropboxusercontent.com/s/urw0q2drepsxnnh/SalynPM-SPM9h6z.mp4?dl=0
+
+#EXTINF:-1,Capitana Marvel (2019)
+https://dl.dropboxusercontent.com/s/c8kf20banu7lgst/SalynPM-C.M.mp4?dl=0
+
+#EXTINF:-1,Cementerio maldito (2019)
+https://dl.dropboxusercontent.com/s/k31ibkqe6bob66b/SalynPM-SPM6j7n.mp4?dl=0
+
+#EXTINF:-1,Crypto (2019)
+https://dl.dropboxusercontent.com/s/1r6u9hes16a4g4x/SalynPM-SPM8u8z.mp4?dl=0
+
+#EXTINF:-1,El Rey (2019) NF
+https://dl.dropboxusercontent.com/s/5zanb67kwqjcuke/SalynPM-SPM5m5f.mp4?dl=0
+
+#EXTINF:-1,Eli (2019)
+https://dl.dropboxusercontent.com/s/6jui9n5413xiida/SalynPM-SPM7e6n.mp4?dl=0
+
+#EXTINF:-1,Eliminar amigo 2 (2019)
+https://dl.dropboxusercontent.com/s/eue3cifs8dcx2v8/SalynPM-Unfriended.dark.web.mp4?dl=0
+
+#EXTINF:-1,Godzilla II: El rey de los monstruos (2019)
+https://dl.dropboxusercontent.com/s/g8ddpbc3o6gom2l/SalynPM-SPM4x7g.mp4?dl=0
+
+#EXTINF:-1,Heridas (2019) NF
+https://dl.dropboxusercontent.com/s/28obrwrxze5e77x/SalynPM-SPM3j7v.mp4?dl=0
+
+#EXTINF:-1,Historias de miedo para contar en la oscuridad  (2019)
+https://dl.dropboxusercontent.com/s/mptvqimdijghie9/SalynPM-SPM4a8o.mp4?dl=0
+
+#EXTINF:-1,Ma (2019)
+https://dl.dropboxusercontent.com/s/ap60v4suvwiqa4j/SalynPM-SPM1s9a.mp4?dl=0
+
+#EXTINF:-1,No manches Frida 1 (2019)
+https://dl.dropboxusercontent.com/s/l5s0hsnvok6gwwf/SalynPM-N.M.F.mp4?dl=0
+
+#EXTINF:-1,Serpiente de cascabel  (2019)
+https://dl.dropboxusercontent.com/s/qqg2rrxcxc2spff/SalynPM-SPM2p5w.mp4?dl=0
+
+#EXTINF:-1,Sangre Por Sangre 1993
+https://dl.dropboxusercontent.com/s/ysl7dvfazhszknq/SalynPM-SPM3d5t.mp4?dl=0
+
+#EXTINF:-1,Vaselina 1978
+https://dl.dropboxusercontent.com/s/vichq06j97w7jnm/SalynPM-SPM4p6m.mp4?dl=0
+
+#EXTINF:-1,Tiempos violentos 1994
+https://dl.dropboxusercontent.com/s/k13u8gjm18s856n/SalynPM-SPM8h7l.mp4?dl=0
+
+#EXTINF:-1,Ninfomanía: primera parte 2013
+https://dl.dropboxusercontent.com/s/gq0l9eanrxozxzv/SalynPM-SPM4t3e.mp4?dl=0
+
+#EXTINF:-1,Ninfomanía: segunda parte 2013
+https://dl.dropboxusercontent.com/s/t1t5mm1wg4l6b2b/SalynPM-SPM1t9x.mp4?dl=0
+
+#EXTINF:-1,La teoría del todo 2014
+https://dl.dropboxusercontent.com/s/11ts5lxxiqa0uhq/SalynPM-SPM9x2w.mp4
+
+#EXTINF:-1,Chicos buenos 2019
+https://dl.dropboxusercontent.com/s/ivsoa25l6173ips/SalynPM-SPM5i5z.mp4?dl=0
+
+#EXTINF:-1,Tierra de zombies 2009
+https://dl.dropboxusercontent.com/s/hx0avpivgfcguqk/SalynPM-Zombieland.mp4?dl=0
+
+#EXTINF:-1,Hombres de negro: Internacional 2019
+https://dl.dropboxusercontent.com/s/0hpoqof8gn53cmj/SalynPM-SPM5f2y.mp4?dl=0
+
+#EXTINF:-1,Dumbo 2019
+https://dl.dropboxusercontent.com/s/lgk8cgzeqc2bfxq/SalynPM-Dumbo.mp4?dl=0
+
+#EXTINF:-1,Dora y la ciudad perdida 2019
+https://dl.dropboxusercontent.com/s/f2znzdpcfo01ues/SalynPM-SPM8y1h.mp4?dl=0
+
+#EXTINF:-1,No manches Frida 2 2019
+https://content-na.drive.amazonaws.com/cdproxy/share/xBf2JOWtOpnnhCWtWCAV3Ty3K041EDKRgblsrUqdir8/nodes/rkRLodYHTVCcDofVWbMCyg?nonce=4oyWAIeqTeWAETYsZWutoumgP5aohP_meHKgb-WR6E2uoUFegVQxWhQcucGVVSVH&download=true&ownerId=A1UL3LSS0WHJ1U
+
+#EXTINF:-1,Son como niños 1 2010
+https://content-na.drive.amazonaws.com/cdproxy/share/r0fph6863vCakGFjkkRgXeRW0P2WaFGCDBqoawZuMuU/nodes/52J0kAiLQAq_7iyfJn3BjA?nonce=YkRC4ZYkX_v9EB9yaYnl8n6bJWz8NBEgN-T-66fJm6Jh6O_2jglxH4_5w1uR--OB&download=true&ownerId=A19RVH3N6WX969
+
+#EXTINF:-1,Son como niños 2 2013
+https://content-na.drive.amazonaws.com/cdproxy/share/rcBRqzni4bQyonpjVUHsl1frCiQFFxBuA6yBMAKah7w/nodes/_7ujuEjbSouSrd-QjOFwWg?nonce=ZBDK2FOsCe_TXhAHWhJRGiBhjYhFBFmzCNbiL48o76WmogCKsXFD3wVSSW2zd5rY&download=true&ownerId=A3Q0WPO6WQYJY2
+
+#EXTINF:-1, el demoledor (2012)
+https://dl.dropboxusercontent.com/s/o0nc82mbn2c64qo/SalynPM-SPM1u9z.mp4?dl=0
+
+#EXTINF:-1, Mía... Te la apuesto (2018)
+https://dl.dropboxusercontent.com/s/fv3vz9m21ycie68/5LPN306-18p.mp4?dl=0
+
+#EXTINF:-1, nada (2018)
+https://dl.dropboxusercontent.com/s/oq2hji1oa2b45d8/SalynPM-D.T.N.mp4?dl=0
+
+#EXTINF:-1,¡Hombre al agua! (2018)
+https://dl.dropboxusercontent.com/s/5td3wzcx1buxdu7/SalynPM-Overboard.2018.1080p.mp4?dl=0
+
+#EXTINF:-1,¡Madre!  (2018)
+https://dl.dropboxusercontent.com/s/k5rpsepvtj291fn/SalynPM-Mother.mp4?dl=0
+
+#EXTINF:-1,¿Qué pasó ayer? 1 (2009)
+https://dl.dropboxusercontent.com/s/wmbs73go0wca65e/Qp02pq.mp4?dl=0
+
+#EXTINF:-1,¿Qué pasó ayer? 2 (2011)
+https://dl.dropboxusercontent.com/s/gukualmxgtomaa8/Qp03pq-1.mp4?dl=0
+
+#EXTINF:-1,¿Qué pasó ayer? 3 (2013)
+https://dl.dropboxusercontent.com/s/n1wqewoa2qnhl9f/Qp04pq-1.mp4?dl=0
+
+#EXTINF:-1,¿Y dónde están las rubias? (2004)
+https://dl.dropboxusercontent.com/s/aez9sb22f2vuyve/SalynPM-Y-D.E.L.R.mp4?dl=0
+
+#EXTINF:-1,12 horas para sobrevivir: El inicio (2018)
+https://dl.dropboxusercontent.com/s/n8gdjha9i0gj50m/SalynPM-12.H.P.S.V.mp4?dl=0
+
+#EXTINF:-1,12 Horas Para Sobrevivir: El Año De La Elección (2016)
+https://dl.dropboxusercontent.com/s/cw3h9l3hrnwlnfl/SalynPM-SPM1l3m.mp4?dl=0
+
+#EXTINF:-1,La Noche De La Expiación (2013)
+https://dl.dropboxusercontent.com/s/2l8wtdf1r2pxn57/SalynPM-SPM3n5u.mp4?dl=0
+
+#EXTINF:-1,1922 (2017)
+https://dl.dropboxusercontent.com/s/ube8rp8wyf2pmpl/SalynPM-1922.2017.mp4?dl=0
+
+#EXTINF:-1,Angry Birds: La película (2016)
+https://dl.dropboxusercontent.com/s/794f7b57ukdxl1b/SalynPM-Angry.birds.mp4?dl=0
+
+#EXTINF:-1,Apóstol (2018)
+https://dl.dropboxusercontent.com/s/y6t0ovt61yipjqp/SalynPM-Apostle.2018.mp4?dl=0
+
+#EXTINF:-1,Arrástrame al infierno (2009)
+https://dl.dropboxusercontent.com/s/tcx2292kx8goyix/SalynPM-SPM2o7d.mp4?dl=0
+
+#EXTINF:-1,Bajo la misma estrella (2014)
+https://dl.dropboxusercontent.com/s/8gndbaxqchcwbza/T.F.O.S-SalynPM.mp4?dl=0
+
+#EXTINF:-1,Batman:1 inicia (2005)
+https://dl.dropboxusercontent.com/s/qqfrodn740kwn1b/SalynPM-SPM1c6c.mp4?dl=0
+
+#EXTINF:-1,Bird Box: A ciegas (2018)
+https://dl.dropboxusercontent.com/s/pg99wn42smii60v/SalynPM-Bird.box.mp4?dl=0
+
+#EXTINF:-1,Blackwood  (2018)
+https://dl.dropboxusercontent.com/s/1oguwzzpoqxspu8/SalynPM-Down.a.dark.hall.2018.mp4?dl=0
+
+#EXTINF:-1,Cadáver (2018)
+https://dl.dropboxusercontent.com/s/3dtqyycl8jmnaso/SalynPM-C.mp4?dl=0
+
+#EXTINF:-1,Calles de fuego (1984)
+https://dl.dropboxusercontent.com/s/l6vxch166qlmeaw/SalynPM-SPM9g1u.mp4?dl=0
+
+#EXTINF:-1,Camino hacia el terror (2004)
+https://dl.dropboxusercontent.com/s/02fzrtxsf2rv5o2/SalynPM-SPM2g1o.mp4?dl=0
+
+#EXTINF:-1,Camino hacia el terror 2 (2007)
+https://dl.dropboxusercontent.com/s/n07q1cquifpo72c/SalynPM-SPM7e9x.mp4?dl=0
+
+#EXTINF:-1,Camino hacia el terror 3 (2009)
+https://dl.dropboxusercontent.com/s/3ixyqzlzh51ib9u/SalynPM-SPM1x9i.mp4?dl=0
+
+#EXTINF:-1,Camino hacia el terror 4 (2011)
+https://dl.dropboxusercontent.com/s/4767h79833pr2km/SalynPM-SPM6l9q.mp4?dl=0
+
+#EXTINF:-1,Camino hacia el terror 5 (2013)
+https://dl.dropboxusercontent.com/s/98tsh7hdm9ttc6k/SalynPM-SPM2s8q.mp4?dl=0
+
+#EXTINF:-1,Cementerio de mascotas (1989)
+https://dl.dropboxusercontent.com/s/fpv6gmu0podrrz1/SalynPM-C.D.M.MP4?dl=0
+
+#EXTINF:-1,Cementerio de mascotas 2 (2018)
+https://dl.dropboxusercontent.com/s/drqgqknxrpjd1yl/SalynPM-C.D.M.2.MP4?dl=0
+
+#EXTINF:-1,Chappie (2015)
+https://dl.dropboxusercontent.com/s/qbutl7hvdgft1aa/SalynPM-SPM3m6l.mp4?dl=0
+
+#EXTINF:-1,Christopher Robin: Un reencuentro inolvidable (2018)
+https://dl.dropboxusercontent.com/s/rht2qn00mxakvt8/SalynPM-C.R.mp4
+
+#EXTINF:-1,Conexión Mortal (2017)
+https://dl.dropboxusercontent.com/s/25cmel3tluin0s2/SalynPM-Cell.2016.mp4?dl=0
+
+#EXTINF:-1,Cucuy: The Boogeyman (2018)
+https://dl.dropboxusercontent.com/s/cu2tzromilebw9q/SalynPM-C.El.Boogeyman.mp4?dl=0
+
+#EXTINF:-1,Destino final 2 (2003)
+https://dl.dropboxusercontent.com/s/ofnnl9d1jzejyte/SalynPM-D.F.2.mp4?dl=0
+
+#EXTINF:-1,Destino final 3 (2006)
+https://dl.dropboxusercontent.com/s/7bnrsbxoar9mm30/SalynPM-D.F.3.mp4?dl=0
+
+#EXTINF:-1,Destino final 4 (2009)
+https://dl.dropboxusercontent.com/s/p9hwnlx9vfiw41m/SalynPM-D.F.4.mp4?dl=0
+
+#EXTINF:-1,Destino final 5 (2011)
+https://dl.dropboxusercontent.com/s/ade8w9slc79v3zj/SalynPM-D.F.5.mp4?dl=0
+
+#EXTINF:-1,Doom: La puerta del infierno (2015)
+https://dl.dropboxusercontent.com/s/k9h2ng2o6zluv05/SalynPM-Doom.mp4?dl=0
+
+#EXTINF:-1,El ciempiés humano 2 (2011)
+https://dl.dropboxusercontent.com/s/5atgpxgyor2z5ny/SalynPM-SPM3t1f.mp4?dl=0
+
+#EXTINF:-1,El cuervo (1994)
+https://dl.dropboxusercontent.com/s/3bdpwlme3gz5vj5/SalynPM-SPM3o4e.mp4?dl=0
+
+#EXTINF:-1,El Depredador (2018)
+https://dl.dropboxusercontent.com/s/d4ey4ni8uy4pa7t/SalynPM-The.predator.2018.mp4?dl=0
+
+#EXTINF:-1,El Espanta Tiburones  (2004)
+https://dl.dropboxusercontent.com/s/y0nc1dfxxbykm76/SalynPM-Espanta.mp4?dl=0
+
+#EXTINF:-1,El Expreso Polar  (2004)
+https://dl.dropboxusercontent.com/s/cvu997zuj1th9dn/SalynPM-ExPResP0L4R.mp4?dl=0
+
+#EXTINF:-1,El Grinch (2000)
+https://dl.dropboxusercontent.com/s/vk2qc7jbnmzkcp8/SalynPM-Grinch.2000.mp4?dl=0
+
+#EXTINF:-1,El Hobbit: 1 (2012)
+https://dl.dropboxusercontent.com/s/kedrgbzms1gbq0j/SalynPM-E.H.U.V.I.mp4?dl=0
+
+#EXTINF:-1,El Hobbit: 2 (2013)
+https://dl.dropboxusercontent.com/s/lvanl4sp2fwrrs6/SalynPM-E.H.L.D.D.S.mp4?dl=0
+
+#EXTINF:-1,El Hobbit: 3 (2014)
+https://dl.dropboxusercontent.com/s/7qujsxz4niz9xm5/SalynPM-E.H.L.B.D.L.5.E.mp4?dl=0
+
+#EXTINF:-1,El imperio contraataca (1980)
+https://dl.dropboxusercontent.com/s/8pzz90clwsriwdq/SalynPM-SPM9a8p.mp4?dl=0
+
+#EXTINF:-1,El juego del miedo 1 (2004)
+https://dl.dropboxusercontent.com/s/natkk3kuy6kusoq/SalynPM-SPM7q3r.mp4?dl=0
+
+#EXTINF:-1,El juego del miedo 2 (2005)
+https://dl.dropboxusercontent.com/s/s16so82m7h23z4l/SalynPM-SPM2h3s.mp4?dl=0
+
+#EXTINF:-1,El juego del miedo 3 (2006)
+https://dl.dropboxusercontent.com/s/thx85848lzdodp3/SalynPM-SPM3e3n.mp4?dl=0
+
+#EXTINF:-1,El juego del miedo 5 (2008)
+https://dl.dropboxusercontent.com/s/gompvo9znfyzdi3/SalynPM-SPM6o7n.mp4?dl=0
+
+#EXTINF:-1,El Juego del Miedo 8 (2017)
+https://dl.dropboxusercontent.com/s/vflj0k4u9su8xhw/SalynPM-SPM2m8w.mp4?dl=0
+
+#EXTINF:-1,El legado del diablo (2018)
+https://dl.dropboxusercontent.com/s/3hgulftc05n8kik/SalynPM-E.L.D.D.mp4?dl=0
+
+#EXTINF:-1,El paquete (2018)
+https://dl.dropboxusercontent.com/s/g2dwc5n1gvom49w/SalynPM-The.package.2018.1080p.mp4?dl=0
+
+#EXTINF:-1,El regreso del Jedi (1983)
+https://dl.dropboxusercontent.com/s/4ejcmrlb5ea8swu/SalynPM-SPM7g5v.mp4?dl=0
+
+#EXTINF:-1,El Rito (2011)
+https://dl.dropboxusercontent.com/s/ed2wtovw834sulu/SalynPM-SPM5r5a.mp4?dl=0
+
+#EXTINF:-1,El señor de los anillos: 1 (2001)
+https://dl.dropboxusercontent.com/s/gqd0lh30v7gihzz/SalynPM-E.S.D.L.A.mp4?dl=0
+
+#EXTINF:-1,El señor de los anillos: 2 (2002)
+https://dl.dropboxusercontent.com/s/30uqpg4cfmh9vva/SalynPM-E.S.D.L.A.2.mp4?dl=0
+
+#EXTINF:-1,El señor de los anillos: 3 (2003)
+https://dl.dropboxusercontent.com/s/7mvd2fach205ti5/SalynPM-E.S.D.L.A.3.mp4?dl=0
+
+#EXTINF:-1,El silencio  (2019)
+https://dl.dropboxusercontent.com/s/aqhzuhljyzocnbr/SalynPM-The.silence.mp4?dl=0
+
+#EXTINF:-1,El títere (2007)
+https://dl.dropboxusercontent.com/s/3v5imcn4bkovc8l/SalynPM-Dead%20Silence.mp4?dl=0
+
+#EXTINF:-1,Eliminar amigo (2014)
+https://dl.dropboxusercontent.com/s/ujwxxq1lwo9qclp/SalynPM-Unfriended.mp4?dl=0
+
+#EXTINF:-1,En busca de la felicidad (2006)
+https://dl.dropboxusercontent.com/s/f4d8mrjhz8e4igy/E.B.D.L.F-SalynPM.mp4?dl=0
+
+#EXTINF:-1,Escalofríos (2015)
+https://dl.dropboxusercontent.com/s/ukfj7mlu3ogp1ef/SalynPM-E.Frios.mp4?dl=0
+
+#EXTINF:-1,Escalofríos 2: Una noche embrujada (2018)
+https://dl.dropboxusercontent.com/s/q362hwl8gsm640p/SalynPM-Goosebumps2.mp4?dl=0
+
+#EXTINF:-1,Fiesta de navidad en la oficina (2016)
+https://dl.dropboxusercontent.com/s/ccl1yy0tbdv80eg/SalynPM-F.N.O.mp4?dl=0
+
+#EXTINF:-1,Fragmentado (2016)
+https://dl.dropboxusercontent.com/s/0ao7f678kuk7wr4/SalynPM-5pl17.mp4?dl=0
+
+#EXTINF:-1,Godzilla: El devorador de planetas (2018)
+https://dl.dropboxusercontent.com/s/xr2k278di12cblf/SalynPM-G.E.D.D.P.mp4?dl=0
+
+#EXTINF:-1,Gringo: Se busca vivo o muerto (2018)
+https://dl.dropboxusercontent.com/s/t9ura2zj698wtpm/SalynPM-Gringo.mp4?dl=0
+
+#EXTINF:-1,Han Solo: Una historia de Star Wars (2018)
+https://dl.dropboxusercontent.com/s/xw9yw7hgcb3ctts/SalynPM-H.S.mp4?dl=0
+
+#EXTINF:-1,Han Solo: Una historia de Star Wars (2018)
+https://dl.dropboxusercontent.com/s/299hr9pexp0ctk8/SalynPM-H.S.mp4?dl=0
+
+#EXTINF:-1,Harry Potter 1 (2001)
+https://dl.dropboxusercontent.com/s/gligbt29tryxc3b/SalynPM-H.P.1.mp4?dl=0
+
+#EXTINF:-1,Harry Potter 2 (2002)
+https://dl.dropboxusercontent.com/s/7bso86opwjowozw/SalynPM-H.P.2.mp4?dl=0
+
+#EXTINF:-1,Harry Potter 3 (2004)
+https://dl.dropboxusercontent.com/s/sa9axa49hdipy1o/SalynPM-H.P.3.mp4?dl=0
+
+#EXTINF:-1,Harry Potter 4 (2005)
+https://dl.dropboxusercontent.com/s/zdrj1rkae89e3ut/SalynPM-H.P.4.mp4?dl=0
+
+#EXTINF:-1,Harry Potter 6 (2009)
+https://dl.dropboxusercontent.com/s/qgfrlpyp1yzqmiy/SalynPM-H.P.6.mp4?dl=0
+
+#EXTINF:-1,Harry Potter y las reliquias de la muerte 7 - Parte 1 (2010)
+https://dl.dropboxusercontent.com/s/qn44ohdtwfwy1h3/SalynPM-H.P.7.mp4?dl=0
+
+#EXTINF:-1,Harry Potter y las reliquias de la muerte 8 – Parte 2 (2011)
+https://dl.dropboxusercontent.com/s/1n54lazx90lfv72/SalynPM-H.P.8.mp4?dl=0
+
+#EXTINF:-1,Hell Fest: Juegos diabólicos (2018)
+https://dl.dropboxusercontent.com/s/mq6hgbwz3gec0v4/SalynPM-H.F.18.mp4?dl=0
+
+#EXTINF:-1,Hogar dulce infierno (2015)
+https://dl.dropboxusercontent.com/s/8a01zt5zys2rkcp/SalynPM-SPM8a7j.mp4?dl=0
+
+#EXTINF:-1,Holmes & Watson (2018)
+https://dl.dropboxusercontent.com/s/c54aqc2syzyzpxa/SalynPM-Holmes.and.watson.mp4?dl=0
+
+#EXTINF:-1,Hotel Transylvania 1 (2012)
+https://dl.dropboxusercontent.com/s/pyjn32ivdu2nsmn/Hotel.Transylvania.mp4?dl=0
+
+#EXTINF:-1,Hotel Transylvania 2 (2015)
+https://dl.dropboxusercontent.com/s/b7gkyurmmt610wr/Hotel.transylvania.2.mp4?dl=0
+
+#EXTINF:-1,Hotel Transylvania 3 (2018)
+https://dl.dropboxusercontent.com/s/15wooe59jbibhye/SalynPM.H.T.3.V.M.mp4?dl=0
+
+#EXTINF:-1,In-Actividad Paranormal (2014)
+https://dl.dropboxusercontent.com/s/34ftkx76j8sd5mk/A.Haunted.House.2.2014.bluray-latino-e-ingles-subt.mp4?dl=0
+
+#EXTINF:-1,Ingrid cambia de rumbo (2017)
+https://dl.dropboxusercontent.com/s/r51rmkp2gfg7zmn/SalynPM-Ingrid.mp4?dl=0
+
+#EXTINF:-1,Inquilinos (2018)
+https://dl.dropboxusercontent.com/s/icz7sika1qgx67h/SalynPM-L.I.mp4?dl=0
+
+#EXTINF:-1,John Wick 1 Otro Día Para Matar (2014)
+https://dl.dropboxusercontent.com/s/sam04mfl774yk05/SalynPM-J.W.1.mp4?dl=0
+
+#EXTINF:-1,John Wick 2 Un nuevo día para matar (2017)
+https://dl.dropboxusercontent.com/s/2z6cboyo18dyfvy/SalynPM-J.W.2.mp4?dl=0
+
+#EXTINF:-1,Kingsman: El círculo dorado (2017)
+https://dl.dropboxusercontent.com/s/aqo9jlppn6tuqlo/SalynPM-K.M.2.mp4
+
+#EXTINF:-1,Kingsman: El servicio secreto (2014)
+https://dl.dropboxusercontent.com/s/7cfv45m9ejmogjo/SalynPM-K.M.1.mp4
+
+#EXTINF:-1,Klaus (2019)
+https://dl.dropboxusercontent.com/s/2gp4jee4tfy0upl/SalynPM-SPM4b6k.mp4?dl=0
+
+#EXTINF:-1,Kung Fu Panda 3 (2016)
+https://dl.dropboxusercontent.com/s/67jjiclm8sg9euo/KFP316-18p.mp4?dl=0
+
+#EXTINF:-1,La carrera de la muerte 1 (2008)
+https://dl.dropboxusercontent.com/s/ad5l5v4yhx3e1xj/SalynPM-SPM8j6d.mp4?dl=0
+
+#EXTINF:-1,La carrera de la muerte 2 (2010)
+https://dl.dropboxusercontent.com/s/xzciyw7fwsbg2bd/SalynPM-SPM6l1c.mp4?dl=0
+
+#EXTINF:-1,La carrera de la muerte 3 (2013)
+https://dl.dropboxusercontent.com/s/82c5o2byjgtyjuv/SalynPM-SPM7b3x.mp4?dl=0
+
+#EXTINF:-1,La casa con un reloj en sus paredes (2018)
+https://dl.dropboxusercontent.com/s/6pl8hxupzwfv10a/SalynPM-The.house.with.a.clock.mp4?dl=0
+
+#EXTINF:-1,La cita perfecta (2019) NF
+https://dl.dropboxusercontent.com/s/75lm96hpaygjosg/SalynPM%20-%20SPM1y5i.mp4?dl=0
+
+#EXTINF:-1,La era de hielo: Choque de mundos (2016)
+https://dl.dropboxusercontent.com/s/jgtbr85k9xzictp/SalynPM-Ice.age.collision.course.2016.1080.mp4?dl=0
+
+#EXTINF:-1,La era del hielo: La gran huevo aventura  (2016)
+https://dl.dropboxusercontent.com/s/3mioijkwb1b2nig/SalynPM-EHGHA16-18p.mp4?dl=0
+
+#EXTINF:-1,La guerra de las galaxias (1977)
+https://dl.dropboxusercontent.com/s/1dbg424eufhkwl6/SalynPM-SPM8i6n.mp4?dl=0
+
+#EXTINF:-1,La guerra de los mundos (2005)
+https://dl.dropboxusercontent.com/s/72vv1bdqgqiwlxn/SalynPM-SPM3l6p.mp4?dl=0
+
+#EXTINF:-1,La leyenda de Sleepy Hollow y el Señor Sapo (1949)
+https://dl.dropboxusercontent.com/s/esn5elqr2ymsiz8/SalynPM-SPM5d8z.mp4?dl=0
+
+#EXTINF:-1,La Monja (2018)
+https://dl.dropboxusercontent.com/s/hywnw4dpw1wq2xy/SalynPM-L.M.mp4?dl=0
+
+#EXTINF:-1,La muerte de Superman (2018)
+https://dl.dropboxusercontent.com/s/ij85eeshs0w8ubq/SalynPM-Te.de.of.supman.1080p.mp4?dl=0
+
+#EXTINF:-1,La muñeca vudú (2016)
+https://dl.dropboxusercontent.com/s/l25bcid6j7hlkeu/SalynPM-Worry.dolls.2016.mp4?dl=0
+
+#EXTINF:-1,La navidad de las madres rebeldes (2017)
+https://dl.dropboxusercontent.com/s/dwrxy3i0qoj0vwe/SalynPM-N.M.R.mp4?dl=0
+
+#EXTINF:-1,La noche anterior (2015)
+https://dl.dropboxusercontent.com/s/od8y1mlc4mpfhi4/SalynPM-L.N.A.mp4?dl=0
+
+#EXTINF:-1,La noche de Halloween (2018)
+https://dl.dropboxusercontent.com/s/4xgf0z3ie9pzkt9/SalynPM-H4LL0W3N.mp4?dl=0
+
+#EXTINF:-1,La noche de la expiación (2013)
+https://dl.dropboxusercontent.com/s/57a388o5glw62gt/SalynPM-SPM5z4a.mp4?dl=0
+
+#EXTINF:-1,La posesion de deborah logan (2004)
+https://dl.dropboxusercontent.com/s/x9h2el46rhbf3rr/DeboRaLogan.MP4?dl=0
+
+#EXTINF:-1,La razón de estar contigo  (2006)
+https://dl.dropboxusercontent.com/s/qga7cwijfr4eua2/SalynPM-SPM7s3g.mp4?dl=0
+
+#EXTINF:-1,La vida secreta de tus mascotas (2016)
+https://dl.dropboxusercontent.com/s/lsy12vzgk66ag3r/SalynPM-The.secret.life.mp4?dl=0
+
+#EXTINF:-1,Las crónicas de Navidad (2018)
+https://dl.dropboxusercontent.com/s/hyg3xat44enm0bv/SalynPM-C.D.N.mp4?dl=0
+
+#EXTINF:-1,Loca por el trabajo (2018)
+https://dl.dropboxusercontent.com/s/de7d942fv1ssyir/SalynPM-L.P.E.T.mp4?dl=0
+
+#EXTINF:-1,Los colegas del barrio (1996)
+https://dl.dropboxusercontent.com/s/6c8zmjjlig18mvm/SalynPM-SPM8d8x.mp4?dl=0
+
+#EXTINF:-1,Los Croods (2013)
+https://dl.dropboxusercontent.com/s/9e1n97k8t51mx11/The.Cro0ds.2013.bluray.hdduallat.mp4?dl=0
+
+#EXTINF:-1,Los descendientes (2015)
+https://dl.dropboxusercontent.com/s/l3gpmu2taw1rt2f/SalynPM-Descendants.mp4?dl=0
+
+#EXTINF:-1,Luna de miel en familia (2014)
+https://dl.dropboxusercontent.com/s/kasv0kqfdgexyho/SalynPM-B.mp4?dl=0
+
+#EXTINF:-1,Malicious: En el vientre del diablo (2018)
+https://dl.dropboxusercontent.com/s/uy8hu5djsoz9bd3/SalynPM-M.mp4?dl=0
+
+#EXTINF:-1,Mandy (2019)
+https://dl.dropboxusercontent.com/s/lweqwsni44xdtoe/SalynPM-M.mp4?dl=0
+
+#EXTINF:-1,Máquinas Mortales (2018)
+https://dl.dropboxusercontent.com/s/h805vwjh2pp3elb/SalynPM-M.M.mp4?dl=0
+
+#EXTINF:-1,Matrix 2 recargado (2003)
+https://dl.dropboxusercontent.com/s/urcbgdre1fibju1/SalynPM-SPM1d9p.mp4?dl=0
+
+#EXTINF:-1,Matrix 3 Revoluciones (2003)
+https://dl.dropboxusercontent.com/s/7x639wrubob88ji/SalynPM-SPM6t5m.mp4?dl=0
+
+#EXTINF:-1,Mi papá es un gato (2016)
+https://dl.dropboxusercontent.com/s/3wj3jsew0xwx2da/SalynPM-Nine.lives.2016.mp4?dl=0
+
+#EXTINF:-1,Monster House: La casa de los sustos  (2006)
+https://dl.dropboxusercontent.com/s/0r7g3y9odoysu0r/SalynPM-SPM2t8r.mp4?dl=0
+
+#EXTINF:-1,Nacido para ser rey (2019)
+https://dl.dropboxusercontent.com/s/7zdcldyl9ad69be/SalynPM-The.kid.who.would.be.king.mp4?dl=0
+
+#EXTINF:-1,Nación asesina (2018)
+https://dl.dropboxusercontent.com/s/1a69lszel1wkvn1/SalynPM-A.N.mp4?dl=0
+
+#EXTINF:-1,No dejes de mirar (2017)
+https://dl.dropboxusercontent.com/s/3at0fxmmglr9li9/SalynPM-N.D.D.M.mp4?dl=0
+
+#EXTINF:-1,Paddington 1 (2014)
+https://dl.dropboxusercontent.com/s/i2dnitld1ys6q8b/SalynPM-SPM4d1n.mp4?dl=0
+
+#EXTINF:-1,Paddington 2 (2019)
+https://dl.dropboxusercontent.com/s/2mky7z0vpayuk4p/SalynPM-SPM2q6t.mp4?dl=0
+
+#EXTINF:-1,Pesadilla en el infierno (2018)
+https://dl.dropboxusercontent.com/s/7vpro8lqhhqbik0/SalynPM-G.mp4?dl=0
+
+#EXTINF:-1,Pixels (2015)
+https://dl.dropboxusercontent.com/s/47dw19fbbittdrj/SalynPM-Pix3ls.mp4?dl=0
+
+#EXTINF:-1,Pokémon la película: ¡Yo te elijo!  (2017)
+https://dl.dropboxusercontent.com/s/r7wqpio7wicyjot/SalynPM-Poke.movie.i.choose.you.2017.1080p.mp4?dl=0
+
+#EXTINF:-1,Rápido y furioso 1 (2001)
+https://dl.dropboxusercontent.com/s/wipykhmxbmp1ux0/SalynPM-SPM3e7p.mp4?dl=0
+
+#EXTINF:-1,Rápido y furioso 2 (2003)
+https://dl.dropboxusercontent.com/s/dlxsubwqck2hbal/SalynPM-SPM7bz.mp4?dl=0
+
+#EXTINF:-1,Resident Evil 1: El huésped maldito (2002)
+https://dl.dropboxusercontent.com/s/u6cvi51sg11y7ue/SalynPM-R.E.1.mp4?dl=0
+
+#EXTINF:-1,Resident Evil 2: Apocalipsis (2004)
+https://dl.dropboxusercontent.com/s/g3m9g096g69gdq8/SalynPM-R.E.A.mp4?dl=0
+
+#EXTINF:-1,Resident Evil 3: La extinción (1994)
+https://dl.dropboxusercontent.com/s/no381sp6cshn9as/SalynPM-R.E.E.mp4?dl=0
+
+#EXTINF:-1,Resident Evil 4: La resurrección (2010)
+https://dl.dropboxusercontent.com/s/c5utky0vbxf4d1t/SalynPM-R.E.L.R.mp4?dl=0
+
+#EXTINF:-1,Resident Evil 5: Venganza (2012)
+https://dl.dropboxusercontent.com/s/shc98tvnyc244ki/SalynPM-R.E.L.V.mp4?dl=0
+
+#EXTINF:-1,Resident Evil 6: Capítulo final (2016)
+https://dl.dropboxusercontent.com/s/i4fgi765qhu6yoq/SalynPM-R.E.C.F.mp4?dl=0
+
+#EXTINF:-1,Resident Evil: Degeneración (2008)
+https://dl.dropboxusercontent.com/s/zp292o868nh1txl/SalynPM-R.E.Deg.mp4?dl=0
+
+#EXTINF:-1,Resident Evil: Infierno (2012)
+https://dl.dropboxusercontent.com/s/2cj5wuvpe0ttukk/SalynPM-R.E.D.mp4?dl=0
+
+#EXTINF:-1,Resident Evil: Vendetta (2017)
+https://dl.dropboxusercontent.com/s/sx2qtas8k52hqr6/SalynPM-R.E.V.mp4?dl=0
+
+#EXTINF:-1,Rogue One: Una historia de Star Wars (2016)
+https://dl.dropboxusercontent.com/s/kyw3jvivl25nc4o/SalynPM-SPM2i6v.mp4?dl=0
+
+#EXTINF:-1,Scre4m 4 (2001)
+https://dl.dropboxusercontent.com/s/4xd6bsrwflgac3e/5C934M4.1080p.mp4?dl=0
+
+#EXTINF:-1,Scream 1 (1986)
+https://dl.dropboxusercontent.com/s/l5ib7m63g1w1ypo/Scrm96-18pl4T.mp4?dl=0
+
+#EXTINF:-1,Scream 2 (1997)
+https://dl.dropboxusercontent.com/s/qcfxj73odjtrxcf/Scream%202%201997.MP4?dl=0
+
+#EXTINF:-1,Shrek 2 (2004)
+https://dl.dropboxusercontent.com/s/ityoodit9ly3mgg/SalynPM-S.2.mp4?dl=0
+
+#EXTINF:-1,Shrek 3 (2007)
+https://dl.dropboxusercontent.com/s/lyxljnsfkg6cjr7/SalynPM-S.3.mp4?dl=0
+
+#EXTINF:-1,Shrek 4 (2010)
+https://dl.dropboxusercontent.com/s/mkcb2x4xfnios5e/SalynPM-S.4.mp4?dl=0
+
+#EXTINF:-1,Spider-Man: Un nuevo universo (2018)
+https://dl.dropboxusercontent.com/s/c3rzd0ub2stohz3/SalynPM-S.V.mp4?dl=0
+
+#EXTINF:-1,Star Wars: El despertar de la Fuerza (2015)
+https://dl.dropboxusercontent.com/s/f9ebeuwxl79vg1g/SalynPM-SPM9l4s.mp4?dl=0
+
+#EXTINF:-1,Star wars: Episodio I - La amenaza fantasma (1999)
+https://dl.dropboxusercontent.com/s/zocehzdpch7epmr/SalynPM-SPM1m2t.mp4?dl=0
+
+#EXTINF:-1,Star Wars: Episodio II - El ataque de los clones (2002)
+https://dl.dropboxusercontent.com/s/cj0ogf7jv5rtra9/SalynPM-SPM3z1t.mp4
+
+#EXTINF:-1,Star wars: Episodio III - La venganza de los sith (2005)
+https://dl.dropboxusercontent.com/s/fmd371imnz8afep/SalynPM-SPM1p1k.mp4?dl=0
+
+#EXTINF:-1,Steven Universe: La película (2019)
+https://dl.dropboxusercontent.com/s/vdiqo0vn2tyodvd/SalynPM-SPM2a2l.mp4?dl=0
+
+#EXTINF:-1,Tadeo Jones 2: El secreto del Rey Midas (2018)
+https://dl.dropboxusercontent.com/s/i2wygd19lal52ln/SalynPM-Tadeo.jones.2.mp4?dl=0
+
+#EXTINF:-1,Teen Titans Go! La película (2018)
+https://dl.dropboxusercontent.com/s/v5qww1l2ixmxze5/SalynPM-Teen.titans.go.the.movie.2018.mp4?dl=0
+
+#EXTINF:-1,Terminator 1: El exterminador (1983)
+https://dl.dropboxusercontent.com/s/oj7v33bebaziyhi/SalynPM-SPM1s8s.mp4?dl=0
+
+#EXTINF:-1,Terminator 3: La rebelión de las máquinas (2003)
+https://dl.dropboxusercontent.com/s/99zuuhknomxz90t/SalynPM-SPM7w9q.mp4?dl=0
+
+#EXTINF:-1,Terror en Silent Hill (2006)
+https://dl.dropboxusercontent.com/s/r690u764lj5sn4f/SalynPM-S.H.mp4?dl=0
+
+#EXTINF:-1,Terror en Silent Hill 2: La revelación (2012)
+https://dl.dropboxusercontent.com/s/q61mdvd1ebdi0zh/SalynPM-S.H.2.mp4?dl=0
+
+#EXTINF:-1,The Domestics (2018)
+https://dl.dropboxusercontent.com/s/jl9fl2p8iqa6dze/The.domestics.2018.mp4?dl=0
+
+#EXTINF:-1,Tom y Jerry: El cuento de Cascanueces (2007)
+https://dl.dropboxusercontent.com/s/hokwj54g5xrbf5e/SalynPM-T.A.J.E.E.C.mp4?dl=0
+
+#EXTINF:-1,Toy Story 1 (1995)
+https://dl.dropboxusercontent.com/s/sqlabqu4wmlj8rh/SalynPM-T.S.1.mp4?dl=0
+
+#EXTINF:-1,Toy Story 2 (1999)
+https://dl.dropboxusercontent.com/s/r9f1djbxpjjb1sv/SalynPM-T.S.2.mp4?dl=0
+
+#EXTINF:-1,Una noche en el museo (2006)
+https://dl.dropboxusercontent.com/s/463ahyhwmsj9d5q/SalynPM-U.N.E.E.M.mp4?dl=0
+
+#EXTINF:-1,Una noche en el museo 2: la batalla del Smithsoniano (2009)
+https://dl.dropboxusercontent.com/s/1k21pkk3ka082l5/SalynPM-U.N.E.E.M.2.mp4?dl=0
+
+#EXTINF:-1,Unplanned (2019)
+https://dl.dropboxusercontent.com/s/vry02h70880qjkt/SalynPM-SPM4d6g.mp4?dl=0
+
+#EXTINF:-1,Vacas vaqueras
+https://dl.dropboxusercontent.com/s/ctk5uzbj7x3rw8v/SalynPM-V.V.mp4?dl=0
+
+#EXTINF:-1,Velvet Buzzsaw (2019)
+https://dl.dropboxusercontent.com/s/z5g9xhsc1g90gna/SalynPM-V.B.mp4
+
+#EXTINF:-1,Venganza del más allá (2017)
+https://dl.dropboxusercontent.com/s/xf5v4psji8jd80t/SalynPM-Revenge.mp4?dl=0
+
+#EXTINF:-1,Venom (2018)
+https://dl.dropboxusercontent.com/s/tbojpd1d4tittem/SalynPM-V2.mp4?dl=0
+
+#EXTINF:-1,Verano del 84 (1995)
+https://dl.dropboxusercontent.com/s/go182wadn2kcuy3/SalynPM-Summer.of.84.mp4?dl=0
+
+#EXTINF:-1,Verdad o Reto (2018)
+https://dl.dropboxusercontent.com/s/dyea628y6qn0bmt/SalynPM-V.O.R.18.mp4?dl=0
+
+#EXTINF:-1,Victor Frankenstein (2015)
+https://dl.dropboxusercontent.com/s/lam750xoajf1uo7/SalynPM-Victor.Frank.mp4?dl=0
+
+#EXTINF:-1,Volver al futuro 3 (1990)
+https://dl.dropboxusercontent.com/s/2pkc54ncakpumg4/SalynPM-VALFT3-18p.mp4?dl=0
+
+#EXTINF:-1,WALL·E (2008)
+https://dl.dropboxusercontent.com/s/n8r4p0vk12q2p7v/SalynPM-Wall.E.mp4?dl=0
+
+#EXTINF:-1,Yo soy Simón (2018)
+https://dl.dropboxusercontent.com/s/s6xpfin40mjgxze/SalynPM-Love.simon.2018.1080p.mp4?dl=0
+
+#EXTINF:-1,Zootopia (2016)
+https://dl.dropboxusercontent.com/s/fezzhlyasrxkzax/SalynPM-Zootopia.mp4?dl=0

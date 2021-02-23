@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , DISCOVERY IDD
 http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
 #EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , PEQUERADIO

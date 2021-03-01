@@ -1,508 +1,645 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , REINO INFANTIL 24/7
-http://ipeteve.com/php/y.php?v=WzyeiiVQa_A&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , DISCOVERY IDD
-http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , PEQUERADIO
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , RT ESPANOL
-https://rt-esp.secure.footprint.net/1102.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , FRANCE 24
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , DW ESPANOL
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , WEATHER USA
-https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , MILENIO
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , CNC CHINA
-https://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , TELEMUNDO NOVELAS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , FOROTV
-https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , VIBETV
-https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , CANAL ONCE
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , QUIERO TV
-https://quierotvlive.tk/httplive/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , TELEPLAY
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , NET TV
-https://unlimited8-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , MULTIVISION ARG
-https://panel.dattalive.com/8250/8250/.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , TEC TV
-http://g5.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , NEXTV
-http://198.1.123.99:1935/live/myStream/.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , GARAGETV
-http://186.0.233.76:1935/Garage/garage.smil/.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , A3CINE
-http://stream.pcriot.com/ZyH3/a3.php/a3cine-index.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , PLUTO
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&deviceVersion=87.0.4280.141&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&deviceType=web&deviceMake=Chrome&sid=e468c450-5c67-11eb-a30a-0242ac110002&advertisingId=&deviceLat=25.6449&deviceLon=-100.3110&deviceDNT=0&deviceModel=web&userId=&appName=web
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , PLUTO TERROR
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=9f61&deviceDNT=0&deviceModel=0
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , LOCOMOTION
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , CACHIPUM TV
-https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , KDE TV
-http://207.246.84.143:8080/hls/Kanade.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , TOROS
-http://stream.pcriot.com/ZyH3/toros.php/index.mpd
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , TOP LATINO
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , MIAMI LATINO
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/.m3u8
 
-#EXTINF:-1, LOCOMOTION
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1, AZTECA 7
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=1_&f=.m3u8
-#EXTINF:-1, CANAL 5
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=2_&f=.m3u8
-#EXTINF:-1, TUDN
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=3_&f=.m3u8
-#EXTINF:-1, LATINA
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=4_&f=.m3u8
-#EXTINF:-1, AMERICA TV
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=5_&f=.m3u8
-#EXTINF:-1, GOL PERU
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=6_&f=.m3u8
-#EXTINF:-1, GOL TV
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=7_&f=.m3u8
-#EXTINF:-1, WIN SPORTS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=8_&f=.m3u8
-#EXTINF:-1, TNT SPORTS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=9_&f=.m3u8
-#EXTINF:-1, FOX SPORTS PREMIUM
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=10_&f=.m3u8
-#EXTINF:-1, TYC SPORTS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=11_&f=.m3u8
-#EXTINF:-1, FOX SPORTS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=12_&f=.m3u8
-#EXTINF:-1, FOX SPORTS 2
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=13_&f=.m3u8
-#EXTINF:-1, FOX SPORTS 3
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=14_&f=.m3u8
-#EXTINF:-1, ESPN DEPORTES
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=15_&f=.m3u8
-#EXTINF:-1, ESPN EXTRA
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=16_&f=.m3u8
-#EXTINF:-1, ESPN
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=17_&f=.m3u8
-#EXTINF:-1, ESPN 2
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=18_&f=.m3u8
-#EXTINF:-1, ESPN 3
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=19_&f=.m3u8
-#EXTINF:-1, DIRECTV SPORTS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=20_&f=.m3u8
-#EXTINF:-1, DIRECTV SPORTS 2
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=21_&f=.m3u8
-#EXTINF:-1, DIRECTV SPORTS +
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=22_&f=.m3u8
-#EXTINF:-1, BEIN SPORTS Ñ
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=23_&f=.m3u8
-#EXTINF:-1, FOX SPORTS MX
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=24_&f=.m3u8
-#EXTINF:-1, FOX SPORTS 2 MX
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=25_&f=.m3u8
-#EXTINF:-1, FOX SPORTS 3 MX
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=26_&f=.m3u8
-#EXTINF:-1, ESPN 2 MX
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=27_&f=.m3u8
-#EXTINF:-1, ESPN MX
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=28_&f=.m3u8
-#EXTINF:-1, ESPN 3 MX
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=29_&f=.m3u8
-#EXTINF:-1, AFIZZIONADOS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=30_&f=.m3u8
-#EXTINF:-1, HBO
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=31_&f=.m3u8
-#EXTINF:-1, HBO 2
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=32_&f=.m3u8
-#EXTINF:-1, HBO +
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=33_&f=.m3u8
-#EXTINF:-1, HBO FAMILY
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=34_&f=.m3u8
-#EXTINF:-1, HBO XTREME
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=35_&f=.m3u8
-#EXTINF:-1, HBO POP
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=36_&f=.m3u8
-#EXTINF:-1, FOX ACTION
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=37_&f=.m3u8
-#EXTINF:-1, FOX SERIES
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=38_&f=.m3u8
-#EXTINF:-1, SPACE
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=39_&f=.m3u8
-#EXTINF:-1, WARNER
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=40_&f=.m3u8
-#EXTINF:-1, TNT
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=41_&f=.m3u8
-#EXTINF:-1, FOX CHANNEL
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=42_&f=.m3u8
-#EXTINF:-1, CINEMAX
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=43_&f=.m3u8
-#EXTINF:-1, CINECANAL
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=44_&f=.m3u8
-#EXTINF:-1, TELEFE
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=45_&f=.m3u8
-#EXTINF:-1, EL TRECE
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=46_&f=.m3u8
-#EXTINF:-1, DISTRITO COMEDIA
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=47_&f=.m3u8
-#EXTINF:-1, TELEMUNDO
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=48_&f=.m3u8
-#EXTINF:-1, HISTORY
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=49_&f=.m3u8
-#EXTINF:-1, H2
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=50_&f=.m3u8
-#EXTINF:-1, PASIONES
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=51_&f=.m3u8
-#EXTINF:-1, AZTECA UNO
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=52_&f=.m3u8
-#EXTINF:-1, AZTECA MUNDO
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=53_&f=.m3u8
-#EXTINF:-1, AZTECA CINEMA
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=54_&f=.m3u8
-#EXTINF:-1, GALAVISION
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=55_&f=.m3u8
-#EXTINF:-1, TLNOVELAS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=56_&f=.m3u8
-#EXTINF:-1, CANAL DE LAS ESTRELLAS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=57_&f=.m3u8
-#EXTINF:-1, SYFY
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=58_&f=.m3u8
-#EXTINF:-1, CARACOL TV
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=59_&f=.m3u8
-#EXTINF:-1, TVC
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=60_&f=.m3u8
-#EXTINF:-1, ATV
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=61_&f=.m3u8
-#EXTINF:-1, UNIVISION
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=62_&f=.m3u8
-#EXTINF:-1, UNICABLE
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=63_&f=.m3u8
-#EXTINF:-1, UNIMAS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=64_&f=.m3u8
-#EXTINF:-1, IMAGEN TV
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=65_&f=.m3u8
-#EXTINF:-1, CNN Ñ
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=66_&f=.m3u8
-#EXTINF:-1, RT Ñ
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=67_&f=.m3u8
-#EXTINF:-1, FOX MOVIES
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=68_&f=.m3u8
-#EXTINF:-1, FOX FAMILY
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=69_&f=.m3u8
-#EXTINF:-1, FX
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=70_&f=.m3u8
-#EXTINF:-1, FXM
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=71_&f=.m3u8
-#EXTINF:-1, FOX LIFE
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=72_&f=.m3u8
-#EXTINF:-1, GOLDEN +
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=73_&f=.m3u8
-#EXTINF:-1, GOLDEN EDGE
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=74_&f=.m3u8
-#EXTINF:-1, GOLDEN PREMIER
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=75_&f=.m3u8
-#EXTINF:-1, TNT SERIES
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=76_&f=.m3u8
-#EXTINF:-1, SONY
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=77_&f=.m3u8
-#EXTINF:-1, AXN
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=78_&f=.m3u8
-#EXTINF:-1, UNIVERSAL CHANNEL
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=79_&f=.m3u8
-#EXTINF:-1, SINCANAL03
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=80_&f=.m3u8
-#EXTINF:-1, MULTI PREMIER
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=81_&f=.m3u8
-#EXTINF:-1, AMC
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=82_&f=.m3u8
-#EXTINF:-1, PARAMOUNT
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=83_&f=.m3u8
-#EXTINF:-1, CINE LATINO
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=84_&f=.m3u8
-#EXTINF:-1, DE PELICULA +
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=85_&f=.m3u8
-#EXTINF:-1, I SAT
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=86_&f=.m3u8
-#EXTINF:-1, MTV
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=87_&f=.m3u8
-#EXTINF:-1, MTV HITS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=88_&f=.m3u8
-#EXTINF:-1, HTV
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=89_&f=.m3u8
-#EXTINF:-1, BANDAMAX
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=90_&f=.m3u8
-#EXTINF:-1, COMEDY CENTRAL
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=91_&f=.m3u8
-#EXTINF:-1, NAT GEO
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=92_&f=.m3u8
-#EXTINF:-1, NAT GEO 2
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=93_&f=.m3u8
-#EXTINF:-1, ANIMAL PLANET
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=94_&f=.m3u8
-#EXTINF:-1, DISCOVERY CHANNEL
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=95_&f=.m3u8
-#EXTINF:-1, DISCOVERY TURBO
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=96_&f=.m3u8
-#EXTINF:-1, DISCOVERY H&H
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=97_&f=.m3u8
-#EXTINF:-1, DISCOVERY ID
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=98_&f=.m3u8
-#EXTINF:-1, A&E
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=99_&f=.m3u8
-#EXTINF:-1, DISCOVERY TLC
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=100_&f=.m3u8
-#EXTINF:-1, DISCOVERY THEATER
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=101_&f=.m3u8
-#EXTINF:-1, DISCOVERY WORLD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=102_&f=.m3u8
-#EXTINF:-1, E!
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=103_&f=.m3u8
-#EXTINF:-1, LIFETIME
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=104_&f=.m3u8
-#EXTINF:-1, TBS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=105_&f=.m3u8
-#EXTINF:-1, GOURMET
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=106_&f=.m3u8
-#EXTINF:-1, DISNEY CHANNEL
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=107_&f=.m3u8
-#EXTINF:-1, DISNEY XD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=108_&f=.m3u8
-#EXTINF:-1, DISNEY JR
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=109_&f=.m3u8
-#EXTINF:-1, NICK
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=110_&f=.m3u8
-#EXTINF:-1, NICK MUSIC
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=111_&f=.m3u8
-#EXTINF:-1, NICK JR
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=112_&f=.m3u8
-#EXTINF:-1, NICK MUSIC 2
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=113_&f=.m3u8
-#EXTINF:-1, CARTOON NETWORK
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=114_&f=.m3u8
-#EXTINF:-1, BOOMERANG
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=115_&f=.m3u8
-#EXTINF:-1, TOONCAST
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=116_&f=.m3u8
-#EXTINF:-1, DISCOVERY KIDS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=117_&f=.m3u8
-#EXTINF:-1, NAT GEO KIDS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=118_&f=.m3u8
-#EXTINF:-1, SINCANAL04
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=119_&f=.m3u8
-#EXTINF:-1, VH1
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=120_&f=.m3u8
-#EXTINF:-1, MTV CLASSICS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=121_&f=.m3u8
-#EXTINF:-1, TELEHIT MUSIC
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=122_&f=.m3u8
-#EXTINF:-1, TOP LATINO
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=123_&f=.m3u8
-#EXTINF:-1, NBA TV
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=125_&f=.m3u8
-#EXTINF:-1, ADN40
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=127_&f=.m3u8
-#EXTINF:-1, SINCANAL05
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=128_&f=.m3u8
-#EXTINF:-1, TERROR
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=129_&f=.m3u8
-#EXTINF:-1, SINCANAL06
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=130_&f=.m3u8
-#EXTINF:-1, SINCANAL07
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=131_&f=.m3u8
-#EXTINF:-1, ONCE NIÑOS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=132_&f=.m3u8
-#EXTINF:-1, FOX COMEDY
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=133_&f=.m3u8
-#EXTINF:-1, MLB NETWORK
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=134_&f=.m3u8
-#EXTINF:-1, HOLATV
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=136_&f=.m3u8
-#EXTINF:-1, TRUTV
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=137_&f=.m3u8
-#EXTINF:-1, FOX ACTION
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=138_&f=.m3u8
-#EXTINF:-1, FOX CLASSICS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=139_&f=.m3u8
-#EXTINF:-1, WIN SPORTS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=140_&f=.m3u8
-#EXTINF:-1, SINCANAL08
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=141_&f=.m3u8
-#EXTINF:-1, UNIVERSO
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=142_&f=.m3u8
-#EXTINF:-1, FOROTV
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=143_&f=.m3u8
-#EXTINF:-1, SINCANAL08
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=145_&f=.m3u8
-#EXTINF:-1, SOUTH PARK
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=146_&f=.m3u8
-#EXTINF:-1, NBC NEW YORK
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=147_&f=.m3u8
-#EXTINF:-1, ESPN U
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=148_&f=.m3u8
-#EXTINF:-1, HBO MUNDI
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=149_&f=.m3u8
-#EXTINF:-1, CHAVO DEL 8
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=150_&f=.m3u8
-#EXTINF:-1, NFL NETWORK
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=151_&f=.m3u8
-#EXTINF:-1, TCM
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=152_&f=.m3u8
-#EXTINF:-1, WILLAX
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=153_&f=.m3u8
-#EXTINF:-1, NHL NETWORK USA
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=154_&f=.m3u8
-#EXTINF:-1, TIGO SPORTS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=201_&f=.m3u8
-#EXTINF:-1, SINCANAL09
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=202_&f=.m3u8
-#EXTINF:-1, AZTECA 7 HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=203_&f=.m3u8
-#EXTINF:-1, TUDN HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=205_&f=.m3u8
-#EXTINF:-1, AMERICA TV 
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=206_&f=.m3u8
-#EXTINF:-1, HBO HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=207_&f=.m3u8
-#EXTINF:-1, HBO 2 HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=208_&f=.m3u8
-#EXTINF:-1, HBO FAMILY HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=210_&f=.m3u8
-#EXTINF:-1, HBO SIGNATURE
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=211_&f=.m3u8
-#EXTINF:-1, HBO MUNDI
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=212_&f=.m3u8
-#EXTINF:-1, HBO XTREME
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=213_&f=.m3u8
-#EXTINF:-1, TNT HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=214_&f=.m3u8
-#EXTINF:-1, CINEMAX HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=215_&f=.m3u8
-#EXTINF:-1, SPACE HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=216_&f=.m3u8
-#EXTINF:-1, AXN HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=217_&f=.m3u8
-#EXTINF:-1, FX HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=221_&f=.m3u8
-#EXTINF:-1, WWE TV
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=222_&f=.m3u8
-#EXTINF:-1, CINECANAL
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=223_&f=.m3u8
-#EXTINF:-1, FOX ACTION HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=224_&f=.m3u8
-#EXTINF:-1, GOLDEN PREMIER HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=225_&f=.m3u8
-#EXTINF:-1, GOLDEN EDGE HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=226_&f=.m3u8
-#EXTINF:-1, NAT GEO WILD HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=227_&f=.m3u8
-#EXTINF:-1, DISCOVERY CHANNEL HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=228_&f=.m3u8
-#EXTINF:-1, H&H HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=229_&f=.m3u8
-#EXTINF:-1, DISCOVERY SCIENCE HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=230_&f=.m3u8
-#EXTINF:-1, DISCOVERY WORLD HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=231_&f=.m3u8
-#EXTINF:-1, DISCOVERY THEATER HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=232_&f=.m3u8
-#EXTINF:-1, DISCOVERY ID HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=233_&f=.m3u8
-#EXTINF:-1, HISTORY HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=234_&f=.m3u8
-#EXTINF:-1, H2 HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=235_&f=.m3u8
-#EXTINF:-1, LAS ESTRELLAS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=236_&f=.m3u8
-#EXTINF:-1, FOX CINEMA HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=237_&f=.m3u8
-#EXTINF:-1, GALAVISION HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=238_&f=.m3u8
-#EXTINF:-1, FOX SPORTS HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=239_&f=.m3u8
-#EXTINF:-1, FOX SPORTS 2 HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=240_&f=.m3u8
-#EXTINF:-1, FOX SPORTS 3 HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=241_&f=.m3u8
-#EXTINF:-1, ESPN HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=243_&f=.m3u8
-#EXTINF:-1, ESPN 3 HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=244_&f=.m3u8
-#EXTINF:-1, FOX SPORTS SUR HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=246_&f=.m3u8
-#EXTINF:-1, FOX SPORTS 2 SUR HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=247_&f=.m3u8
-#EXTINF:-1, FOX SPORTS 3 SUR HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=248_&f=.m3u8
-#EXTINF:-1, ESPN HD SUR
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=249_&f=.m3u8
-#EXTINF:-1, ESPN 3 HD SUR
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=250_&f=.m3u8
-#EXTINF:-1, SINCANALHD01
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=251_&f=.m3u8
-#EXTINF:-1, DHE
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=253_&f=.m3u8
-#EXTINF:-1, TNTSPORTS HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=254_&f=.m3u8
-#EXTINF:-1, FOX SPORTS PREMIUM HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=255_&f=.m3u8
-#EXTINF:-1, DIRECTV SPORTS HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=256_&f=.m3u8
-#EXTINF:-1, DIRECTV SPORTS 2 HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=257_&f=.m3u8
-#EXTINF:-1, DIRECTV SPORTS + HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=258_&f=.m3u8
-#EXTINF:-1, CARACOL HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=259_&f=.m3u8
-#EXTINF:-1, WIN SPORTS +
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=261_&f=.m3u8
-#EXTINF:-1, SONY HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=263_&f=.m3u8
-#EXTINF:-1, AMC HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=264_&f=.m3u8
-#EXTINF:-1, PARAMOUNT HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=265_&f=.m3u8
-#EXTINF:-1, FOX MOVIES HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=266_&f=.m3u8
-#EXTINF:-1, TEEN NICK
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=268_&f=.m3u8
-#EXTINF:-1, CARTOON NETWORK HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=269_&f=.m3u8
-#EXTINF:-1, DISNEY CHANNEL HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=270_&f=.m3u8
-#EXTINF:-1, ANIMAL PLANET HD
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=272_&f=.m3u8
-#EXTINF:-1, LA UNO
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=328_&f=.m3u8
-#EXTINF:-1, LA DOS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=329_&f=.m3u8
-#EXTINF:-1, TDP
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=330_&f=.m3u8
-#EXTINF:-1, 24H
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=331_&f=.m3u8
-#EXTINF:-1, ANTENA 3
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=332_&f=.m3u8
-#EXTINF:-1, LA SEXTA
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=333_&f=.m3u8
-#EXTINF:-1, MOVISTAR ACCION
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=337_&f=.m3u8
-#EXTINF:-1, MOVISTAR ESTRENOS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=338_&f=.m3u8
-#EXTINF:-1, MOVISTAR FORMULA 1
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=339_&f=.m3u8
-#EXTINF:-1, MOVISTAR LA LIGA
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=350_&f=.m3u8
-#EXTINF:-1, TOROS
-http://ipeteve.com/php/SR_REGIO270221/smartv2.php?c=352_&f=.m3u8
+
+#EXTINF:-1 tvg-logo="/logos/tntsports.png" group-title="REGIO SMARTV",TNT SPORTS
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=tnt-sports&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/fox-sports-premium1.png" group-title="REGIO SMARTV",FOX SPORTS PREMIUM
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=fox-sports-premium&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tudn.png" group-title="REGIO SMARTV",TUDN
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=tudn&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/goltvlatino.png" group-title="REGIO SMARTV",GOLTV Latino en vivo Online
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=goltvlatino&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/beinlatino.png" group-title="REGIO SMARTV",Bein Sports Latino en vivo Online
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=beinlatino&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/vtv.png" group-title="REGIO SMARTV",VTV URUGUAY
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=vtv&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/caracoltv.png" group-title="REGIO SMARTV",CARACOL TV
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=caracoltv&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/golperu.png" group-title="REGIO SMARTV",GOL PERU
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=golperu&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/cdf.png" group-title="REGIO SMARTV",CDF
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=cdfpremium&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxsports1ar.png" group-title="REGIO SMARTV",FOX SPORTS ARGENTINA
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=fox-sports1ar&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxsports2ar.png" group-title="REGIO SMARTV",FOX SPORTS 2 ARGENTINA
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=fox-sports2ar&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxsports3ar.png" group-title="REGIO SMARTV",FOX SPORTS 3 ARGENTINA
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=fox-sports3ar&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/espnar.png" group-title="REGIO SMARTV",ESPN ARGENTINA
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=espn1ar&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/espn2ar.png" group-title="REGIO SMARTV",ESPN 2 ARGENTINA
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=espn2ar&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/espn3ar.png" group-title="REGIO SMARTV",ESPN 3 ARGENTINA
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=espn3ar&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxsports1mx.png" group-title="REGIO SMARTV",FOX SPORTS MEXICO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=fox-sports1mx&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxsports2mx.png" group-title="REGIO SMARTV",FOX SPORTS 2 MEXICO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=fox-sports2mx&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxsports3mx.png" group-title="REGIO SMARTV",FOX SPORTS 3 MEXICO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=fox-sports3mx&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/espnmx.png" group-title="REGIO SMARTV",ESPN MEXICO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=espn1mx&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/espn2mx.png" group-title="REGIO SMARTV",ESPN 2 MEXICO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=espn2mx&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/espn3mx.png" group-title="REGIO SMARTV",ESPN 3 MEXICO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=espn3mx&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/espnmasar.png" group-title="REGIO SMARTV",ESPN + ARGENTINA
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=espn+ar&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/directvsports.png" group-title="REGIO SMARTV",DIRECTV SPORTS
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=directv-sports&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/directvsports2.png" group-title="REGIO SMARTV",DIRECTV SPORTS 2
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=directv-sports2&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/directv-sports-plus.png" group-title="REGIO SMARTV",DIRECTV SPORTS PLUS
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=directv-sports-plus&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tyc.png" group-title="REGIO SMARTV",TYC SPORTS
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=tyc&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/golflatino.png" group-title="REGIO SMARTV",GOLF CHANNEL
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=golflatino&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxaction.png" group-title="REGIO SMARTV",FOX PREMIUM ACTION
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=foxaction&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/adrenalinatv.png" group-title="REGIO SMARTV",ADRENALINA SPORTS
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=adrenalinatv&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/aym.png" group-title="REGIO SMARTV",AYM SPORTS
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=aymsports&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/univisiondeportes.png" group-title="REGIO SMARTV",UNIVISION DEPORTES
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=univisiondeportes&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/win.png" group-title="REGIO SMARTV",WIN SPORTS
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=winsports&f=.m3u8
+
+#EXTINF:-1 tvg-logo="/logos/telefe.png" group-title="REGIO SMARTV",TELEFE
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=telefe&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/eltrece.png" group-title="REGIO SMARTV",EL TRECE
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=eltrece&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/america2.png" group-title="REGIO SMARTV",AMERICA TV
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=america2&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tvpublica.png" group-title="REGIO SMARTV",TV PUBLICA
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=tvpublica&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tn.png" group-title="REGIO SMARTV",TN ARGENTINA
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=tn&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/c5n.png" group-title="REGIO SMARTV",C5N ARGENTINA
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=c5n&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/canalnueve.png" group-title="REGIO SMARTV",EL NUEVE
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=canal9ar&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/canal26.png" group-title="REGIO SMARTV",CANAL 26
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=canal26ar&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/cronicatv.png" group-title="REGIO SMARTV",CRONICA TV
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=cronicatv&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/ciudadmagazine.png" group-title="REGIO SMARTV",CIUDAD MAGAZINE
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=ciudadmagazine&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/a24.png" group-title="REGIO SMARTV",A 24
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=a24&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/vtv.png" group-title="REGIO SMARTV",VTV URUGUAY
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=vtv&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/caracoltv.png" group-title="REGIO SMARTV",CARACOL TV
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=caracoltv&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/televisabajio.png" group-title="REGIO SMARTV",TELEVISA DEL BAJIO-
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=canalbajio&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/canal5televisa.png" group-title="REGIO SMARTV",CANAL 5 TELEVISA
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=canal5televisa&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/azteca.png" group-title="REGIO SMARTV",AZTECA 1
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=azteca&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/azteca7.png" group-title="REGIO SMARTV",AZTECA SIETE
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=azteca7&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/aztecamas.png" group-title="REGIO SMARTV",AZTECA MAS
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=aztecamas&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/aztecacinema.png" group-title="REGIO SMARTV",AZTECA CINEMA
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=aztecacinema&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/aztecamundo.png" group-title="REGIO SMARTV",AZTECA MUNDO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=aztecamundo&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/aztecacorazon.png" group-title="REGIO SMARTV",AZTECA CORAZON
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=aztecacorazon&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/canalestrellas.png" group-title="REGIO SMARTV",CANAL LAS ESTRELLAS
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=canalestrellas&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/telenovelas.png" group-title="REGIO SMARTV",TLNOVELAS
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=telenovelas&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/mtvlatino.png" group-title="REGIO SMARTV",MTV LATINO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=mtv&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxlatino.png" group-title="REGIO SMARTV",FOX LATINO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=fox&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxaction.png" group-title="REGIO SMARTV",FOX PREMIUM ACTION
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=foxaction&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxseries.png" group-title="REGIO SMARTV",FOX PREMIUM SERIES
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=foxseries&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxfamily.png" group-title="REGIO SMARTV",FOX PREMIUM FAMILY
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=foxfamily&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxcinema.png" group-title="REGIO SMARTV",FOX PREMIUM CINEMA
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=foxcinema&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxcomedy.png" group-title="REGIO SMARTV",FOX PREMIUM COMEDY
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=foxcomedy&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxclassics.png" group-title="REGIO SMARTV",FOX PREMIUM CLASICS
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=foxclassics&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxmovies.png" group-title="REGIO SMARTV",FOX PREMIUM MOVIES
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=foxmovies&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxlifelatino.png" group-title="REGIO SMARTV",FOX LIFE LATINO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=foxlife&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/hbo.png" group-title="REGIO SMARTV",HBO LATINO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=hbo&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/hbo2.png" group-title="REGIO SMARTV",HBO 2
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=hbo2&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/hboplus.png" group-title="REGIO SMARTV",HBO PLUS
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=hboplus&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/hbofamily.png" group-title="REGIO SMARTV",HBO FAMILY
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=hbofamily&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/hbosignature.png" group-title="REGIO SMARTV",HBO SIGNATURE
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=hbosignature&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/hboxtreme.png" group-title="REGIO SMARTV",HBO XTREME
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=maxprime&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/hbomundi.png" group-title="REGIO SMARTV",HBO MUNDI
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=maxlatino&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/hbopop.png" group-title="REGIO SMARTV",HBO POP
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=maxup&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/golden.png" group-title="REGIO SMARTV",GOLDEN
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=golden&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/goldenplus.png" group-title="REGIO SMARTV",GOLDEN PLUS
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=goldenplus&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/goldenedge.png" group-title="REGIO SMARTV",GOLDEN EDGE
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=goldenedge&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/cinemax.png" group-title="REGIO SMARTV",CINEMAX
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=cinemax&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/cinecanal.png" group-title="REGIO SMARTV",CINECANAL
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=cinecanal&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tntlatino.png" group-title="REGIO SMARTV",TNT LATINO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=tnt&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tntseries.png" group-title="REGIO SMARTV",TNT SERIES
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=tntseries&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/axnlatino.png" group-title="REGIO SMARTV",AXN LATINO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=axn&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/amclatino.png" group-title="REGIO SMARTV",AMC LATINO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=amc&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tcmlatino.png" group-title="REGIO SMARTV",TCM LATINO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=tcm&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/syfy.png" group-title="REGIO SMARTV",SYFY LATINO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=syfy&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/fxm.png" group-title="REGIO SMARTV",FXM
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=fxm&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/fx.png" group-title="REGIO SMARTV",FX
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=fx&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/space.png" group-title="REGIO SMARTV",SPACE
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=space&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/comedycentrallatino.png" group-title="REGIO SMARTV",COMEDY CENTRAL LATINO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=comedycentral&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/paramountlatino.png" group-title="REGIO SMARTV",PARAMOUNT CHANNEL LATINO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=paramountchannel&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/sony.png" group-title="REGIO SMARTV",SONY
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=sony&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tbs.png" group-title="REGIO SMARTV",TBS
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=tbs&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/studiouniversal.png" group-title="REGIO SMARTV",STUDIO UNIVERSAL
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=studiouniversal&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/universalchannel.png" group-title="REGIO SMARTV",UNIVERSAL CHANNEL
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=universalchannel&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/warner.png" group-title="REGIO SMARTV",WARNER
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=warner&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/depelicula.png" group-title="REGIO SMARTV",DE PELICULA
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=depelicula&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/distritocomedia.png" group-title="REGIO SMARTV",DISTRITO COMEDIA
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=distritocomedia
+
+
+
+
+#EXTINF:-1 tvg-logo="/logos/historylatino.png" group-title="REGIO SMARTV",HISTORY
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=history&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/history2.png" group-title="REGIO SMARTV",HISTORY 2
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=history2&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/discoverychannellatino.png" group-title="REGIO SMARTV",DISCOVERY CHANNEL
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=discoverychannel&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tlc.png" group-title="REGIO SMARTV",DISCOVERY TLC
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=tlc&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/discoverycivilization.png" group-title="REGIO SMARTV",DISCOVERY CIVILIZATION
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=discoverycivilization&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/discoveryturbo.png" group-title="REGIO SMARTV",DISCOVERY TURBO
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=discoveryturbo&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/discoverytheater.png" group-title="REGIO SMARTV",DISCOVERY THEATER
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=discoverytheater&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/discoverysci.png" group-title="REGIO SMARTV",DISCOVERY SCIENCIE
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=discoverysciencie&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/invdiscovery.png" group-title="REGIO SMARTV",INVESTIGACION DISCOVERY
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=discoveryinvestigacion&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/discoveryhh.png" group-title="REGIO SMARTV",DISCOVERY H&H
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=discoveryhh&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/discoveryworl.png" group-title="REGIO SMARTV",DISCOVERY WORL
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=discoveryworl&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/nationalgeographiclatino.png" group-title="REGIO SMARTV",NATIONAL GEOGRAPHIC
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=nationalgeo&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/natgeowilllatino.png" group-title="REGIO SMARTV",NAT GEO WILL
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=nationalwill&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/ae.png" group-title="REGIO SMARTV",A&E
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=ae&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/animalplanet.png" group-title="REGIO SMARTV",ANIMAL PLANET
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=animalplanet&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="/logos/cartoonnetwork.png" group-title="REGIO SMARTV",cartoon network
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=infantiles&ch=cartoonnetwork&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/discoverykids.png" group-title="REGIO SMARTV",discovery kids
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=infantiles&ch=discoverykids&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/disneyjunior.png" group-title="REGIO SMARTV",disney junior
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=infantiles&ch=disneyjunior&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/disneyxd.png" group-title="REGIO SMARTV",disney xd
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=infantiles&ch=disneyxd&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/disneychannel.png" group-title="REGIO SMARTV",disney channel
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=infantiles&ch=disneychannel&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/nick.png" group-title="REGIO SMARTV",nick
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=infantiles&ch=nick&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/nicktoons.png" group-title="REGIO SMARTV",nicktoons
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=infantiles&ch=nicktoons&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/babyfirst.png" group-title="REGIO SMARTV",babyfirst
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=infantiles&ch=babyfirst&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tooncast.png" group-title="REGIO SMARTV",tooncast
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=infantiles&ch=tooncast&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/boomerang.png" group-title="REGIO SMARTV",boomerang
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=infantiles&ch=boomerang&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/boing.png" group-title="REGIO SMARTV",boing
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=infantiles&ch=boing&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/clantv.png" group-title="REGIO SMARTV",clantv
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=infantiles&ch=clantv&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/pakapaka.png" group-title="REGIO SMARTV",paka paka
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=infantiles&ch=pakapaka&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/kidstv.png" group-title="REGIO SMARTV",kidstv
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=infantiles&ch=kidstv&f=.m3u8
+
+EXTINF:-1,A+
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1_&f.m3u8
+EXTINF:-1, QUIERO TV
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=3_&f.m3u8
+EXTINF:-1, CANAL 10
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=4_&f.m3u8
+EXTINF:-1, DW
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=5_&f.m3u8
+EXTINF:-1, TV MAS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=6_&f.m3u8
+EXTINF:-1, TELEMAX
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=7_&f.m3u8
+EXTINF:-1, ADN40
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=15_&f.m3u8
+EXTINF:-1, MILENIO
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=17_&f.m3u8
+EXTINF:-1, SINCANAL01
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=21_&f.m3u8
+EXTINF:-1, TELE UNO TV
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=30_&f.m3u8
+EXTINF:-1, READY38
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=38_&f.m3u8
+EXTINF:-1, MICROVISION HD
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=39_&f.m3u8
+EXTINF:-1, PANAMERICANA
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=46_&f.m3u8
+EXTINF:-1, RCN
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=47_&f.m3u8
+EXTINF:-1, CANAL CLARO
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=59_&f.m3u8
+EXTINF:-1, LAS ESTRELLAS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=72_&f.m3u8
+EXTINF:-1, CARACOL TV
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=74_&f.m3u8
+EXTINF:-1, SINCANAL02
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=79_&f.m3u8
+EXTINF:-1, NFL NETWORK
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=83_&f.m3u8
+EXTINF:-1, UNIVISION
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=84_&f.m3u8
+EXTINF:-1, CINELATINO
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=85_&f.m3u8
+EXTINF:-1, UNIMAS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=86_&f.m3u8
+EXTINF:-1, GALAVISION
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=87_&f.m3u8
+EXTINF:-1, TUDN
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=88_&f.m3u8
+EXTINF:-1, GARAGE TV
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=91_&f.m3u8
+EXTINF:-1, MIAMITV
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=92_&f.m3u8
+EXTINF:-1, WOWTV
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=94_&f.m3u8
+
+
+
+EXTINF:-1, MVSTV
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=130_&f.m3u8
+EXTINF:-1, IMAGENTV
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=130_&f.m3u8
+EXTINF:-1, ESPN 2
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=131_&f.m3u8
+EXTINF:-1, NU9VE
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=132_&f.m3u8
+EXTINF:-1, AZTECA 7
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=133_&f.m3u8
+EXTINF:-1, CANAL 5
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=134_&f.m3u8
+EXTINF:-1, LAS ESTRELLAS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=135_&f.m3u8
+EXTINF:-1, SINCANAL04
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=136_&f.m3u8
+EXTINF:-1, DISTRITO COMEDIA
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=138_&f.m3u8
+EXTINF:-1, AXN
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=140_&f.m3u8
+EXTINF:-1, FOX CHANNEL
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=141_&f.m3u8
+EXTINF:-1, FX
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=142_&f.m3u8
+EXTINF:-1, SONY
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=143_&f.m3u8
+EXTINF:-1, UNIVERSAL CHANNEL
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=144_&f.m3u8
+EXTINF:-1, WARNER
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=146_&f.m3u8
+EXTINF:-1, A&E
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=147_&f.m3u8
+
+EXTINF:-1, MTV
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=154_&f.m3u8
+EXTINF:-1, EUROPA EUROPA
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=156_&f.m3u8
+EXTINF:-1, MORBIDO
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=158_&f.m3u8
+
+EXTINF:-1, HM HD TV
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=160_&f.m3u8
+EXTINF:-1, DPELICULA
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=163_&f.m3u8
+EXTINF:-1, FOX MOVIES
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=167_&f.m3u8
+EXTINF:-1, FOX ACTION
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=170_&f.m3u8
+EXTINF:-1, FXM
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=177_&f.m3u8
+EXTINF:-1, DPELICULA+
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=179_&f.m3u8
+EXTINF:-1, SPACE
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=180_&f.m3u8
+EXTINF:-1, TNT
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=181_&f.m3u8
+EXTINF:-1, AZTECA CINEMA
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=184_&f.m3u8
+EXTINF:-1, DISCOVERY WORLD
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=186_&f.m3u8
+EXTINF:-1, FOOD NETWORK
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=188_&f.m3u8
+EXTINF:-1, MASCHIC
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=190_&f.m3u8
+EXTINF:-1, H&H
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=199_&f.m3u8
+EXTINF:-1, HISTORY
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=201_&f.m3u8
+
+EXTINF:-1, MTV HITS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=215_&f.m3u8
+EXTINF:-1, VH1
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=216_&f.m3u8
+EXTINF:-1, HBO SIGNATURE
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=229_&f.m3u8
+EXTINF:-1, FOX COMEDY
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=234_&f.m3u8
+EXTINF:-1, GRUPO FORMULA
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=236_&f.m3u8
+
+EXTINF:-1, ONCE NIÑOS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=242_&f.m3u8
+EXTINF:-1, CNN ESPANOL
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=245_&f.m3u8
+EXTINF:-1, TVC
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=246_&f.m3u8
+EXTINF:-1, FOROTV
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=248_&f.m3u8
+EXTINF:-1, STARTVE
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=249_&f.m3u8
+EXTINF:-1, A3SERIES
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=250_&f.m3u8
+EXTINF:-1, GOLF USA
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=253_&f.m3u8
+EXTINF:-1, CLARO SPORTS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=254_&f.m3u8
+EXTINF:-1, FOX SPORTS 2 MX
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=260_&f.m3u8
+EXTINF:-1, FOX SPORTS 3 MX
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=261_&f.m3u8
+EXTINF:-1, TVC DEPORTES
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=264_&f.m3u8
+EXTINF:-1, ADRENALINA SPORTS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=265_&f.m3u8
+EXTINF:-1, TUDN
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=267_&f.m3u8
+
+EXTINF:-1, A&E
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1476_&f.m3u8
+EXTINF:-1, AMC
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1477_&f.m3u8
+EXTINF:-1, BABYTV
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1480_&f.m3u8
+EXTINF:-1, BOOMERANG
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1481_&f.m3u8
+EXTINF:-1, CINECANAL
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1482_&f.m3u8
+EXTINF:-1, COMEDY CENTRAL
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1483_&f.m3u8
+EXTINF:-1, DISCOVERY CHANNEL
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1486_&f.m3u8
+EXTINF:-1, DISNEY CHANNEL
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1488_&f.m3u8
+EXTINF:-1, DISNEY JR
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1489_&f.m3u8
+EXTINF:-1, DISNEY XD
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1490_&f.m3u8
+EXTINF:-1, XXX20
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1491_&f.m3u8
+EXTINF:-1, ESPN
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1492_&f.m3u8
+EXTINF:-1, FOX SPORTS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1493_&f.m3u8
+EXTINF:-1, FOX SERIES
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1495_&f.m3u8
+EXTINF:-1, FOX ACTION
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1496_&f.m3u8
+EXTINF:-1, FOX CLASSIC
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1498_&f.m3u8
+EXTINF:-1, FOX FAMILY
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1500_&f.m3u8
+EXTINF:-1, NAT GEO WILD
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1507_&f.m3u8
+EXTINF:-1, NAT GEO
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1508_&f.m3u8
+EXTINF:-1, TNT SERIES
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1510_&f.m3u8
+EXTINF:-1, DISCOVERY TURBO
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1511_&f.m3u8
+EXTINF:-1, DISCOVER ID
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1512_&f.m3u8
+EXTINF:-1, ANIMAL PLANET
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1513_&f.m3u8
+EXTINF:-1, CINEMAX
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1518_&f.m3u8
+EXTINF:-1, DISCOVERY KIDS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1520_&f.m3u8
+EXTINF:-1, E!
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1524_&f.m3u8
+EXTINF:-1, LIFETIME
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1528_&f.m3u8
+EXTINF:-1, H2
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1531_&f.m3u8
+EXTINF:-1, I SAT
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1533_&f.m3u8
+EXTINF:-1, HBO MUNDI
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1535_&f.m3u8
+EXTINF:-1, HBO XTREME
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1536_&f.m3u8
+EXTINF:-1, MTV LIVE
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1537_&f.m3u8
+EXTINF:-1, NICK JR
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1540_&f.m3u8
+EXTINF:-1, PARAMOUNT
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1543_&f.m3u8
+EXTINF:-1, SYFY
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1547_&f.m3u8
+EXTINF:-1, TBS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1548_&f.m3u8
+EXTINF:-1, DISCOVERY THEATHER
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1551_&f.m3u8
+EXTINF:-1, HBO
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1555_&f.m3u8
+EXTINF:-1, HBO FAMILY
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1556_&f.m3u8
+EXTINF:-1, HBO PLUS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1557_&f.m3u8
+EXTINF:-1, FOX LIFE
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1559_&f.m3u8
+EXTINF:-1, TLC
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1563_&f.m3u8
+EXTINF:-1, NAT GEO KIDS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1570_&f.m3u8
+EXTINF:-1, NICK
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1575_&f.m3u8
+EXTINF:-1, SINCANAL05
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1602_&f.m3u8
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1603_&f.m3u8
+EXTINF:-1, GALAVISION
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1604_&f.m3u8
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1605_&f.m3u8
+EXTINF:-1, GALAVISION
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1606_&f.m3u8
+EXTINF:-1, RCNOVELAS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1611_&f.m3u8
+EXTINF:-1, CLARO MUSICA TV
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1612_&f.m3u8
+EXTINF:-1, TELEHIT
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1613_&f.m3u8
+EXTINF:-1, DHE
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1614_&f.m3u8
+EXTINF:-1, DIRECTV
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1625_&f.m3u8
+EXTINF:-1, FOX CINEMA
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1626_&f.m3u8
+EXTINF:-1, CLARO CINEMA
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1637_&f.m3u8
+EXTINF:-1, CONCERT
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1639_&f.m3u8
+EXTINF:-1, CLARO MUSICA
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1650_&f.m3u8
+EXTINF:-1, WIN SPORTS +
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1670_&f.m3u8
+EXTINF:-1, PASIONES
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1671_&f.m3u8
+EXTINF:-1, AMC
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1672_&f.m3u8
+EXTINF:-1, ANTENA 3
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1674_&f.m3u8
+EXTINF:-1, AXN
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1675_&f.m3u8
+EXTINF:-1, SINCANAL06
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1678_&f.m3u8
+EXTINF:-1, SINCANAL07
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1683_&f.m3u8
+EXTINF:-1, DISCOVERY CIVILIZATION
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1689_&f.m3u8
+EXTINF:-1, E!
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1699_&f.m3u8
+EXTINF:-1, GLITZ
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1702_&f.m3u8
+EXTINF:-1, GOLDEN +
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1703_&f.m3u8
+EXTINF:-1, GOLDEN PREMIER
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1704_&f.m3u8
+EXTINF:-1, TEEN NICK
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1715_&f.m3u8
+EXTINF:-1, STUDIO UNIVERSAL
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1720_&f.m3u8
+EXTINF:-1, TCM
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1724_&f.m3u8
+EXTINF:-1, TOONCAST
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1728_&f.m3u8
+EXTINF:-1, NICK MUSIC
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1738_&f.m3u8
+EXTINF:-1, SINCANAL08
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1741_&f.m3u8
+EXTINF:-1, UNIMAS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1746_&f.m3u8
+EXTINF:-1, TELEMUNDO
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1751_&f.m3u8
+EXTINF:-1, BANDAMAX
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1757_&f.m3u8
+EXTINF:-1, SINCANAL09
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1761_&f.m3u8
+EXTINF:-1, TUDN
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1782_&f.m3u8
+EXTINF:-1, ANIMAL PLANET
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1786_&f.m3u8
+EXTINF:-1, ESPN2
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1794_&f.m3u8
+EXTINF:-1, ESPN
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1796_&f.m3u8
+EXTINF:-1, TELERIMTO
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1802_&f.m3u8
+EXTINF:-1, VIDEOROLA
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1808_&f.m3u8
+EXTINF:-1, GOURMET
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1811_&f.m3u8
+EXTINF:-1, HISTORY
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1812_&f.m3u8
+EXTINF:-1, CANAL ONCE
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1817_&f.m3u8
+EXTINF:-1, ESPN 2
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1834_&f.m3u8
+EXTINF:-1, ESPN
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1835_&f.m3u8
+EXTINF:-1, ESPN 3
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1836_&f.m3u8
+EXTINF:-1, ESPN DEPORTES
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1837_&f.m3u8
+EXTINF:-1, WINS PORTS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1843_&f.m3u8
+EXTINF:-1, BEIN SPORTS Ñ
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1844_&f.m3u8
+EXTINF:-1, NBC UNIVERSO
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1849_&f.m3u8
+EXTINF:-1, FOX SPORTS 2 SUR
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1850_&f.m3u8
+EXTINF:-1, FOX SPORTS SUR
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1851_&f.m3u8
+EXTINF:-1, HBO POP
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1855_&f.m3u8
+EXTINF:-1, MILENIO
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1859_&f.m3u8
+EXTINF:-1, CANAL 6
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1862_&f.m3u8
+EXTINF:-1, LIFETIME
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1865_&f.m3u8
+EXTINF:-1, CINE LATINO
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1866_&f.m3u8
+EXTINF:-1, MC
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1867_&f.m3u8
+EXTINF:-1, BEIN SPORTS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1868_&f.m3u8
+EXTINF:-1, ESPN 2
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1869_&f.m3u8
+EXTINF:-1, UNICABLE
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1871_&f.m3u8
+EXTINF:-1, SINCANAL10
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1872_&f.m3u8
+EXTINF:-1, FOX SPORTS MX
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1873_&f.m3u8
+EXTINF:-1, ESPN
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1876_&f.m3u8
+EXTINF:-1, AZTECA 7
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1877_&f.m3u8
